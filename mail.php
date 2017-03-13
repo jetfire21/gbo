@@ -6,6 +6,7 @@ function back_call(){
 		// if($_POST['email']) $arr['email'] = trim($_POST['email']);					
 		// if($_POST['message']) $arr['message'] = trim($_POST['message']);	
 		if($_POST['phone']) $arr['phone'] = trim(strip_tags($_POST['phone']));	
+		if($_POST['name_form']) $arr['name_form'] = trim(strip_tags($_POST['name_form']));	
 			
 		if( !empty($arr['name']) and !empty($arr['phone'])) {
 			
@@ -14,8 +15,8 @@ function back_call(){
 
 				$to = 'freerun-2012@yandex.ru'; /**** 21arenda@gmail.com ****/
 				$sitename = $_SERVER['HTTP_HOST'];
-				$subject = "Заявка с сайта установка gbo";
-				$message = "Имя: " .$arr['name'].  "\r\nТелефон: " . $arr['phone'];
+				$subject = "Заявка с сайта Установка ГБО";
+				$message = "Из формы: " .$arr['name_form'].  "\r\n Имя: " .$arr['name'].  "\r\nТелефон: " . $arr['phone'];
 				$headers = "From: {$sitename} <" .$to. ">\r\nContent-type:text/plain; charset=utf-8\r\n";
 				mail($to,$subject,$message,$headers);
 				$arr['res'] = 'success';

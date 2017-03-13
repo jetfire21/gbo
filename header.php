@@ -22,6 +22,7 @@
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 <?php wp_head(); ?>
+<script>var path_theme='<?php echo get_template_directory_uri()?>';</script>
 </head>
 <body>  
 
@@ -36,7 +37,7 @@
         </a>
 		<div class="head_middle">
 			<div class="button-head">
-					<a href="/site/application-form" class="btn-application">
+					<a href="#anchor_call_back" name="modal" class="btn-application">
 						<span>Заказать звонок</span>
 					</a>
 			</div>

@@ -45,6 +45,56 @@
        pagination: false,
   });
 
+    $('#form_call_back').submit(function(e){
+      e.preventDefault();
+      var obj = $(this);
+      // console.log(obj.parent().parent().find("p.m_n").text());
+      var name_form = obj.parent().parent().find("p.m_n").text();
+      // console.log("send form proposal");
+      var form_data = obj.serialize() + "&name_form="+name_form;;
+      // console.log(form_data);
+      // console.log($(this).html());
+
+      function ValidPhone(obj) {
+
+        // 8 (999) 123-45-64 или 8(999)123-45-64 или 8 (999)123-45-64
+          var re = /^[\d]{1} ?\([\d]{2,3}\) ?[\d]{2,3}-[\d]{2,3}-[\d]{2,3}$/;
+          // var re = /^[\d]{1}\ \([\d]{2,3}\)\ [\d]{2,3}-[\d]{2,3}-[\d]{2,3}$/;
+          var Phone = obj.find(".phone input").val();
+          // var Phone = obj.find("input[name='phone']").val();
+          var valid = re.test(Phone);
+          return valid;
+          // return Phone;
+          // return output;
+      } 
+      // console.log("valid "+ValidPhone( obj) );
+      // console.log(form_data);
+      obj.find(".phone .js-validation").remove();
+      obj.find(".name .js-validation").remove();
+      if( !ValidPhone(obj)){
+        obj.find(".phone").append( '<p class="js-validation">Номер телефона введен неправильно!<p>');
+        return false;
+      }
+       $.ajax({
+          type: 'post',
+               url: path_theme+'/mail.php',
+          data: form_data,
+          success: function(data){
+            var data = JSON.parse(data);
+          if(data.res == 'success') { 
+            alert("Ваше сообщение успешно отправлено!"); 
+            $(".window, #back_modal").hide();
+          }
+          if(data.res == 'error_empty') {
+            obj.find(".name").append( '<p class="js-validation">Поле не заполнено!<p>');
+          }
+          },
+          error:function(){
+          alert("error");
+        }
+      }); 
+    }); 
+
 	// alex code
   var pageHref =window.location.pathname;            
   jQuery('#menu-left li a').removeClass('active-menu-left');                 
