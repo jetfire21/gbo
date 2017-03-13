@@ -1,0 +1,17 @@
+.contacts-info .left {
+    float: left;
+    margin-right: 35px;
+    max-width: 340px;
+}
+
+.contacts-info .left p {
+	font-size: 17px;
+}
+.contacts-info .right {
+    float: left;
+
+}  
+
+.addres {
+	margin-top: 30px;
+}
