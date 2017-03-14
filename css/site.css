@@ -1,4 +1,4 @@
-lefhtml,
+1111lefhtml,
 body {
     height: 100%;
     box-sizing: border-box;
@@ -1562,7 +1562,13 @@ div.success_answer p {
   right: 16%;
   cursor: pointer;
 }
-
+.float-button-light2.page-price, .float-button-light2.page-price:hover, .float-button-light2.page-price:visited{ 
+	padding: 7px 15px !important;
+	position:static !important;
+	float: right;
+	margin-bottom: 15px;
+ }
+ .price-wrap-send-proposal{ overflow: hidden; }
 
 /*.bx-wrapper .bx-controls-direction a:nth-child(2)  { left:96.5%;   display: none !important;  }*/
 /*.bx-wrapper { max-width: 740px !important; margin-left: 20px;}*/

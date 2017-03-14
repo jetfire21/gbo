@@ -86,20 +86,20 @@
 		<div class="advant-wrap"><h2 class="advantage-middle">Почему вам стоит работать с нами?</h2></div>
 
 		<div class="utp-row home-bot-icon">
-		 	<a href="#washing" name="modal">
-		    <div class="block-box first water">
-		        <p>Бесплатная мойка автомобиля<br>перед установкой</p>	
-		    </div>
+			<a href="#washing" name="modal">
+				<div class="block-box first water">
+					<p>Бесплатная мойка автомобиля<br>перед установкой</p>	
+				</div>
 			</a>
-		 	<a href="/ustanovka-gbo-v-rassrochku/">
-		    <div class="block-box middle credit">
-		        <p>Рассрочка 0% на 12 месяцев</p>	
-		    </div>
+			<a href="/ustanovka-gbo-v-rassrochku/">
+				<div class="block-box middle credit">
+					<p>Рассрочка 0% на 12 месяцев</p>	
+				</div>
 			</a>
-		 	<a href="#">
-		    <div class="block-box last setup">
-		        <p>Установка ГБО от 15000 рублей</p>	
-		    </div>
+			<a href="#">
+				<div class="block-box last setup">
+					<p>Установка ГБО от 15000 рублей</p>	
+				</div>
 			</a>
 			<div class="clear"></div>
 		</div>

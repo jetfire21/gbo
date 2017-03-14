@@ -102,10 +102,10 @@
     </div>
     <a href="#" class="close">&#10005;</a>
 </div>
-<!-- <div id="back_modal"></div> -->
+<div id="back_modal"></div>
 </div>
 
-<?php if( is_front_page()):?>
+<?php if( is_front_page() || is_page('prajs-list')):?>
 
 	        <div id="boxes">
             <div id="anchor_proposal" class="window">
@@ -126,7 +126,7 @@
                 </div>
                 <a href="#" class="close">&#10005;</a>
             </div>
-            <!-- <div id="back_modal"></div> -->
+            <div id="back_modal"></div>
         </div>
 	<script>
 
@@ -137,12 +137,7 @@
 	                
 		// Initialise Waves with the config
 		Waves.init(config);
-	    // Waves.attach('.flat-buttons', ['waves-button']);
-	    // Waves.attach('.float-buttons', ['waves-button', 'waves-float']);
-	    // Waves.attach('.float-button-light', ['waves-button', 'waves-light' ]);
-	    Waves.attach('.float-button-light', ['waves-button', 'waves-light' ]);
 	    Waves.attach('.float-button-light2', ['waves-button', 'waves-light' ]);
-	    Waves.attach('.float-button-light3', ['waves-button', 'waves-light' ]);
 	    // Waves.attach('.float-button-light', ['waves-button',  'waves-ripple' ]);
 
 	    // $( ".float-button-light" ).on( "click", function() {
@@ -156,9 +151,7 @@
 
 				function blink(){
 				  setInterval(function() {
-				  	 Waves.ripple('.float-button-light', options);
 				  	 Waves.ripple('.float-button-light2', options);
-				  	 Waves.ripple('.float-button-light3', options);
 				  	 // Waves.ripple('.float-button-light');
 				  }, 2000);			  
 				}
