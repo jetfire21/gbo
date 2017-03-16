@@ -1557,16 +1557,24 @@ div.success_answer p {
 
 .js-validation{color: red !important;}
 .float-button-light2 {
-  position: absolute !important;
-  top:2%;
-  right: 16%;
+  /*position: absolute !important;*/
+  position: static !important;
+  text-transform: initial;
+  font-weight: bold;
+  /*top:2%;*/
+  /*right: 16%;*/
+  bottom: 200px;
   cursor: pointer;
 }
+
+.price_backfround_txt_right { padding-top: 0; line-height: 39px;   padding-right: 30px;}
 .float-button-light2.page-price, .float-button-light2.page-price:hover, .float-button-light2.page-price:visited{ 
 	padding: 7px 15px !important;
 	position:static !important;
 	float: right;
-	margin-bottom: 15px;
+	/*margin-bottom: 15px;*/
+	/*margin-bottom: 0;*/
+	margin: 5px 0 0 20px;
  }
  .price-wrap-send-proposal{ overflow: hidden; }
 

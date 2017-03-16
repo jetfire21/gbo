@@ -45,7 +45,11 @@
 	        <div class="footer_left">
 	            <!-- <a href="/"><div class="logo"><img src="/img/logo-footer.png"></div></a> -->
 	            <!-- <!-- <a href="/"><div class="logo"><img src="/img/alex/footer_audi.png"></div></a> -->
-	            <a href="/"><div class="logo"><img src="<?php echo get_template_directory_uri();?>/img/alex/logo.png"></div></a>
+	            <a href="/">
+	            	<!-- <div class="logo"><img src="<?php echo get_template_directory_uri();?>/img/alex/logo.png"></div> -->
+	            	<!-- <div class="logo"><img src="<?php echo get_template_directory_uri();?>/img/alex/logo-n4.png"></div> -->
+	            	<div class="logo"><img src="<?php echo get_template_directory_uri();?>/img/alex/logo-n4del.png"></div>
+	            </a>
 	            <div class="text-footer">Качественная и надёжная установка
 	                                   ГБО <b>с Газовик</b>
 	            </div>
@@ -58,11 +62,11 @@
 	        <div class="footer_end">
 		        <div class="contacts">
 		            <div class="cont-tel ttm">
-		                <div class="tel-2"> <span class="tel">+7 (937) 989-09-88</span></div>
+		                <div class="tel-2"> <span class="tel"><?php echo get_option('option_phone');?></span></div>
 		            </div>
 		            <div class="last_foot">
 		                <div class="cont-text">Круглосуточно по записи</div>
-		                <div class="cont-addres">г. Чебоксары, ул. Пятигорская, д.13 </div>
+		                <div class="cont-addres"><?php echo get_option('option_address');?> </div>
 		            </div>
 		        </div>
 		        <div class="metr">
@@ -108,8 +112,30 @@
 <?php if( is_front_page() || is_page('prajs-list')):?>
 
 	        <div id="boxes">
+            <div id="anchor_get_consult" class="window">
+                <p class="m_n">Получить консультацию</p>
+                <div class="success_answer"><p></p></div>
+                <div class="callback_body">
+                    <form method="POST" id="form_get_consult" class="main_page_form">
+                        <div class="name">
+                            <p>Ваше имя:</p>
+                            <input type="text" name="name" required placeholder="ФИО" x-autocompletetype="name">
+                        </div>
+                        <div class="phone">
+                            <p>Ваш телефон:</p>
+                            <input type="text" name="phone" required placeholder="8(999)123-45-64">
+                        </div>
+                        <input type="submit" value="Отправить" id="send_proposal">
+                    </form>
+                </div>
+                <a href="#" class="close">&#10005;</a>
+            </div>
+            <div id="back_modal"></div>
+        </div>
+
+        <div id="boxes">
             <div id="anchor_proposal" class="window">
-                <p class="m_n">Заявка на установку ГБО</p>
+                <p class="m_n">Оставить заявку</p>
                 <div class="success_answer"><p></p></div>
                 <div class="callback_body">
                     <form method="POST" id="form_proposal" class="main_page_form">
@@ -137,30 +163,50 @@
 	                
 		// Initialise Waves with the config
 		Waves.init(config);
-	    Waves.attach('.float-button-light2', ['waves-button', 'waves-light' ]);
+	    // Waves.attach('.float-button-light2', ['waves-button', 'waves-light' ]);
+	    Waves.attach('.a21_btn_home_blink', ['waves-button', 'waves-light' ]);
+	    Waves.attach('.a21_btn_blink', ['waves-button', 'waves-light' ]);
+	    Waves.attach('.a21_btn_blink2', ['waves-button', 'waves-light' ]);
+	    Waves.attach('.a21_btn_blink3', ['waves-button', 'waves-light' ]);
+	    Waves.attach('.a21_btn_blink4', ['waves-button', 'waves-light' ]);
 	    // Waves.attach('.float-button-light', ['waves-button',  'waves-ripple' ]);
 
 	    // $( ".float-button-light" ).on( "click", function() {
-	    $( ".float-button-light2" ).load(function() {
+	    // $( ".float-button-light2" ).load(function() {
+	    $( ".a21_btn_blink,.a21_btn_home_blink" ).load(function() {
 			 console.log( $( this ).text() );
 				 // Ripple with a 1s delay between starting
 				// and stopping the ripple, centred at 
 				var options = { wait: 500, //ms
 				   				 position: { x: 0, y: 0  } //px // This position relative to HTML element
 				};
+				var options2 = { wait: 600, //ms
+				   				 position: { x: 0, y: 0  } //px // This position relative to HTML element
+				};
 
 				function blink(){
 				  setInterval(function() {
-				  	 Waves.ripple('.float-button-light2', options);
-				  	 // Waves.ripple('.float-button-light');
-				  }, 2000);			  
+				  	 Waves.ripple('.a21_btn_blink', options);
+				  	 Waves.ripple('.a21_btn_blink3', options);
+				  	 Waves.ripple('.a21_btn_home_blink', options);
+				  }, 1500);			  
+				}
+
+				function blink2(){
+				  setInterval(function() {
+				  	 Waves.ripple('.a21_btn_blink2', options2);
+				  	 Waves.ripple('.a21_btn_blink4', options2);
+				  }, 2100);			  
 				}
 
 				 blink();				 
+				 blink2();				 
 		});
-		$( ".float-button-light2" ).trigger( "load" ); // искусственно вызвыаем событие load
+		// $( ".float-button-light2" ).trigger( "load" ); // искусственно вызвыаем событие load
+		$( ".a21_btn_blink,.a21_btn_home_blink" ).trigger( "load" ); // искусственно вызвыаем событие load
 
-	 	$('#form_proposal').submit(function(e){
+
+	 	$('#form_proposal,#form_get_consult').submit(function(e){
 			e.preventDefault();
 			var obj = $(this);
 			// console.log(obj.parent().parent().find("p.m_n").text());

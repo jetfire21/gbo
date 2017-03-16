@@ -23,12 +23,11 @@
     <div class="contact_text">
         <p>
         <strong><span class="contico i1">Телефон:</span><br> </strong>
-        <span class="tel">+7 (846) 989-09-88</span><br>
-        <span class="tel">+7 (937) 989-09-88</span>
+        <span class="tel"><?php echo get_option('option_phone');?></span>
         </p>
 
         <p><strong><span class="contico i2">E-mail:</span><br> </strong><a href="mailto:samaragazpro@mail.ru">samaragazpro@mail.ru</a></p>
-        <p><strong>Адрес:</strong> <br> г. Самара, ул. Пятигорская, д.13 </p>
+        <p><strong>Адрес:</strong> <br> <?php echo get_option('option_address');?> </p>
         <p><strong>Время работы:</span><br></strong>Понедельник - Суббота<br>9:00-18:00</p>
         <div class="clear"></div>
     </div>

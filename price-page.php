@@ -20,13 +20,19 @@
 		<div class="content-block">
 			<div class="inner_hbg"><h2 class="title-page">Цены на установку ГБО</h2></div>
 			<div>
-
- 			<div class="price-wrap-send-proposal"><a href="#anchor_proposal" name="modal" class="btn float-button-light2 page-price">Оставить заявку</a></div>
+<!-- 
+			<div class="price-wrap-send-proposal">
+				<a href="#anchor_proposal" name="modal" class="btn float-button-light2 page-price a21_btn_blink">Оставить заявку</a>
+			</div>
+ -->				
 			<div class="price_gbo_line">
 				<div class="price_gbo_line_backfround">
 					<div class="price_backfround_img">
 						<div class="price_backfround_txt_left">Установка гбо 4-го поколения (4 цилиндра)</div>
-						<div class="price_backfround_txt_right">от 22.000 P</div>
+						<div class="price_backfround_txt_right">
+						<span>от 22.000 P</span>
+						<a href="#anchor_proposal" name="modal" class="btn float-button-light2 page-price a21_btn_blink">Оставить заявку</a>
+						</div>
 					</div>
 					<hr />
 					<div class="price_gbo_line_box">
@@ -45,13 +51,19 @@
 					</div>
 				</div>
 			</div>
-
- 			<div class="price-wrap-send-proposal"><a href="#anchor_proposal" name="modal" class="btn float-button-light2 page-price">Оставить заявку</a></div>
+<!-- 
+ 			<div class="price-wrap-send-proposal">
+ 				<a href="#anchor_proposal" name="modal" class="btn float-button-light2 page-price a21_btn_blink2">Оставить заявку</a>
+ 			</div>
+ --> 			
 			<div class="price_gbo_line">
 				<div class="price_gbo_line_backfround">
 					<div class="price_backfround_img">
 						<div class="price_backfround_txt_left">Установка гбо 4-го поколения (6 цилиндров)</div>
-						<div class="price_backfround_txt_right">от 36.000 P</div>
+						<div class="price_backfround_txt_right">
+							от 36.000 P
+							<a href="#anchor_proposal" name="modal" class="btn float-button-light2 page-price a21_btn_blink2">Оставить заявку</a>
+						</div>
 					</div>
 					<hr />
 					<div class="price_gbo_line_box">
@@ -71,12 +83,16 @@
 				</div>
 			</div>
 
- 			<div class="price-wrap-send-proposal"><a href="#anchor_proposal" name="modal" class="btn float-button-light2 page-price">Оставить заявку</a></div>
+<!--  			<div class="price-wrap-send-proposal"><a href="#anchor_proposal" name="modal" class="btn float-button-light2 page-price a21_btn_blink3">Оставить заявку</a></div>
+ --> 			
 			<div class="price_gbo_line">
 				<div class="price_gbo_line_backfround">
 					<div class="price_backfround_img">
 						<div class="price_backfround_txt_left">Установка гбо 4-го поколения (8 цилиндров)</div>
-						<div class="price_backfround_txt_right">от 40.000 P</div>
+						<div class="price_backfround_txt_right">
+						от 40.000 P
+			 			<a href="#anchor_proposal" name="modal" class="btn float-button-light2 page-price a21_btn_blink3">Оставить заявку</a>
+						</div>
 					</div>
 					<hr />
 					<div class="price_gbo_line_box">
@@ -96,12 +112,16 @@
 				</div>
 			</div>
 
- 			<div class="price-wrap-send-proposal"><a href="#anchor_proposal" name="modal" class="btn float-button-light2 page-price">Оставить заявку</a></div>
+<!--  			<div class="price-wrap-send-proposal"><a href="#anchor_proposal" name="modal" class="btn float-button-light2 page-price a21_btn_blink4">Оставить заявку</a></div>
+ --> 			
 			<div class="price_gbo_line">
 				<div class="price_gbo_line_backfround">
 					<div class="price_backfround_img">
 						<div class="price_backfround_txt_left">Установка гбо 4-го поколения</div>
-						<div class="price_backfround_txt_right">от 24.000 P</div>
+						<div class="price_backfround_txt_right">
+						от 24.000 P
+			 			<a href="#anchor_proposal" name="modal" class="btn float-button-light2 page-price a21_btn_blink4">Оставить заявку</a>
+						</div>
 					</div>
 					<hr />
 					<div class="price_gbo_line_box">

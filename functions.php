@@ -58,3 +58,53 @@ function css_js_for_theme(){
    	   wp_enqueue_style( 'waves-css', get_template_directory_uri()."/js/waves/waves.css");
     }
 }
+
+
+/* ********** */
+
+add_action( 'admin_init', 'alex21_register_settings' );
+/*  Register settings */
+function alex21_register_settings() 
+{
+    register_setting( 
+        'general', 
+        'option_address',
+        'esc_html' // <--- Customize this if there are multiple fields
+    );
+    register_setting( 
+        'general', 
+        'option_phone',
+        'esc_html' // <--- Customize this if there are multiple fields
+    );
+    // add_settings_section( 
+    //     'site-guide', 
+    //     'Name section', 
+    //     '__return_false', 
+    //     'general' 
+    // );
+    add_settings_field( 
+        'phone_id', 
+        'Телефон:', 
+        'alex21_add_html_for_option_phone', 
+        'general'
+        // 'site-guide' 
+    );
+    add_settings_field( 
+        'address_id', 
+        'Адрес:', 
+        'alex21_add_html_for_option', 
+        'general'
+        // 'site-guide' 
+    );
+}    
+/* Print settings field content */
+function alex21_add_html_for_option_phone() 
+{
+    $value = html_entity_decode (get_option( 'option_phone' ));
+    echo '<input type="text" class="regular-text" id="phone_id" name="option_phone" value="' . esc_attr( $value ) . '"/>';
+}
+function alex21_add_html_for_option() 
+{
+    $value = html_entity_decode (get_option( 'option_address' ));
+    echo '<textarea class="large-text code" id="address_id" name="option_address">' . esc_attr( $value ) . '</textarea>';
+}

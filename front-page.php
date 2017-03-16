@@ -7,22 +7,26 @@
 <div class="breadcrumbs page_middle"> </div>   
 
 <div class="content">
- <a href="#anchor_proposal" name="modal" class="btn float-button-light2">Оставить заявку на установку ГБО</a>
-
+<!--  <a href="#anchor_proposal" name="modal" class="btn float-button-light2">Получить консультацию</a>
+ -->
 	<div class="clear"></div>
 
 	<div sytle="position:relative;">
 		<div id="owl-home-slider" class="owl-home-slider owl-carousel owl-theme">
-		<div class="item">
-			 <!-- <button class="btn float-button-light2">Оставить заявку на установку ГБО</button> -->
+<!-- 		<div class="item">
 	 		<h2>Слайдер 1</h2>
 			<p>ГАЗОВЫЙ АВТОТЕХЦЕНТР</p>
-			<!-- <div class="slide-img" style="background: url(<?php echo get_template_directory_uri();?>/img/alex/slide-var1.jpg) center center;height:506px;"></div> -->
 			<div class="slide-img" style="background-image: url(<?php echo get_template_directory_uri();?>/img/alex/slide-var1.jpg);"></div>
 		</div>
-		 <div class="item">
-			<h2>Слайдер 2</h2>
-			<p>Специализорованный технический центр </p>
+ -->	
+    	 <div class="item">
+    		 <div class="wrapper">
+	    	 	<div class="home-slider-texts">
+					<h2>Установка ГБО в Чебоксарах с гарантией до 5 лет</h2>
+					<p>Экономьте на топливе до 50%, установка за один день</p>
+					 <a href="#anchor_get_consult" name="modal" class="btn float-button-light2 a21_btn_home_blink">Получить консультацию</a>
+				 </div>
+			 </div>
 			<!-- <div class="slide-img" style="background: url(<?php echo get_template_directory_uri();?>/img/alex/slide-var2.jpg) center center;height:506px;"></div> -->
 			<div class="slide-img" style="background-image: url(<?php echo get_template_directory_uri();?>/img/alex/slide-var2.jpg);"></div>
 		</div>

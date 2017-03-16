@@ -32,7 +32,9 @@
     <div class="wrapper page_middle">
         <a href="/"><div class="logo">
      	   <!-- <img src="/img/logo.png">-->
-     	   <img src="<?php echo get_template_directory_uri();?>/img/alex/logo.png">
+         <!-- <img src="<?php echo get_template_directory_uri();?>/img/alex/logo.png"> -->
+         <!-- <img src="<?php echo get_template_directory_uri();?>/img/alex/logo-n4.png"> -->
+     	   <img src="<?php echo get_template_directory_uri();?>/img/alex/logo-n4del.png">
      	  </div>
         </a>
 		<div class="head_middle">
@@ -44,7 +46,8 @@
 			<div class="text-head">Работаем круглосуточно по записи</div>
 		</div>	
         <div class="contacts">
-            <div class="tel-1"><span class="tel">+7 (846) 989-09-88</span></div>
+            <div class="tel-1"><span class="tel"><?php echo get_option('option_phone'); ?></span></div>
+            <!-- <div class="tel-1"><span class="tel">+7 (846) 989-09-88</span></div> -->
         </div>
     </div>
 </div>
