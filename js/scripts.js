@@ -95,6 +95,36 @@
       }); 
     }); 
 
+    /* ******** *********** */
+        var config = {
+        duration: 1500,
+        delay: 200
+    };
+                  
+    // Initialise Waves with the config
+    Waves.init(config);
+      Waves.attach('.a21_btn_home_call_blink', ['waves-button', 'waves-light' ]);
+
+      $( ".a21_btn_home_call_blink").load(function() {
+        console.log( $( this ).text() );
+         // Ripple with a 1s delay between starting
+        // and stopping the ripple, centred at 
+        var options3 = { wait: 200, //ms
+                   position: { x: 150, y: 0  } //px // This position relative to HTML element
+        };
+
+        function blink(){
+          setInterval(function() {
+             Waves.ripple('.a21_btn_home_call_blink', options3);
+             console.log('blink 3');
+          }, 2000);       
+        }
+         blink();        
+    });
+    $( ".a21_btn_home_call_blink" ).trigger( "load" ); // искусственно вызвыаем событие load
+
+    /* ******** *********** */
+
 	// alex code
   var pageHref =window.location.pathname;            
   jQuery('#menu-left li a').removeClass('active-menu-left');                 

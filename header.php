@@ -39,9 +39,8 @@
         </a>
 		<div class="head_middle">
 			<div class="button-head">
-					<a href="#anchor_call_back" name="modal" class="btn-application">
-						<span>Заказать звонок</span>
-					</a>
+					<!-- <a href="#anchor_call_back" name="modal" class="btn-application"><span>Заказать звонок</span></a> -->
+          <a href="#anchor_call_back" name="modal" class="btn float-button-light2 a21_btn_home_call_blink">Заказать звонок</a>
 			</div>
 			<div class="text-head">Работаем круглосуточно по записи</div>
 		</div>	

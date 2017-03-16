@@ -1568,6 +1568,20 @@ div.success_answer p {
 }
 
 .price_backfround_txt_right { padding-top: 0; line-height: 39px;   padding-right: 30px;}
+.a21_btn_home_call_blink,.a21_btn_home_call_blink:hover,.a21_btn_home_call_blink:visited{
+	 background: #5b83c0 !important; padding:6px 15px 5px 38px !important; font-size:12px !important; line-height: 17px !important;}
+.button-head{ padding-left: 0;padding-top: 0; background: none; }
+.a21_btn_home_call_blink:before{ 
+	content: ' ';
+    position: absolute;
+    background-image: url(../img/call.png);
+    background-repeat: no-repeat;
+    width: 21px;
+    height: 21px;
+    top: 4px;
+    left: 11px;
+ }
+.a21_btn_home_blink2{ background: #19a004 !important; }
 .float-button-light2.page-price, .float-button-light2.page-price:hover, .float-button-light2.page-price:visited{ 
 	padding: 7px 15px !important;
 	position:static !important;
@@ -1577,6 +1591,13 @@ div.success_answer p {
 	margin: 5px 0 0 20px;
  }
  .price-wrap-send-proposal{ overflow: hidden; }
+
+.price_on_install{text-align: center; margin-bottom: 50px; margin-top: 10px;}
+ .price_on_install img{ height: 117px; margin: 40px 0; }
+ .price_on_install p{ font-size: 28px; color: red; }
+
+.block-credit{ text-align: center; background-color: red; margin-bottom: 60px; padding: 30px 0;}
+.block-credit h3{ font-size: 35px; color: #fff !important; margin-top:0; padding: 0 60px;}
 
 /*.bx-wrapper .bx-controls-direction a:nth-child(2)  { left:96.5%;   display: none !important;  }*/
 /*.bx-wrapper { max-width: 740px !important; margin-left: 20px;}*/

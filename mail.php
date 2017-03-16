@@ -14,11 +14,13 @@ function back_call(){
 			// {
 
 				$to = 'freerun-2012@yandex.ru'; /**** 21arenda@gmail.com ****/
+				$to2 = 'gazoved21@mail.ru'; /**** 21arenda@gmail.com ****/
 				$sitename = $_SERVER['HTTP_HOST'];
 				$subject = "Заявка с сайта Установка ГБО";
 				$message = "Из формы: " .$arr['name_form'].  "\r\n Имя: " .$arr['name'].  "\r\nТелефон: " . $arr['phone'];
 				$headers = "From: {$sitename} <" .$to. ">\r\nContent-type:text/plain; charset=utf-8\r\n";
 				mail($to,$subject,$message,$headers);
+				mail($to2,$subject,$message,$headers);
 				$arr['res'] = 'success';
 				echo json_encode($arr); 
 			// }

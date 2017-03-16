@@ -52,11 +52,11 @@ function css_js_for_theme(){
    	   wp_enqueue_style( 'lightbox-css', get_template_directory_uri()."/libs/lightbox/css/lightbox.min.css");
        wp_enqueue_script('lightbox-js', get_template_directory_uri()."/libs/lightbox/js/lightbox.min.js",array('jquery'),'',true);
     }
-    if( is_front_page() || is_page('prajs-list')){
+    // if( is_front_page() || is_page('prajs-list')){
     	// /home/jetfire/www/gbo.dev/wp-content/themes/gbo/js/waves/waves.min.js
     	wp_enqueue_script('waves-js', get_template_directory_uri()."/js/waves/waves.min.js",array('jquery'),'',true);
    	   wp_enqueue_style( 'waves-css', get_template_directory_uri()."/js/waves/waves.css");
-    }
+    // }
 }
 
 

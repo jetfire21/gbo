@@ -165,6 +165,8 @@
 		Waves.init(config);
 	    // Waves.attach('.float-button-light2', ['waves-button', 'waves-light' ]);
 	    Waves.attach('.a21_btn_home_blink', ['waves-button', 'waves-light' ]);
+	    // Waves.attach('.a21_btn_home_call_blink', ['waves-button', 'waves-light' ]);
+	    Waves.attach('.a21_btn_home_blink2', ['waves-button', 'waves-light' ]);
 	    Waves.attach('.a21_btn_blink', ['waves-button', 'waves-light' ]);
 	    Waves.attach('.a21_btn_blink2', ['waves-button', 'waves-light' ]);
 	    Waves.attach('.a21_btn_blink3', ['waves-button', 'waves-light' ]);
@@ -189,6 +191,8 @@
 				  	 Waves.ripple('.a21_btn_blink', options);
 				  	 Waves.ripple('.a21_btn_blink3', options);
 				  	 Waves.ripple('.a21_btn_home_blink', options);
+				  	 Waves.ripple('.a21_btn_home_blink2', options);
+				  	 console.log('blink 1');
 				  }, 1500);			  
 				}
 
@@ -196,6 +200,8 @@
 				  setInterval(function() {
 				  	 Waves.ripple('.a21_btn_blink2', options2);
 				  	 Waves.ripple('.a21_btn_blink4', options2);
+				  	 // Waves.ripple('.a21_btn_home_call_blink', options2);
+				  	 console.log('blink 2');
 				  }, 2100);			  
 				}
 

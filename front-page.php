@@ -6,7 +6,7 @@
 <div class="clear"></div>
 <div class="breadcrumbs page_middle"> </div>   
 
-<div class="content">
+<div class="content front-page">
 <!--  <a href="#anchor_proposal" name="modal" class="btn float-button-light2">Получить консультацию</a>
  -->
 	<div class="clear"></div>
@@ -107,6 +107,32 @@
 			</a>
 			<div class="clear"></div>
 		</div>
+
+
+		<div class="price_on_install row">
+			<h2>Цены на установку ГБО</h2>
+			<div class="col-md-4">
+			<h3>4 цилиндра</h3>
+			<img src="<?php echo get_template_directory_uri();?>/img/alex/opel-4-c.png" alt="">
+			<p>от 22 000 р</p>
+			</div>
+			<div class="col-md-4">
+			<h3>6 цилиндров</h3>
+			<img src="<?php echo get_template_directory_uri();?>/img/alex/audi-6-c.png" alt="">
+			<p>от 36 000 р</p>			
+			</div>
+			<div class="col-md-4">
+			<h3>8 цилиндров</h3>
+			<img src="<?php echo get_template_directory_uri();?>/img/alex/toyota-8-c.png" alt="">
+			<p>от 40 000 р</p>			
+			</div>
+		</div>
+
+		<div class="block-credit">
+			<h3>Вы можете установить ГБО в рассрочку до 6 месяцев под 0% годовых</h3>
+			 <a href="#anchor_get_consult" name="modal" class="btn float-button-light2 a21_btn_home_blink2">Получить консультацию</a>
+		</div>
+
 
 		<div class="protection page_middle">
 			<div style="clear: both;"></div>

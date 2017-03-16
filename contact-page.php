@@ -26,7 +26,7 @@
         <span class="tel"><?php echo get_option('option_phone');?></span>
         </p>
 
-        <p><strong><span class="contico i2">E-mail:</span><br> </strong><a href="mailto:samaragazpro@mail.ru">samaragazpro@mail.ru</a></p>
+        <p><strong><span class="contico i2">E-mail:</span><br> </strong><a href="mailto:gazoved21@mail.ru">gazoved21@mail.ru</a></p>
         <p><strong>Адрес:</strong> <br> <?php echo get_option('option_address');?> </p>
         <p><strong>Время работы:</span><br></strong>Понедельник - Суббота<br>9:00-18:00</p>
         <div class="clear"></div>
