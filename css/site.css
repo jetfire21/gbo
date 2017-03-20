@@ -163,7 +163,7 @@ div.right {
     /*background-color: #610a02;*/
     background-color: #610a02;
     /*background-color: rgba(97, 10, 2, 1);*/
-    border-top: 1px solid #ddd;
+    /*border-top: 1px solid #ddd;*/
 }
 
 #nav {
@@ -1556,6 +1556,7 @@ div.success_answer p {
 .categoriesContainer {overflow: hidden;}
 
 .js-validation{color: red !important;}
+.a21_btn_home_blink2{margin-top: 15px;}
 .float-button-light2 {
   /*position: absolute !important;*/
   position: static !important;
@@ -1592,12 +1593,15 @@ div.success_answer p {
  }
  .price-wrap-send-proposal{ overflow: hidden; }
 
-.price_on_install{text-align: center; margin-bottom: 50px; margin-top: 10px;}
+.price_on_install{ overflow:hidden; text-align: center; /*margin-bottom: 50px;*/ padding: 50px 0; margin-top: 10px; background: #eaeaf1;}
  .price_on_install img{ height: 117px; margin: 40px 0; }
  .price_on_install p{ font-size: 28px; color: red; }
 
-.block-credit{ text-align: center; background-color: red; margin-bottom: 60px; padding: 30px 0;}
-.block-credit h3{ font-size: 35px; color: #fff !important; margin-top:0; padding: 0 60px;}
+.block-credit{ text-align: center; background-color: red;
+ /*margin-bottom: 60px;*/
+ margin-bottom: 0;
+  padding: 50px 0;}
+.block-credit h3{ font-size: 35px; color: #fff !important; margin-top:0; padding: 0 40px;}
 
 /*.bx-wrapper .bx-controls-direction a:nth-child(2)  { left:96.5%;   display: none !important;  }*/
 /*.bx-wrapper { max-width: 740px !important; margin-left: 20px;}*/

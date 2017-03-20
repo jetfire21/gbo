@@ -72,7 +72,7 @@
       obj.find(".phone .js-validation").remove();
       obj.find(".name .js-validation").remove();
       if( !ValidPhone(obj)){
-        obj.find(".phone").append( '<p class="js-validation">Номер телефона введен неправильно!<p>');
+        obj.find(".phone").append( '<p class="js-validation">Номер телефона введен неправильно! Должен быть в формате: 8 (999) 999-99-99<p>');
         return false;
       }
        $.ajax({

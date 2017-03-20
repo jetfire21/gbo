@@ -22,13 +22,14 @@
     	 <div class="item">
     		 <div class="wrapper">
 	    	 	<div class="home-slider-texts">
-					<h2>Установка ГБО в Чебоксарах с гарантией до 5 лет</h2>
-					<p>Экономьте на топливе до 50%, установка за один день</p>
+					<h2>Установка газобаллонного оборудования в Чебоксарах с гарантией до 5 лет</h2>
+					<p>Экономия на топливе до 50% установка за один день</p>
 					 <a href="#anchor_get_consult" name="modal" class="btn float-button-light2 a21_btn_home_blink">Получить консультацию</a>
 				 </div>
 			 </div>
 			<!-- <div class="slide-img" style="background: url(<?php echo get_template_directory_uri();?>/img/alex/slide-var2.jpg) center center;height:506px;"></div> -->
-			<div class="slide-img" style="background-image: url(<?php echo get_template_directory_uri();?>/img/alex/slide-var2.jpg);"></div>
+			<!--<div class="slide-img" style="background-image: url(<?php echo get_template_directory_uri();?>/img/alex/slide-var2.jpg);"></div>-->
+			<div class="slide-img" style="background-image: url(<?php echo get_template_directory_uri();?>/img/alex/slide-var2_new.jpg);"></div>
 		</div>
 			<!-- <div class="item"> -->
 		<!-- 		<div class="order_mobile">
@@ -79,8 +80,9 @@
 		    </div>
 			</a>
 			<a href="#" name="modal1">
-		    <div class="block-box last">
-		        <p>Качественная установка ГБО<br>от 2х до 8х часов</p>
+		    <div class="block-box last police">
+		        <!-- <p>Качественная установка ГБО<br>от 2х до 8х часов</p> -->
+		        <p>Документы для ГИБДД</p>
 		    </div>
 			</a>
 		    <div class="clear"></div>
@@ -97,7 +99,7 @@
 			</a>
 			<a href="/ustanovka-gbo-v-rassrochku/">
 				<div class="block-box middle credit">
-					<p>Рассрочка 0% на 12 месяцев</p>	
+					<p>Рассрочка 0% на 6 месяцев</p>	
 				</div>
 			</a>
 			<a href="#">
@@ -108,32 +110,7 @@
 			<div class="clear"></div>
 		</div>
 
-
-		<div class="price_on_install row">
-			<h2>Цены на установку ГБО</h2>
-			<div class="col-md-4">
-			<h3>4 цилиндра</h3>
-			<img src="<?php echo get_template_directory_uri();?>/img/alex/opel-4-c.png" alt="">
-			<p>от 22 000 р</p>
-			</div>
-			<div class="col-md-4">
-			<h3>6 цилиндров</h3>
-			<img src="<?php echo get_template_directory_uri();?>/img/alex/audi-6-c.png" alt="">
-			<p>от 36 000 р</p>			
-			</div>
-			<div class="col-md-4">
-			<h3>8 цилиндров</h3>
-			<img src="<?php echo get_template_directory_uri();?>/img/alex/toyota-8-c.png" alt="">
-			<p>от 40 000 р</p>			
-			</div>
-		</div>
-
-		<div class="block-credit">
-			<h3>Вы можете установить ГБО в рассрочку до 6 месяцев под 0% годовых</h3>
-			 <a href="#anchor_get_consult" name="modal" class="btn float-button-light2 a21_btn_home_blink2">Получить консультацию</a>
-		</div>
-
-
+<!-- 
 		<div class="protection page_middle">
 			<div style="clear: both;"></div>
 
@@ -171,9 +148,10 @@
 			<div class="clear"></div> 
 
 		</div> 
+		-->
 	<!-- end .protection -->
 
-		<div class="slider-2">
+<!-- 		<div class="slider-2">
 		 	<div class="page_middle">                         
 			   <div class="fotoleft">
 			     <img src="<?php echo get_template_directory_uri();?>/img/images/sert.png" alt="">
@@ -186,13 +164,41 @@
 				</div>
 		    </div>
 		</div>  
-            
+ -->            
 	     <div class="clear"></div>
 
-	</div>  
+	</div>   
 	<!-- end utp page-middle -->
-
 <div class="clear"></div>
+
+<div class="price_on_install">
+	<div class="page_middle">
+		<h2>Цены на установку ГБО</h2>
+		<div class="col-md-4">
+		<h3>4 цилиндра</h3>
+		<img src="<?php echo get_template_directory_uri();?>/img/alex/opel-4-c.png" alt="">
+		<p>от 22 000 р</p>
+		</div>
+		<div class="col-md-4">
+		<h3>6 цилиндров</h3>
+		<img src="<?php echo get_template_directory_uri();?>/img/alex/audi-6-c.png" alt="">
+		<p>от 36 000 р</p>			
+		</div>
+		<div class="col-md-4">
+		<h3>8 цилиндров</h3>
+		<img src="<?php echo get_template_directory_uri();?>/img/alex/toyota-8-c.png" alt="">
+		<p>от 40 000 р</p>			
+		</div>
+	</div>
+</div>
+<div class="clearfix"></div>
+<div class="block-credit">
+	<div class="page_middle">
+	<h3>Вы можете установить ГБО в рассрочку до 6 месяцев под 0% годовых</h3>
+	 <a href="#anchor_get_consult" name="modal" class="btn float-button-light2 a21_btn_home_blink2">Получить консультацию</a>
+	 </div>
+</div>
+
 
 </div>
 <!-- end content -->

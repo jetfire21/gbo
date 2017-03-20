@@ -91,9 +91,10 @@ input[type="submit"].btn-block {
     /*top: 20px;*/
     /*left: 14%;*/
    	font-weight: bold;
-   	font-size: 32px;
+   	font-size: 30px !important;
    	padding-left: 0;
-   	margin: 60px 0 30px 0;
+   	/*margin: 60px 0 30px 0;*/
+   	margin: 35px 0 30px 0;
 }
 #owl-home-slider p{
 	/*position: absolute;*/
@@ -897,6 +898,10 @@ div.order a, div.order_mobile a {
 
 }
 .block-box:hover:before{color: #d40808; font-size: 68px;}
+.block-box.police:hover:before{	
+	/*background: url(../img/alex/police_icon_red.png) center center no-repeat;*/
+	background: url(../img/alex/police_s.png) right center no-repeat;
+}
 
 .block-box.first:before{
 	/*background-image: url(../img/utp-1.png);*/
@@ -910,10 +915,15 @@ div.order a, div.order_mobile a {
 	 /*content: '\e805';*/
 	 content: '\e804';
 }
-.block-box.last:before{
+.block-box.police:before{
 	/*background-image: url(../img/utp-3.png);*/
+	/*background: url(../img/alex/police_icon.png) center center no-repeat;*/
+	background: url(../img/alex/police_s.png) left center no-repeat;
 	/*content: '\e801';*/
-	 content: '\e80e';
+	 /*content: '\e80e';*/
+	 content: ' ';
+	 width: 70px;
+	 height: 96px;
 }
 .utp-row:nth-child(2) .block-box.first{
 	/*background-image: url(../img/utp-4.png);*/

@@ -113,7 +113,7 @@
 
 	        <div id="boxes">
             <div id="anchor_get_consult" class="window">
-                <p class="m_n">Получить консультацию</p>
+                <p class="m_n">Заполните номер и с вами свяжется МАСТЕР</p>
                 <div class="success_answer"><p></p></div>
                 <div class="callback_body">
                     <form method="POST" id="form_get_consult" class="main_page_form">
@@ -182,8 +182,8 @@
 				var options = { wait: 500, //ms
 				   				 position: { x: 0, y: 0  } //px // This position relative to HTML element
 				};
-				var options2 = { wait: 600, //ms
-				   				 position: { x: 0, y: 0  } //px // This position relative to HTML element
+				var options2 = { wait: 700, //ms
+				   				 position: { x: 146, y: 0  } //px // This position relative to HTML element
 				};
 
 				function blink(){
@@ -202,7 +202,7 @@
 				  	 Waves.ripple('.a21_btn_blink4', options2);
 				  	 // Waves.ripple('.a21_btn_home_call_blink', options2);
 				  	 console.log('blink 2');
-				  }, 2100);			  
+				  }, 2600);			  
 				}
 
 				 blink();				 
@@ -224,7 +224,7 @@
 
 			function ValidPhone(obj) {
 
-				// 8 (999) 123-45-64 или 8(999)123-45-64 или 8 (999)123-45-64
+				// 8 (999) 999-99-99 или 8(999)123-45-64 или 8 (999)123-45-64
 			    var re = /^[\d]{1} ?\([\d]{2,3}\) ?[\d]{2,3}-[\d]{2,3}-[\d]{2,3}$/;
 			    // var re = /^[\d]{1}\ \([\d]{2,3}\)\ [\d]{2,3}-[\d]{2,3}-[\d]{2,3}$/;
 			    var Phone = obj.find(".phone input").val();
@@ -239,7 +239,7 @@
 			obj.find(".phone .js-validation").remove();
 			obj.find(".name .js-validation").remove();
 			if( !ValidPhone(obj)){
-				obj.find(".phone").append( '<p class="js-validation">Номер телефона введен неправильно!<p>');
+				obj.find(".phone").append( '<p class="js-validation">Номер телефона введен неправильно! Должен быть в формате: 8 (999) 999-99-99<p>');
 				return false;
 			}
 			 $.ajax({
