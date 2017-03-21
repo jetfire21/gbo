@@ -167,14 +167,6 @@
                          <div class="title"><p>Kia</p></div>
                     </div>
                 </div>
-<div class="categoryInner" data-brand="lada">
-                    <a href="#">
-                        <img src="<?php echo get_template_directory_uri();?>/img/brands/brand_lada.jpg" alt="lada">
-                   </a>
-                    <div class="read">
-                         <div class="title"><p>Lada</p></div>
-                    </div>
-                </div>
 <div class="categoryInner" data-brand="lexus">
                     <a href="#">
                         <img src="<?php echo get_template_directory_uri();?>/img/brands/brand_lexus.jpg" alt="lexus">
@@ -311,7 +303,7 @@
                          <div class="title"><p>Volvo</p></div>
                     </div>
                 </div>
-<div class="categoryInner" data-brand="газ">
+<div class="categoryInner" data-brand="Газ">
                     <a href="#">
                         <img src="<?php echo get_template_directory_uri();?>/img/brands/brand_gaz.png" alt="газ">
                    </a>
@@ -319,15 +311,15 @@
                          <div class="title"><p>ГАЗ</p></div>
                     </div>
                 </div>
-<div class="categoryInner" data-brand="заз">
+<div class="categoryInner" data-brand="Ваз">
                     <a href="#">
-                        <img src="<?php echo get_template_directory_uri();?>/img/brands/brand_zaz.jpg" alt="заз">
+                        <img src="<?php echo get_template_directory_uri();?>/img/brands/brand_vaz.png" alt="ваз">
                    </a>
                     <div class="read">
-                         <div class="title"><p>Заз</p></div>
+                         <div class="title"><p>Ваз</p></div>
                     </div>
                 </div>
-<div class="categoryInner" data-brand="уаз">
+<div class="categoryInner" data-brand="УАЗ">
                     <a href="#">
                         <img src="<?php echo get_template_directory_uri();?>/img/brands/brand_uaz.jpg" alt="уаз">
                    </a>

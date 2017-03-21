@@ -80,6 +80,8 @@ input[type="submit"].btn-block {
 #owl-home-slider .home-slider-texts{
 	position: absolute;
     /*left: 14%;*/
+    left: 0;
+    right: 0;
     text-transform: uppercase;
     color:#fff !important;
 }
@@ -91,10 +93,11 @@ input[type="submit"].btn-block {
     /*top: 20px;*/
     /*left: 14%;*/
    	font-weight: bold;
-   	font-size: 30px !important;
+   	font-size: 28px !important;
    	padding-left: 0;
    	/*margin: 60px 0 30px 0;*/
    	margin: 35px 0 30px 0;
+   	text-align: center;
 }
 #owl-home-slider p{
 	/*position: absolute;*/
@@ -370,7 +373,7 @@ input[type="submit"].btn-block {
 		margin: 0;
 		top: 78px;
 		right: 10px;
-		width: auto;
+		/*width: auto;*/
 		padding: 5px 15px 0 15px;
 	}
 	.button-head:before {
@@ -661,7 +664,8 @@ div.order a, div.order_mobile a {
 		height: auto;
 	}
 	.utp {
-		padding: 0 15px;
+		/*padding: 0 15px;*/
+		padding: 0 15px 30px 0;
 	}
 }
 
@@ -979,7 +983,7 @@ div.order a, div.order_mobile a {
 }
 @media screen and (max-width: 520px) {
 	.utp-row:first-child  {
-		padding-top: 30px;
+		/*padding-top: 30px;*/
 	}
 }
 

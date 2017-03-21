@@ -1,4 +1,3 @@
-
 <div class="work-item audi" ><div class="col-md-4">
                                  <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/1/1/0/8/71f4667b0f6a65bbc23302c3a8ca.jpg" alt="">
                          </div><div class="col-md-8 work-slides">
@@ -96,35 +95,33 @@
                             </a></div>
                     </div>
 <div class="work-item bmw" ><div class="col-md-4">
-                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/5/b/6/e/8c4ee9bcf9a7f14a2f61b23cf18e.jpg" alt="">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/4/f/4/a/b993d50c43c28f87444a20e4db19.jpg" alt="">
                          </div><div class="col-md-8 work-slides">
-                                <h2>BMW 520i V (E60) (дорестайл) (седан) 2.0i (150Hp) 2006г.в.</h2>
-                                BMW 520i V (E60) (дорестайл) (седан) 2.0i (150Hp) 2006г.в. переоборудована для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы распределенного фазированного впрыска газа - "Prins" в августе 2011<br>
-1. Модель автомобиля:  BMW 520i V (E60) (дорестайл) (седан)<br>
-2. двигатель: рядный, бензиновый, 6-цилиндровый, рабочий объем 2.0л, мощность 150 л.с.<br>
-3. годы выпуска: с 2003 по 2007<br>
+                                <h2>BMW 525 IV (E39) (дорестайл) (седан) 2.5i (170Hp) 1999г.в.</h2>
+                                BMW 525 IV (E39) (дорестайл) (седан) 2.5i (170Hp) 1999г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "Alpha-M" в феврале 2016г.<br>
+1. Модель автомобиля: BMW 525 IV (E39) (дорестайл) (седан)<br>
+2. двигатель: рядный, бензиновый, 6-цилиндровый, рабочий объем 2.5л, мощность 170 л.с.<br>
+3. годы выпуска: с 1995 по 2000<br>
 4. рекомендованное оборудование для установки: BRC<br>
-5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha-M<br>
 6. рекомендованный баллон: тороидальный баллон вместо запасного колеса объемом 53л. (630х225)<br>
 7. альтернативный вариант установки баллона: цилиндрический баллон объемом 90л. в багажном отделении вдоль заднего ряда сидений на специально сваренную сложно-составную раму (согласно российским гостам).<br>
 8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
 9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
-10. особенности установки: крайне компактная компоновка моторного отсека, отсутствие свободного места под капотом, как следствие - увеличенное время монтажа по сравнению с более простыми моделями. 
+10. особенности установки: крайне сложная установка баллона, крайне компактная компоновка моторного отсека, отсутствие свободного места под капотом, как следствие - увеличенное время монтажа по сравнению с более простыми моделями. 
 
-                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/aeb/960_700_1/aeb0434dbad2ae65cf7241fe8b8c79b6.jpg" data-lightbox="example-set_4">
-                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/aeb/122_91_1/aeb0434dbad2ae65cf7241fe8b8c79b6.jpg" alt="BMW 520i V (E60) (дорестайл) (седан) 2.0i (150Hp) 2006г.в." title="BMW 520i V (E60) (дорестайл) (седан) 2.0i (150Hp) 2006г.в. переоборудована для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы распределенного фазированного впрыска газа - "Prins" в августе 2011"/>
-                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/f19/960_700_1/f1931aaaaa791874ef1452107086ef1d.jpg" data-lightbox="example-set_4">
-                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/f19/122_91_1/f1931aaaaa791874ef1452107086ef1d.jpg" alt="BMW 520i V (E60) (дорестайл) (седан) 2.0i (150Hp) 2006г.в." title="моторный отсек"/>
-                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/ee1/960_700_1/ee1a8ad8b0c7c9f1ca1e9b0ddc76ffdd.jpg" data-lightbox="example-set_4">
-                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/ee1/122_91_1/ee1a8ad8b0c7c9f1ca1e9b0ddc76ffdd.jpg" alt="BMW 520i V (E60) (дорестайл) (седан) 2.0i (150Hp) 2006г.в." title="кнопка переключения режимов работы - бензин\газ с указателем уровня газа в баллоне"/>
-                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/686/960_700_1/6863a35b2d13dc9d88cc37429f94c13a.jpg" data-lightbox="example-set_4">
-                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/686/122_91_1/6863a35b2d13dc9d88cc37429f94c13a.jpg" alt="BMW 520i V (E60) (дорестайл) (седан) 2.0i (150Hp) 2006г.в." title="заправочное устройство поместилось в штатной заливной горловине"/>
-                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/8b4/960_700_1/8b4506c092c00a4fd4c0d65ebc4de348.jpg" data-lightbox="example-set_4">
-                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/8b4/122_91_1/8b4506c092c00a4fd4c0d65ebc4de348.jpg" alt="BMW 520i V (E60) (дорестайл) (седан) 2.0i (150Hp) 2006г.в." title="заправочное устройство с накрученным заправочным переходником"/>
-                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/03b/960_700_1/03b73a872c099060640bed185ffbec26.jpg" data-lightbox="example-set_4">
-                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/03b/122_91_1/03b73a872c099060640bed185ffbec26.jpg" alt="BMW 520i V (E60) (дорестайл) (седан) 2.0i (150Hp) 2006г.в." title="баллон объемом 53л вместо запасного колеса"/>
-                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/09d/960_700_1/09ddd40387adcb9b0a1074fb65f562c5.jpg" data-lightbox="example-set_4">
-                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/09d/122_91_1/09ddd40387adcb9b0a1074fb65f562c5.jpg" alt="BMW 520i V (E60) (дорестайл) (седан) 2.0i (150Hp) 2006г.в." title="багажное отделение"/>
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/d53/960_700_1/d53e304471e6e4fd6eb744b1fbe24c33.JPG" data-lightbox="example-set_4">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/d53/122_91_1/d53e304471e6e4fd6eb744b1fbe24c33.JPG" alt="BMW 525 IV (E39) (дорестайл) (седан) 2.5i (170Hp) 1999г.в." title="BMW 525 IV (E39) (дорестайл) (седан) 2.5i (170Hp) 1999г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "Alpha-M" в феврале 2016г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/ec1/960_700_1/ec1b9b99d666facbd8f88e2247d9c552.JPG" data-lightbox="example-set_4">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/ec1/122_91_1/ec1b9b99d666facbd8f88e2247d9c552.JPG" alt="BMW 525 IV (E39) (дорестайл) (седан) 2.5i (170Hp) 1999г.в." title="моторный осек."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/cbd/960_700_1/cbd06913009148603fc48bf4ea1f7f56.JPG" data-lightbox="example-set_4">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/cbd/122_91_1/cbd06913009148603fc48bf4ea1f7f56.JPG" alt="BMW 525 IV (E39) (дорестайл) (седан) 2.5i (170Hp) 1999г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/a5f/960_700_1/a5f78d60e9a8c8352a72dd802330d8ad.JPG" data-lightbox="example-set_4">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/a5f/122_91_1/a5f78d60e9a8c8352a72dd802330d8ad.JPG" alt="BMW 525 IV (E39) (дорестайл) (седан) 2.5i (170Hp) 1999г.в." title="заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/a5f/960_700_1/a5f467fe8f645ed8b8a270284607acab.JPG" data-lightbox="example-set_4">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/a5f/122_91_1/a5f467fe8f645ed8b8a270284607acab.JPG" alt="BMW 525 IV (E39) (дорестайл) (седан) 2.5i (170Hp) 1999г.в." title="заправочное устройство с накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/782/960_700_1/782260a0faef846302969e691e435d49.JPG" data-lightbox="example-set_4">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/782/122_91_1/782260a0faef846302969e691e435d49.JPG" alt="BMW 525 IV (E39) (дорестайл) (седан) 2.5i (170Hp) 1999г.в." title="цилиндрический баллон объемом 80 литров вдоль заднего ряда сидений на сложно-составной раме."/>
                             </a></div>
                     </div>
 <div class="work-item cadillac" ><div class="col-md-4">
@@ -1191,5 +1188,1903 @@
                                 <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/dcb/122_91_1/dcbdcda022e4925d82d06831969edfc7.JPG" alt="Hummer H3 3.7i (245Hp) 2009г.в." title="заправочное устройство с вкрученным в него заправочным переходником"/>
                             </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/598/960_700_1/59822610f2816e349705d23b5508c2e3.JPG" data-lightbox="example-set_31">
                                 <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/598/122_91_1/59822610f2816e349705d23b5508c2e3.JPG" alt="Hummer H3 3.7i (245Hp) 2009г.в." title="цилиндричекий баллон объемом 76л в багажном отделении вдоль левого борта."/>
+                            </a></div>
+                    </div>
+<div class="work-item hyundai" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/b/d/7/1/46ecb5c49c92647c106cb9581175.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Hyundai Accent II (седан) (дорестайл) 1.5i (102) 2009г.в.</h2>
+                                Hyundai Accent II (седан) (дорестайл) 1.5i (102) 2009г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в октябре 2013г.<br>
+1. Модель автомобиля: Hyundai Accent II (седан) (дорестайл)<br>
+2. двигатель: рядный, бензиновый (инжекторный), 4-цилиндровый, рабочий объем 1.5л, мощность от 92 до 102 л.с.<br>
+3. годы выпуска: с 2001 по 2012<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное бюджетное оборудование для установки: Lovato, Digitronic, Alpha.<br>
+6. рекомендованный баллон: тороидальный баллон объемом до 42л. (600х200) в вместо запасного колеса<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 80л. на раму вдоль заднего ряда сидений.<br>
+8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: серьезных трудностей не обнаружено.  чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами.
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/079/960_700_1/07934c894e53559648c3daec46cb41e1.JPG" data-lightbox="example-set_32">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/079/122_91_1/07934c894e53559648c3daec46cb41e1.JPG" alt="Hyundai Accent II (седан) (дорестайл) 1.5i (102) 2009г.в." title="Hyundai Accent II (седан) (дорестайл) 1.5i (102) 2009г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в октябре 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/cb7/960_700_1/cb7e5455ea08cc03eef0fcec327a8c9a.JPG" data-lightbox="example-set_32">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/cb7/122_91_1/cb7e5455ea08cc03eef0fcec327a8c9a.JPG" alt="Hyundai Accent II (седан) (дорестайл) 1.5i (102) 2009г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/2f7/960_700_1/2f7d1a99b32d02cb0ea9638e1c1cf335.JPG" data-lightbox="example-set_32">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/2f7/122_91_1/2f7d1a99b32d02cb0ea9638e1c1cf335.JPG" alt="Hyundai Accent II (седан) (дорестайл) 1.5i (102) 2009г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/d16/960_700_1/d16d0e2c93011b8f82ee1774685aa75b.JPG" data-lightbox="example-set_32">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/d16/122_91_1/d16d0e2c93011b8f82ee1774685aa75b.JPG" alt="Hyundai Accent II (седан) (дорестайл) 1.5i (102) 2009г.в." title="заправочное устройство поместилось под крышкой лючка заливной горловины бензобака."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/51b/960_700_1/51b011779d36a4344681472464da3f29.JPG" data-lightbox="example-set_32">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/51b/122_91_1/51b011779d36a4344681472464da3f29.JPG" alt="Hyundai Accent II (седан) (дорестайл) 1.5i (102) 2009г.в." title="заправочное устройство с накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/4fc/960_700_1/4fc5e3a926a3e244b9f216d109aa33f9.JPG" data-lightbox="example-set_32">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/4fc/122_91_1/4fc5e3a926a3e244b9f216d109aa33f9.JPG" alt="Hyundai Accent II (седан) (дорестайл) 1.5i (102) 2009г.в." title="баллон объемом 42л вместо запасного колеса."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/50a/960_700_1/50ab16999ed50102e781745b791229f4.JPG" data-lightbox="example-set_32">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/50a/122_91_1/50ab16999ed50102e781745b791229f4.JPG" alt="Hyundai Accent II (седан) (дорестайл) 1.5i (102) 2009г.в." title="багажное отделение."/>
+                            </a></div>
+                    </div>
+<div class="work-item hyundai" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/9/7/0/5/60d46122d42659fc7656c027ffa1.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Hyundai Elantra V (MD) (рестайл) 1.6i (132Hp) 2014г.в.</h2>
+                                Hyundai Elantra V (MD) (рестайл) 1.6i (132Hp) 2014г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в мае 2015г.<br>
+1. Модель автомобиля: Hyundai Elantra V (MD) (рестайл)<br>
+2. двигатель: рядный, бензиновый (инжекторный), 4-цилиндровый, рабочий объем 1.6л, мощность 132 л.с.<br>
+3. годы выпуска: с 2014 по 2016.<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное бюджетное оборудование для установки: Lovato, Digitronic, Alpha.<br>
+6. рекомендованный баллон: тороидальный баллон объемом до 53л. (630х225) вместо запасного колеса.<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 80л. на раму вдоль заднего ряда сидений.<br>
+8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: серьезных трудностей не обнаружено.  чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами. 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/8a6/960_700_1/8a6bbcefd685d13cc8367a356d308e9d.JPG" data-lightbox="example-set_33">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/8a6/122_91_1/8a6bbcefd685d13cc8367a356d308e9d.JPG" alt="Hyundai Elantra V (MD) (рестайл) 1.6i (132Hp) 2014г.в." title="Hyundai Elantra V (MD) (рестайл) 1.6i (132Hp) 2014г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в мае 2015г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/0a7/960_700_1/0a74fdce9f11b24aa1deb726228d14ec.JPG" data-lightbox="example-set_33">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/0a7/122_91_1/0a74fdce9f11b24aa1deb726228d14ec.JPG" alt="Hyundai Elantra V (MD) (рестайл) 1.6i (132Hp) 2014г.в." title="моторный отсек без декоративной крышки мотора"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/4a8/960_700_1/4a857c963df7f01ae59708556bf942d5.JPG" data-lightbox="example-set_33">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/4a8/122_91_1/4a857c963df7f01ae59708556bf942d5.JPG" alt="Hyundai Elantra V (MD) (рестайл) 1.6i (132Hp) 2014г.в." title="подкапотное пространство"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/d7c/960_700_1/d7c50aa756bf561ebf36a6b3b4d341f5.JPG" data-lightbox="example-set_33">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/d7c/122_91_1/d7c50aa756bf561ebf36a6b3b4d341f5.JPG" alt="Hyundai Elantra V (MD) (рестайл) 1.6i (132Hp) 2014г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/bc7/960_700_1/bc7a76f711f67ebc4b15c1db36d33cac.JPG" data-lightbox="example-set_33">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/bc7/122_91_1/bc7a76f711f67ebc4b15c1db36d33cac.JPG" alt="Hyundai Elantra V (MD) (рестайл) 1.6i (132Hp) 2014г.в." title="заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/dbc/960_700_1/dbc3e6be424dcf451bf480fdde281779.JPG" data-lightbox="example-set_33">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/dbc/122_91_1/dbc3e6be424dcf451bf480fdde281779.JPG" alt="Hyundai Elantra V (MD) (рестайл) 1.6i (132Hp) 2014г.в." title="заправочное устройство с накрученным на него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/a1a/960_700_1/a1aa4ed10cefd43b2822d7274e87feb2.JPG" data-lightbox="example-set_33">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/a1a/122_91_1/a1aa4ed10cefd43b2822d7274e87feb2.JPG" alt="Hyundai Elantra V (MD) (рестайл) 1.6i (132Hp) 2014г.в." title="цилиндрический баллон объемом 76л на сложно-составной раме вдоль заднего ряда сидений"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/8d4/960_700_1/8d448b0a04e702cfad77992c7ecd63ba.JPG" data-lightbox="example-set_33">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/8d4/122_91_1/8d448b0a04e702cfad77992c7ecd63ba.JPG" alt="Hyundai Elantra V (MD) (рестайл) 1.6i (132Hp) 2014г.в." title="багажное отделение"/>
+                            </a></div>
+                    </div>
+<div class="work-item infiniti" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/c/7/3/a/0c1429a8bc7efe63d5f1b86fe999.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Infiniti EX35 (295-302Hp) 2010г.в.</h2>
+                                Infiniti EX35 (295Hp) 2010г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "Oscar-N" в августе 2015г.<br>
+1. модель автомобиля: Infiniti EX35<br>
+2. двигатель: V-образный, бензиновый (инжекторный), 6-цилиндровый, рабочий объем 3.5л, мощность от 295 до 302 л.с. в зависимости от года выпуска<br>
+3. годы выпуска: с 2007 по 2014.<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное бюджетное оборудование для установки: Lovato, Digitronic, Alpha<br>
+6. рекомендованный баллон: а) тороидальный баллон объемом 54л. (720х180) вместо запасного колеса (в этом случае уровень пола в багажном отделении сохраняется)<br>
+                                                      б) тороидальный баллон объемом 74л. (720х230) вместо запасного колеса (при этом пол в багажном отделении поднимается)<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 90л вдоль заднего ряда сидений на сложной раме.<br>
+8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: обязательный демонтаж впускного коллектора. сложный и долгий в установке цилиндрический баллон.в остальном вполне без проблемный автомобиль. чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/383/960_700_1/383890c4e7850883486d4eabf22688d2.JPG" data-lightbox="example-set_34">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/383/122_91_1/383890c4e7850883486d4eabf22688d2.JPG" alt="Infiniti EX35 (295-302Hp) 2010г.в." title="Infiniti EX35 (295Hp) 2010г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "Oscar-N" в августе 2015г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/af7/960_700_1/af790d0df62ef91088364d3a0b7f8c41.JPG" data-lightbox="example-set_34">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/af7/122_91_1/af790d0df62ef91088364d3a0b7f8c41.JPG" alt="Infiniti EX35 (295-302Hp) 2010г.в." title="моторный отсек без декоративной крышки мотора."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/d2f/960_700_1/d2f286fe2429b874dcee56f11fdf4486.JPG" data-lightbox="example-set_34">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/d2f/122_91_1/d2f286fe2429b874dcee56f11fdf4486.JPG" alt="Infiniti EX35 (295-302Hp) 2010г.в." title="подкапотное пространство"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/d49/960_700_1/d4980072de8114bf08c86c8a73f1b2c9.JPG" data-lightbox="example-set_34">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/d49/122_91_1/d4980072de8114bf08c86c8a73f1b2c9.JPG" alt="Infiniti EX35 (295-302Hp) 2010г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/fc0/960_700_1/fc0b27f64d272356ee6a11b6dc13b416.JPG" data-lightbox="example-set_34">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/fc0/122_91_1/fc0b27f64d272356ee6a11b6dc13b416.JPG" alt="Infiniti EX35 (295-302Hp) 2010г.в." title="заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/69a/960_700_1/69a137ab9a9ffb50b72be44527f183fd.JPG" data-lightbox="example-set_34">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/69a/122_91_1/69a137ab9a9ffb50b72be44527f183fd.JPG" alt="Infiniti EX35 (295-302Hp) 2010г.в." title="заправочное устройство с накрученным на него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/180/960_700_1/18070e7fd7d19b8bae50e932602b5287.JPG" data-lightbox="example-set_34">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/180/122_91_1/18070e7fd7d19b8bae50e932602b5287.JPG" alt="Infiniti EX35 (295-302Hp) 2010г.в." title="цилиндрический баллон объемом 80л. на сложной раме в багажном отделении вдоль заднего ряда сидений"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/a24/960_700_1/a2490794d4ce24dadc630a1cac8bc519.JPG" data-lightbox="example-set_34">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/a24/122_91_1/a2490794d4ce24dadc630a1cac8bc519.JPG" alt="Infiniti EX35 (295-302Hp) 2010г.в." title="багажное отделение"/>
+                            </a></div>
+                    </div>
+<div class="work-item infiniti" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/1/d/0/6/005689b866c85be01c7cd03473c0.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Infiniti FX35 I (рестайл) 3.5i (280Hp) 2007г.в.</h2>
+                                Infiniti FX35 I (рестайл) 3.5i (280Hp) 2007г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в июле 2013г.<br>
+1. модель автомобиля: Infiniti FX35 I (рестайл)<br>
+2. двигатель: V-образный, бензиновый (инжекторный), 6-цилиндровый, рабочий объем 3.5л, мощность 280 л.с.<br>
+3. годы выпуска: с 2006 по 2008.<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное бюджетное оборудование для установки: Lovato, Digitronic, Alpha<br>
+6. рекомендованный баллон: а) тороидальный баллон объемом 54л. (720х180) вместо запасного колеса (в этом случае уровень пола в багажном отделении сохраняется)<br>
+                                                      б) тороидальный баллон объемом 74л. (720x230) вместо запасного колеса (при этом пол в багажном отделении поднимается)<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 90л на сложно-составной раме вдоль заднего ряда сидений.<br>
+8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: обязательный демонтаж впускного коллектора. в остальном вполне без проблемный автомобиль. чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/280/960_700_1/280b90c88c7164b79006687060bca9d7.JPG" data-lightbox="example-set_35">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/280/122_91_1/280b90c88c7164b79006687060bca9d7.JPG" alt="Infiniti FX35 I (рестайл) 3.5i (280Hp) 2007г.в." title="Infiniti FX35 I (рестайл) 3.5i (280Hp) 2007г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в июле 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/c57/960_700_1/c571ada799c148d5a212fb7c8fdf1283.JPG" data-lightbox="example-set_35">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/c57/122_91_1/c571ada799c148d5a212fb7c8fdf1283.JPG" alt="Infiniti FX35 I (рестайл) 3.5i (280Hp) 2007г.в." title="моторный отсек."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/461/960_700_1/4613f5077dea85f49be209a82f964d34.JPG" data-lightbox="example-set_35">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/461/122_91_1/4613f5077dea85f49be209a82f964d34.JPG" alt="Infiniti FX35 I (рестайл) 3.5i (280Hp) 2007г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/689/960_700_1/689c08cbf8e689466fbbdf54349512c0.JPG" data-lightbox="example-set_35">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/689/122_91_1/689c08cbf8e689466fbbdf54349512c0.JPG" alt="Infiniti FX35 I (рестайл) 3.5i (280Hp) 2007г.в." title="заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/7e5/960_700_1/7e50d97df6cb4ecb4a9bc3599f3e8b98.JPG" data-lightbox="example-set_35">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/7e5/122_91_1/7e50d97df6cb4ecb4a9bc3599f3e8b98.JPG" alt="Infiniti FX35 I (рестайл) 3.5i (280Hp) 2007г.в." title="заправочное устройство с накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/bc1/960_700_1/bc1d802625f68edf3c6d95ffd9a39bf9.JPG" data-lightbox="example-set_35">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/bc1/122_91_1/bc1d802625f68edf3c6d95ffd9a39bf9.JPG" alt="Infiniti FX35 I (рестайл) 3.5i (280Hp) 2007г.в." title="тороидальный баллон объемом 54л. (720x180) вместо запасного колеса"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e21/960_700_1/e21cc83fe69f898f71ac5106f9f4868d.JPG" data-lightbox="example-set_35">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e21/122_91_1/e21cc83fe69f898f71ac5106f9f4868d.JPG" alt="Infiniti FX35 I (рестайл) 3.5i (280Hp) 2007г.в." title="багажное отделение"/>
+                            </a></div>
+                    </div>
+<div class="work-item jaguar" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/3/9/6/4/73fbd15fb0e2a8bd00bb7f868ac4.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Jaguar S-type I (дорестайл) 3.0i (238Hp) 2001г.в.</h2>
+                                Jaguar S-type I (дорестайл) 3.0i (238Hp) 2001г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в августе 2013г.<br>
+1. модель автомобиля: Jaguar S-type I (дорестайл) <br>
+2. двигатель: V-образный, бензиновый (инжекторный), 6-цилиндровый, рабочий объем 3.0л, мощность 238 л.с.<br>
+3. годы выпуска: с 1999 по 2004<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное бюджетное оборудование для установки: Lovato, Digitronic, Alpha.<br>
+6. рекомендованный баллон: тороидальный баллон объемом 60л. (630х250) вместо запасного колеса<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 80л. вдоль заднего ряда сидений.<br>
+8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: обязательный демонтаж коллектора. чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/348/960_700_1/3481678ee2f2bef8d4c2996571febaa7.jpg" data-lightbox="example-set_36">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/348/122_91_1/3481678ee2f2bef8d4c2996571febaa7.jpg" alt="Jaguar S-type I (дорестайл) 3.0i (238Hp) 2001г.в." title="Jaguar S-type I (дорестайл) 3.0i (238Hp) 2001г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в августе 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/01b/960_700_1/01b897ad73b0c382c98066fdc6b81b09.jpg" data-lightbox="example-set_36">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/01b/122_91_1/01b897ad73b0c382c98066fdc6b81b09.jpg" alt="Jaguar S-type I (дорестайл) 3.0i (238Hp) 2001г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/4d2/960_700_1/4d2c3bdfa7348457db956ec8c8686a28.jpg" data-lightbox="example-set_36">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/4d2/122_91_1/4d2c3bdfa7348457db956ec8c8686a28.jpg" alt="Jaguar S-type I (дорестайл) 3.0i (238Hp) 2001г.в." title="заправочное устройство поместилось под крышку заливной горловины бензобака."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/5fd/960_700_1/5fd120085c8ea7595eb7eadb39a9f63a.jpg" data-lightbox="example-set_36">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/5fd/122_91_1/5fd120085c8ea7595eb7eadb39a9f63a.jpg" alt="Jaguar S-type I (дорестайл) 3.0i (238Hp) 2001г.в." title="заправочное устройство с накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/2ab/960_700_1/2abb46bdfeb9e14129d2a1ec8d61b1cb.jpg" data-lightbox="example-set_36">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/2ab/122_91_1/2abb46bdfeb9e14129d2a1ec8d61b1cb.jpg" alt="Jaguar S-type I (дорестайл) 3.0i (238Hp) 2001г.в." title="баллон объемом 60л вместо запасного колеса"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/019/960_700_1/0190b0c97073b16ea961e4f35fa222b3.jpg" data-lightbox="example-set_36">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/019/122_91_1/0190b0c97073b16ea961e4f35fa222b3.jpg" alt="Jaguar S-type I (дорестайл) 3.0i (238Hp) 2001г.в." title="багажное отделение."/>
+                            </a></div>
+                    </div>
+<div class="work-item jeep" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/9/8/6/b/4a665502f036186a1c45aafd755a.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Jeep Garnd Cherokee I (ZJ) (рестайл) 5.2i (215Hp) 1997г.в.</h2>
+                                Jeep Garnd Cherokee I (ZJ) (рестайл) 5.2i (215Hp) 1997г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в августе 2013г.<br>
+1. Модель автомобиля: Jeep Garnd Cherokee I (ZJ) (рестайл)<br>
+2. двигатель: V-образный, бензиновый, 8-цилиндровый, рабочий объем 5.2л, мощность от 215 л.с.<br>
+3. годы выпуска: с 1996 по 1999<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha<br>
+6. рекомендованный баллон: цилиндрический баллон объемом 80л вдоль кузова с правой стороны в багажном отделении.<br>
+7. альтернативный вариант установки баллона:  цилиндрический баллон объемом до 150л вдоль заднего ряда сидения в багажном отделении.<br>
+8. установка внешнего заправочного устройства: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки:   сложностей нет кроме того, что это большой автомобиль с восьми цилиндровым двигателем, при сравнительно небольшом подкапотном пространстве.  чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами.
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e16/960_700_1/e161fe67ba939fdcef15274c22dc6332.JPG" data-lightbox="example-set_37">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e16/122_91_1/e161fe67ba939fdcef15274c22dc6332.JPG" alt="Jeep Garnd Cherokee I (ZJ) (рестайл) 5.2i (215Hp) 1997г.в." title="Jeep Garnd Cherokee I (ZJ) (рестайл) 5.2i (215Hp) 1997г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в августе 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/4bf/960_700_1/4bf66efb05937b6d59e78ea77d8495a9.JPG" data-lightbox="example-set_37">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/4bf/122_91_1/4bf66efb05937b6d59e78ea77d8495a9.JPG" alt="Jeep Garnd Cherokee I (ZJ) (рестайл) 5.2i (215Hp) 1997г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/6ab/960_700_1/6ab4f2f7c46fe575a81ef74ea1fd7403.JPG" data-lightbox="example-set_37">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/6ab/122_91_1/6ab4f2f7c46fe575a81ef74ea1fd7403.JPG" alt="Jeep Garnd Cherokee I (ZJ) (рестайл) 5.2i (215Hp) 1997г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/205/960_700_1/20558855c471adfe4e6852ef3823d714.JPG" data-lightbox="example-set_37">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/205/122_91_1/20558855c471adfe4e6852ef3823d714.JPG" alt="Jeep Garnd Cherokee I (ZJ) (рестайл) 5.2i (215Hp) 1997г.в." title="заправочное устройство поместилось под крышкой лючка заливной горловины бензобака. бензобака."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/775/960_700_1/77506a4e6314373ddece73f3419493a9.JPG" data-lightbox="example-set_37">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/775/122_91_1/77506a4e6314373ddece73f3419493a9.JPG" alt="Jeep Garnd Cherokee I (ZJ) (рестайл) 5.2i (215Hp) 1997г.в." title="заправочное устройство с накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/d94/960_700_1/d947f583f18c0309c92b6e6c4a8aa9f7.JPG" data-lightbox="example-set_37">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/d94/122_91_1/d947f583f18c0309c92b6e6c4a8aa9f7.JPG" alt="Jeep Garnd Cherokee I (ZJ) (рестайл) 5.2i (215Hp) 1997г.в." title="баллон объемом 95л на сложно-составной раме вдоль борта с правой стороны в багажном отделении"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e8a/960_700_1/e8a60fc8dbb034ba4dd4b915c0543490.JPG" data-lightbox="example-set_37">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e8a/122_91_1/e8a60fc8dbb034ba4dd4b915c0543490.JPG" alt="Jeep Grand Cherokee I (ZJ) (рестайл) 5.2i (215Hp) 1997г.в." title="Jeep Grand Cherokee I (ZJ) (рестайл) 5.2i (215Hp) 1997г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "Digitronic" в июле 2016г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/a37/960_700_1/a37433ea24065f55b494f180cc66e716.JPG" data-lightbox="example-set_37">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/a37/122_91_1/a37433ea24065f55b494f180cc66e716.JPG" alt="Jeep Grand Cherokee I (ZJ) (рестайл) 5.2i (215Hp) 1997г.в." title="моторный отсек."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/21b/960_700_1/21b22046f8146d990004749d79fa8849.JPG" data-lightbox="example-set_37">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/21b/122_91_1/21b22046f8146d990004749d79fa8849.JPG" alt="Jeep Grand Cherokee I (ZJ) (рестайл) 5.2i (215Hp) 1997г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/42a/960_700_1/42a1fb720bf4d621f917ba1bbf0d62f5.JPG" data-lightbox="example-set_37">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/42a/122_91_1/42a1fb720bf4d621f917ba1bbf0d62f5.JPG" alt="Jeep Grand Cherokee I (ZJ) (рестайл) 5.2i (215Hp) 1997г.в." title="заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/064/960_700_1/06481a1cfba761d8b9f67593d98e5ec9.JPG" data-lightbox="example-set_37">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/064/122_91_1/06481a1cfba761d8b9f67593d98e5ec9.JPG" alt="Jeep Grand Cherokee I (ZJ) (рестайл) 5.2i (215Hp) 1997г.в." title="заправочное устройство с накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/691/960_700_1/6914f491391ee26768a0269e52180597.JPG" data-lightbox="example-set_37">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/691/122_91_1/6914f491391ee26768a0269e52180597.JPG" alt="Jeep Grand Cherokee I (ZJ) (рестайл) 5.2i (215Hp) 1997г.в." title="цилиндрический баллон объемом 130 литров вдоль заднего ряда сидений на сложно-составной раме."/>
+                            </a></div>
+                    </div>
+<div class="work-item jeep" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/3/d/2/5/c258edab800f4978f52d8b40c3f5.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Jeep Grand Cherokee III (WK) 3.7i (210Hp) 2007г.в.</h2>
+                                Jeep Grand Cherokee III (WK) 3.7i (210Hp) 2007г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы распределенного фазированного впрыска газа - "BRC" в октябре 2012г.<br>
+1. модель автомобиля: Jeep Grand Cherokee III (WK)<br>
+2. двигатель: v-образный, бензиновый (инжекторный), 6-цилиндровый, рабочий объем 3.7л, мощность 210 л.с.<br>
+3. годы выпуска: с 2004 по 2010.<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное бюджетное оборудование для установки: Lovato, Digitronic, Alpha-M<br>
+6. рекомендованный баллон: тороидальный баллон объемом 94л. (720х270) вместо запасного колеса.<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 90л. на раму вдоль заднего ряда сидений.<br>
+8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: трудностей нет - отработанный автомобиль.  чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вам
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/3b4/960_700_1/3b4412e238a4b80d91153331de1bf59c.jpg" data-lightbox="example-set_38">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/3b4/122_91_1/3b4412e238a4b80d91153331de1bf59c.jpg" alt="Jeep Grand Cherokee III (WK) 3.7i (210Hp) 2007г.в." title="Jeep Grand Cherokee III (WK) 3.7i (210Hp) 2007г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы распределенного фазированного впрыска газа - "BRC" в октябре 2012г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/1e3/960_700_1/1e37873b8ebdd1b2093b2045071d8425.jpg" data-lightbox="example-set_38">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/1e3/122_91_1/1e37873b8ebdd1b2093b2045071d8425.jpg" alt="Jeep Grand Cherokee III (WK) 3.7i (210Hp) 2007г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/22a/960_700_1/22aa6f49ba1a969375f7f91ee65df3ba.jpg" data-lightbox="example-set_38">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/22a/122_91_1/22aa6f49ba1a969375f7f91ee65df3ba.jpg" alt="Jeep Grand Cherokee III (WK) 3.7i (210Hp) 2007г.в." title="кнопка переключения режимов работы - бензин\газ с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/1ef/960_700_1/1ef94dca89e8251fbf0bc4ff87b1431e.jpg" data-lightbox="example-set_38">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/1ef/122_91_1/1ef94dca89e8251fbf0bc4ff87b1431e.jpg" alt="Jeep Grand Cherokee III (WK) 3.7i (210Hp) 2007г.в." title="заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/92b/960_700_1/92bcd28954ae635c9da7e6b8c32f6afc.jpg" data-lightbox="example-set_38">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/92b/122_91_1/92bcd28954ae635c9da7e6b8c32f6afc.jpg" alt="Jeep Grand Cherokee III (WK) 3.7i (210Hp) 2007г.в." title="заправочное устройство с накрученным на него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/583/960_700_1/583517a2ed1e19c46aee8f059444bf48.jpg" data-lightbox="example-set_38">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/583/122_91_1/583517a2ed1e19c46aee8f059444bf48.jpg" alt="Jeep Grand Cherokee III (WK) 3.7i (210Hp) 2007г.в." title="баллон объемом 95л вместо запасного колеса"/>
+                            </a></div>
+                    </div>
+<div class="work-item kia" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/9/5/7/1/2f8336237c9422dab82e61edf613.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Kia Carens III 2.0i (145Hp) 2007г.в.</h2>
+                                Kia Carens III 2.0i (145Hp) 2008г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в марте 2017г.<br>
+1. Модель автомобиля: Kia Carens III<br>
+2. двигатель: рядный, бензиновый (инжекторный), 4-цилиндровый, рабочий объем 2.0л, мощность145 л.с.<br>
+3. годы выпуска: с 2006 по 2012<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное бюджетное оборудование для установки: Lovato, Digitronic, Alpha.<br>
+6. рекомендованный баллон: тороидальный баллон объемом до 42л. (600х200) вместо запасного колеса.<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 80л. на раму вдоль заднего ряда сидений.<br>
+8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: некоторые сложности при установке заправочного устройства под лючек бензобака, в остальном вполне несложный автомобиль.  чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами. 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/354/960_700_1/354a1128db0138279be693e7a1c915cf.JPG" data-lightbox="example-set_39">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/354/122_91_1/354a1128db0138279be693e7a1c915cf.JPG" alt="Kia Carens III 2.0i (145Hp) 2008г.в." title="Kia Carens III 2.0i (145Hp) 2008г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в марте 2017г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/5c5/960_700_1/5c5e625bd553c9f87047c2d2791f85fa.JPG" data-lightbox="example-set_39">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/5c5/122_91_1/5c5e625bd553c9f87047c2d2791f85fa.JPG" alt="Kia Carens III 2.0i (145Hp) 2008г.в." title="моторный отсек."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/44e/960_700_1/44e87cb4898e4d3130e4ddaf40ef02e7.JPG" data-lightbox="example-set_39">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/44e/122_91_1/44e87cb4898e4d3130e4ddaf40ef02e7.JPG" alt="Kia Carens III 2.0i (145Hp) 2008г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/cbf/960_700_1/cbf96b56d81ace5cdc660b6d2f4932ba.JPG" data-lightbox="example-set_39">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/cbf/122_91_1/cbf96b56d81ace5cdc660b6d2f4932ba.JPG" alt="Kia Carens III 2.0i (145Hp) 2008г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/c1b/960_700_1/c1b5d1295a7429e4fab8538cfa16d17f.JPG" data-lightbox="example-set_39">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/c1b/122_91_1/c1b5d1295a7429e4fab8538cfa16d17f.JPG" alt="Kia Carens III 2.0i (145Hp) 2008г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/1e5/960_700_1/1e59dba6268310d645a8eee739933ca6.JPG" data-lightbox="example-set_39">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/1e5/122_91_1/1e59dba6268310d645a8eee739933ca6.JPG" alt="Kia Carens III 2.0i (145Hp) 2008г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня топлива."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/b63/960_700_1/b637f040610359b8c47fefe20a49603e.JPG" data-lightbox="example-set_39">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/b63/122_91_1/b637f040610359b8c47fefe20a49603e.JPG" alt="Kia Carens III 2.0i (145Hp) 2008г.в." title="заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/9ba/960_700_1/9ba683a6bf4601364706b16e205ee083.JPG" data-lightbox="example-set_39">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/9ba/122_91_1/9ba683a6bf4601364706b16e205ee083.JPG" alt="Kia Carens III 2.0i (145Hp) 2008г.в." title="заправочное устройство с вкрученным в него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/1a3/960_700_1/1a3f6f4dc87ee8aa8169f32860d63b65.JPG" data-lightbox="example-set_39">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/1a3/122_91_1/1a3f6f4dc87ee8aa8169f32860d63b65.JPG" alt="Kia Carens III 2.0i (145Hp) 2008г.в." title="тороидальный баллон объемом 42л (600х200) вместо запасного колеса."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/994/960_700_1/994cd9ded8183e82c95db8abd0b37bbc.JPG" data-lightbox="example-set_39">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/994/122_91_1/994cd9ded8183e82c95db8abd0b37bbc.JPG" alt="Kia Carens III 2.0i (145Hp) 2007г.в." title="Kia Carens III 2.0i (144Hp) 2007г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "Lovato" в июле 2016г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/89e/960_700_1/89e7b5e593046173ced2b5a2399d3fbf.JPG" data-lightbox="example-set_39">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/89e/122_91_1/89e7b5e593046173ced2b5a2399d3fbf.JPG" alt="Kia Carens III 2.0i (145Hp) 2007г.в." title="моторный отсек без декоративной крышки мотора"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/984/960_700_1/9846e30803f2f1758f4bfe299f1914fe.JPG" data-lightbox="example-set_39">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/984/122_91_1/9846e30803f2f1758f4bfe299f1914fe.JPG" alt="Kia Carens III 2.0i (145Hp) 2007г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/a4e/960_700_1/a4eca0fd7360c28661949099c89645e5.JPG" data-lightbox="example-set_39">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/a4e/122_91_1/a4eca0fd7360c28661949099c89645e5.JPG" alt="Kia Carens III 2.0i (145Hp) 2007г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/abf/960_700_1/abfdd1b1f13c5ba150006a5a0c5db8f0.JPG" data-lightbox="example-set_39">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/abf/122_91_1/abfdd1b1f13c5ba150006a5a0c5db8f0.JPG" alt="Kia Carens III 2.0i (145Hp) 2007г.в." title="заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/afc/960_700_1/afc6d06dbff753f67fd15452e23f3032.JPG" data-lightbox="example-set_39">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/afc/122_91_1/afc6d06dbff753f67fd15452e23f3032.JPG" alt="Kia Carens III 2.0i (145Hp) 2007г.в." title="заправочное устройство с накрученным на него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/dd2/960_700_1/dd23309f6fe06b681a3a6e518975ce18.JPG" data-lightbox="example-set_39">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/dd2/122_91_1/dd23309f6fe06b681a3a6e518975ce18.JPG" alt="Kia Carens III 2.0i (145Hp) 2007г.в." title="тороидальный баллон объемом 53л (630х225) вместо запасного колеса"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/5e8/960_700_1/5e89e403f53921366ed79915a12f7249.JPG" data-lightbox="example-set_39">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/5e8/122_91_1/5e89e403f53921366ed79915a12f7249.JPG" alt="Kia Carens III 2.0i (145Hp) 2007г.в." title="тороидальный баллон объемом 53л. (630х225) вместо запасного колеса"/>
+                            </a></div>
+                    </div>
+<div class="work-item kia" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/f/a/0/8/2c4ffb5f06828ba76bf666195edb.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Kia Carnival II 2.7i (189Hp) 2008г.в.</h2>
+                                Kia Carnival II 2.7i (189Hp) 2008г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в марте 2014г.<br>
+1. модель автомобиля: Kia Carnival II<br>
+2. двигатель: V-образный, бензиновый (инжекторный), 6-цилиндровый, рабочий объем 2.7л, мощность 189 л.с.<br>
+3. годы выпуска: с 2006 по 2014.<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное бюджетное оборудование для установки: Lovato, Digitronic, Alpha<br>
+6. рекомендованный баллон: а) тороидальный баллон объемом 53л. (630х225) вместо запасного колеса.<br>
+                                                     б) тороидальный баллон объемом 74л. (720х230) вместо запасного колеса<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 90л вдоль заднего ряда сидений<br>
+8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: под капотом мало места в остальном стандартный автомобиль для наших специалистов. 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/a6c/960_700_1/a6cf2228ffe827b8e2b82366e63086df.JPG" data-lightbox="example-set_40">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/a6c/122_91_1/a6cf2228ffe827b8e2b82366e63086df.JPG" alt="Kia Carnival II 2.7i (189Hp) 2008г.в." title="Kia Carnival II 2.7i (189Hp) 2008г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в марте 2014г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/4c5/960_700_1/4c533d60657b1694447dc23c53ca54ce.JPG" data-lightbox="example-set_40">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/4c5/122_91_1/4c533d60657b1694447dc23c53ca54ce.JPG" alt="Kia Carnival II 2.7i (189Hp) 2008г.в." title="моторный отсек без декоративной крышки мотора"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/93f/960_700_1/93f35c85f6541fb11662696199a7c48b.JPG" data-lightbox="example-set_40">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/93f/122_91_1/93f35c85f6541fb11662696199a7c48b.JPG" alt="Kia Carnival II 2.7i (189Hp) 2008г.в." title="подкапотное пространство"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/d6d/960_700_1/d6de0dded6024fcbaf5d73ed7d54e664.JPG" data-lightbox="example-set_40">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/d6d/122_91_1/d6de0dded6024fcbaf5d73ed7d54e664.JPG" alt="Kia Carnival II 2.7i (189Hp) 2008г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/1fe/960_700_1/1fee6b3b196a6d910c5bd32fce2ef9bf.JPG" data-lightbox="example-set_40">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/1fe/122_91_1/1fee6b3b196a6d910c5bd32fce2ef9bf.JPG" alt="Kia Carnival II 2.7i (189Hp) 2008г.в." title="внешнее заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/97e/960_700_1/97ea716ee9ced2494d4357fe46c43dd7.JPG" data-lightbox="example-set_40">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/97e/122_91_1/97ea716ee9ced2494d4357fe46c43dd7.JPG" alt="Kia Carnival II 2.7i (189Hp) 2008г.в." title="внешнее заправочное устройство с накрученным на него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e3a/960_700_1/e3a2f9fe146e26ee0f2fb1cf68579c58.JPG" data-lightbox="example-set_40">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e3a/122_91_1/e3a2f9fe146e26ee0f2fb1cf68579c58.JPG" alt="Kia Carnival II 2.7i (189Hp) 2008г.в." title="баллон объемом 53л вместо запасного колеса."/>
+                            </a></div>
+                    </div>
+<div class="work-item land rover" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/0/c/b/a/6e3b63a6734caceaab292311d5f0.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Land Rover - Range Rover II Voge 4.6i (212Hp) 1998г.в.</h2>
+                                Land Rover - Range Rover II Voge 4.6i (212Hp) 1998г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "Lovato" в июне 2013г.<br>
+1. Модель автомобиля: Land Rover - Range Rover II Voge<br>
+2. двигатель: V-образный, бензиновый, 8-цилиндровый, рабочий объем 4.6, мощность от 218 до 224 л.с. в зависимости от года выпуска.<br>
+3. годы выпуска: с 1994 по 2002.<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha.<br>
+6. рекомендованный баллон: тороидальный баллон объемом до 94л (720х270) вместо запасного колеса<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 100л на сложно-составной раме вдоль заднего ряда сидений<br>
+8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки:  вполне не сложный автомобиль (только уже старый). чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами. 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/214/960_700_1/214db051d465dcfdee505e40fb4d1b92.jpg" data-lightbox="example-set_41">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/214/122_91_1/214db051d465dcfdee505e40fb4d1b92.jpg" alt="Land Rover - Range Rover II Voge 4.6i (212Hp) 1998г.в." title="Land Rover - Range Rover II Voge 4.6i (212Hp) 1998г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "Lovato" в июне 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/557/960_700_1/5579ff7c0e90a804332882f9c713e29e.jpg" data-lightbox="example-set_41">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/557/122_91_1/5579ff7c0e90a804332882f9c713e29e.jpg" alt="Land Rover - Range Rover II Voge 4.6i (212Hp) 1998г.в." title="моторный отсек."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e22/960_700_1/e229963998be80fe3161da24ccbaa291.jpg" data-lightbox="example-set_41">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e22/122_91_1/e229963998be80fe3161da24ccbaa291.jpg" alt="Land Rover - Range Rover II Voge 4.6i (212Hp) 1998г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/018/960_700_1/01839b153e2cccdc8e3f924c34c1554a.jpg" data-lightbox="example-set_41">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/018/122_91_1/01839b153e2cccdc8e3f924c34c1554a.jpg" alt="Land Rover - Range Rover II Voge 4.6i (212Hp) 1998г.в." title="заправочное устройство в заливной горловине."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/36b/960_700_1/36b8371a9c06ac41cd05050d39027b71.jpg" data-lightbox="example-set_41">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/36b/122_91_1/36b8371a9c06ac41cd05050d39027b71.jpg" alt="Land Rover - Range Rover II Voge 4.6i (212Hp) 1998г.в." title="баллон объемом 89л вместо запасного колеса."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/cf9/960_700_1/cf9f0edcd6b392721d72ff002819b424.jpg" data-lightbox="example-set_41">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/cf9/122_91_1/cf9f0edcd6b392721d72ff002819b424.jpg" alt="Land Rover - Range Rover II Voge 4.6i (212Hp) 2001г.в." title="Land Rover - Range Rover II Voge 4.6i (212Hp) 2001г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "Alpha" в июне 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/7bc/960_700_1/7bc0a3ae8aa178b7de8d4b04b2b0d83b.jpg" data-lightbox="example-set_41">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/7bc/122_91_1/7bc0a3ae8aa178b7de8d4b04b2b0d83b.jpg" alt="Land Rover - Range Rover II Voge 4.6i (212Hp) 2001г.в." title="моторный отсек."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/7e0/960_700_1/7e0c0cbb09a3905e6888e0f121c77c56.jpg" data-lightbox="example-set_41">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/7e0/122_91_1/7e0c0cbb09a3905e6888e0f121c77c56.jpg" alt="Land Rover - Range Rover II Voge 4.6i (212Hp) 2001г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/830/960_700_1/830297a4e49eb9e85d0a9dcdbe0fce0b.jpg" data-lightbox="example-set_41">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/830/122_91_1/830297a4e49eb9e85d0a9dcdbe0fce0b.jpg" alt="Land Rover - Range Rover II Voge 4.6i (212Hp) 2001г.в." title="заправочное устройство в заливной горловине."/>
+                            </a></div>
+                    </div>
+<div class="work-item land rover" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/0/c/b/a/6e3b63a6734caceaab292311d5f0.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Land Rover - Range Rover II Voge 4.6i (212Hp) 2001г.в.</h2>
+                                Land Rover - Range Rover II Voge 4.6i (212Hp) 1998г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "Lovato" в июне 2013г.<br>
+1. Модель автомобиля: Land Rover - Range Rover II Voge<br>
+2. двигатель: V-образный, бензиновый, 8-цилиндровый, рабочий объем 4.6, мощность от 218 до 224 л.с. в зависимости от года выпуска.<br>
+3. годы выпуска: с 1994 по 2002.<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha.<br>
+6. рекомендованный баллон: тороидальный баллон объемом до 94л (720х270) вместо запасного колеса<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 100л на сложно-составной раме вдоль заднего ряда сидений<br>
+8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки:  вполне не сложный автомобиль (только уже старый). чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами. 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/214/960_700_1/214db051d465dcfdee505e40fb4d1b92.jpg" data-lightbox="example-set_42">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/214/122_91_1/214db051d465dcfdee505e40fb4d1b92.jpg" alt="Land Rover - Range Rover II Voge 4.6i (212Hp) 1998г.в." title="Land Rover - Range Rover II Voge 4.6i (212Hp) 1998г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "Lovato" в июне 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/557/960_700_1/5579ff7c0e90a804332882f9c713e29e.jpg" data-lightbox="example-set_42">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/557/122_91_1/5579ff7c0e90a804332882f9c713e29e.jpg" alt="Land Rover - Range Rover II Voge 4.6i (212Hp) 1998г.в." title="моторный отсек."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e22/960_700_1/e229963998be80fe3161da24ccbaa291.jpg" data-lightbox="example-set_42">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e22/122_91_1/e229963998be80fe3161da24ccbaa291.jpg" alt="Land Rover - Range Rover II Voge 4.6i (212Hp) 1998г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/018/960_700_1/01839b153e2cccdc8e3f924c34c1554a.jpg" data-lightbox="example-set_42">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/018/122_91_1/01839b153e2cccdc8e3f924c34c1554a.jpg" alt="Land Rover - Range Rover II Voge 4.6i (212Hp) 1998г.в." title="заправочное устройство в заливной горловине."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/36b/960_700_1/36b8371a9c06ac41cd05050d39027b71.jpg" data-lightbox="example-set_42">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/36b/122_91_1/36b8371a9c06ac41cd05050d39027b71.jpg" alt="Land Rover - Range Rover II Voge 4.6i (212Hp) 1998г.в." title="баллон объемом 89л вместо запасного колеса."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/cf9/960_700_1/cf9f0edcd6b392721d72ff002819b424.jpg" data-lightbox="example-set_42">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/cf9/122_91_1/cf9f0edcd6b392721d72ff002819b424.jpg" alt="Land Rover - Range Rover II Voge 4.6i (212Hp) 2001г.в." title="Land Rover - Range Rover II Voge 4.6i (212Hp) 2001г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "Alpha" в июне 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/7bc/960_700_1/7bc0a3ae8aa178b7de8d4b04b2b0d83b.jpg" data-lightbox="example-set_42">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/7bc/122_91_1/7bc0a3ae8aa178b7de8d4b04b2b0d83b.jpg" alt="Land Rover - Range Rover II Voge 4.6i (212Hp) 2001г.в." title="моторный отсек."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/7e0/960_700_1/7e0c0cbb09a3905e6888e0f121c77c56.jpg" data-lightbox="example-set_42">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/7e0/122_91_1/7e0c0cbb09a3905e6888e0f121c77c56.jpg" alt="Land Rover - Range Rover II Voge 4.6i (212Hp) 2001г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/830/960_700_1/830297a4e49eb9e85d0a9dcdbe0fce0b.jpg" data-lightbox="example-set_42">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/830/122_91_1/830297a4e49eb9e85d0a9dcdbe0fce0b.jpg" alt="Land Rover - Range Rover II Voge 4.6i (212Hp) 2001г.в." title="заправочное устройство в заливной горловине."/>
+                            </a></div>
+                    </div>
+<div class="work-item lexus" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/1/6/7/7/3149a3fe12665aa8e53d91fb039a.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Lexus ES350 V (рестайл) 3.5i (277Hp) 2010г.в.</h2>
+                                Lexus ES350 V (рестайл) 3.5i (277Hp) 2010г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы распределенного фазированного впрыска газа - "BRC" в сентябре 2011г.<br>
+1. модель автомобиля: Lexus ES350 V (рестайл)<br>
+2. двигатель: V-образный, бензиновый (инжекторный), 6-цилиндровый, рабочий объем 3.5л, мощность 277 л.с.<br>
+3. годы выпуска: с 2009 по 2012.<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное бюджетное оборудование для установки: Lovato, Digitronic, Alpha.<br>
+6. рекомендованный баллон: тороидальный баллон объемом 60л. (630х225) вместо запасного колеса<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 80л вдоль заднего ряда сидений в багажном отделении.<br>
+8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: вполне логичный автомобиль как и все этой марки. чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/2a8/960_700_1/2a8bdcc8a7815986de92499aa0fb2aee.jpg" data-lightbox="example-set_43">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/2a8/122_91_1/2a8bdcc8a7815986de92499aa0fb2aee.jpg" alt="Lexus ES350 V (рестайл) 3.5i (277Hp) 2010г.в." title="Lexus ES350 V (рестайл) 3.5i (277Hp) 2010г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы распределенного фазированного впрыска газа - "BRC" в сентябре 2011г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/4c0/960_700_1/4c0993188880778fbe8a167fb37dac6e.jpg" data-lightbox="example-set_43">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/4c0/122_91_1/4c0993188880778fbe8a167fb37dac6e.jpg" alt="Lexus ES350 V (рестайл) 3.5i (277Hp) 2010г.в." title="подкапотное пространство"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/b5b/960_700_1/b5bef4e9e5c740058b49000a8b73d1a7.jpg" data-lightbox="example-set_43">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/b5b/122_91_1/b5bef4e9e5c740058b49000a8b73d1a7.jpg" alt="Lexus ES350 V (рестайл) 3.5i (277Hp) 2010г.в." title="заправочное устройство вмонтировано в лючок бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/4c4/960_700_1/4c413b649c6b08af8789749775a753c2.jpg" data-lightbox="example-set_43">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/4c4/122_91_1/4c413b649c6b08af8789749775a753c2.jpg" alt="Lexus ES350 V (рестайл) 3.5i (277Hp) 2010г.в." title="вместо запасного колеса баллон объемом 60л"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/262/960_700_1/2626f0edef19d60450760cc5d50b7e3c.jpg" data-lightbox="example-set_43">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/262/122_91_1/2626f0edef19d60450760cc5d50b7e3c.jpg" alt="Lexus ES350 V (рестайл) 3.5i (277Hp) 2010г.в." title="багажный отсек"/>
+                            </a></div>
+                    </div>
+<div class="work-item lexus" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/7/2/d/9/1b6ddecf4038ee5c738f9718e06d.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Lexus GX460 II (дорестайл) 4.6i (296Hp) 2011г.в.</h2>
+                                Lexus GX460 II (дорестайл) 4.6i (296Hp) 2011г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "Alpha-M" в июне 2016г.<br>
+1. Модель автомобиля: Lexus GX460  II (дорестайл)<br>
+2. двигатель: V-образный, бензиновый, 8-цилиндровый, рабочий объем 4.6л, мощность от 296 л.с.<br>
+3. годы выпуска: с 2009 по 2013.<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha.<br>
+6. рекомендованный баллон: тороидальный баллон объемом 94л (720х270) вместо запасного колеса<br>
+7. альтернативный вариант установки баллона:  цилиндрический баллон объемом до 130л в кузове.<br>
+8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки:  все нюансы установки на такой автомобиль произрастают из его размеров, если баллон так самый большой, а под капотом приходится скакать как кузнечик. в общем автомобиль простой, работать с таким одно удовольствие. чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами. 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/a30/960_700_1/a309ce24531cef8fd799a0546f77e430.JPG" data-lightbox="example-set_44">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/a30/122_91_1/a309ce24531cef8fd799a0546f77e430.JPG" alt="Lexus GX460 II (дорестайл) 4.6i (296Hp) 2011г.в." title="Lexus GX460 II (дорестайл) 4.6i (296Hp) 2011г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "Alpha-M" в июне 2016г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/cf7/960_700_1/cf7a989f5158c84ed39cc0d2a7d3b96b.JPG" data-lightbox="example-set_44">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/cf7/122_91_1/cf7a989f5158c84ed39cc0d2a7d3b96b.JPG" alt="Lexus GX460 II (дорестайл) 4.6i (296Hp) 2011г.в." title="моторный отсек без декоративной крышки мотора"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/b9f/960_700_1/b9f980ff569388c2c5d20022d07cc312.JPG" data-lightbox="example-set_44">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/b9f/122_91_1/b9f980ff569388c2c5d20022d07cc312.JPG" alt="Lexus GX460 II (дорестайл) 4.6i (296Hp) 2011г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/1af/960_700_1/1af572293f068468fa7462e8413506b5.JPG" data-lightbox="example-set_44">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/1af/122_91_1/1af572293f068468fa7462e8413506b5.JPG" alt="Lexus GX460 II (дорестайл) 4.6i (296Hp) 2011г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/23a/960_700_1/23a1068693b5b730c0da89fd6d453676.JPG" data-lightbox="example-set_44">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/23a/122_91_1/23a1068693b5b730c0da89fd6d453676.JPG" alt="Lexus GX460 II (дорестайл) 4.6i (296Hp) 2011г.в." title="заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/b62/960_700_1/b627dac065e995306e2e787b05aab93e.JPG" data-lightbox="example-set_44">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/b62/122_91_1/b627dac065e995306e2e787b05aab93e.JPG" alt="Lexus GX460 II (дорестайл) 4.6i (296Hp) 2011г.в." title="заправочное устройство с накрученным на него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/afb/960_700_1/afba8d1c682cfc2ce10a2e0404370246.JPG" data-lightbox="example-set_44">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/afb/122_91_1/afba8d1c682cfc2ce10a2e0404370246.JPG" alt="Lexus GX460 II (дорестайл) 4.6i (296Hp) 2011г.в." title="тороидальный баллон объемом 94л (720х270) вместо запасного колеса"/>
+                            </a></div>
+                    </div>
+<div class="work-item lifan" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/c/a/3/5/da2d40f0be7763c4ce676746db8d.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Lifan X60 I (дорестайл) 1.8i (128Hp) 2013г.в.</h2>
+                                Lifan X60 I (дорестайл) 1.8i (128Hp) 2013г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы распределенного фазированного впрыска газа - "BRC" в мае 2012.<br>
+1. Модель автомобиля:  Lifan X60 I (дорестайл)<br>
+2. двигатель: рядный, бензиновый, 4-цилиндровый, рабочий объем 1.8л, мощность 128 л.с.<br>
+3. годы выпуска: с 2012 по 2015<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha<br>
+6. рекомендованный баллон: тороидальный баллон вместо запасного колеса объемом 53л. (630х225)<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом 80л. в багажном отделении вдоль заднего ряда сидений.<br>
+8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: сложного ничего нет.
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/ee1/960_700_1/ee1a56577457a8bf99ecda3b7cb69790.jpg" data-lightbox="example-set_45">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/ee1/122_91_1/ee1a56577457a8bf99ecda3b7cb69790.jpg" alt="Lifan X60 I (дорестайл) 1.8i (128Hp) 2013г.в." title="Lifan X60 I (дорестайл) 1.8i (128Hp) 2013г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы распределенного фазированного впрыска газа - "BRC" в мае 2012."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/be8/960_700_1/be8484a091da73136aad27f6daa46a1d.jpg" data-lightbox="example-set_45">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/be8/122_91_1/be8484a091da73136aad27f6daa46a1d.jpg" alt="Lifan X60 I (дорестайл) 1.8i (128Hp) 2013г.в." title="моторный отсек."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/2de/960_700_1/2de84a7d2b30a695cc6e2873efda7c05.jpg" data-lightbox="example-set_45">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/2de/122_91_1/2de84a7d2b30a695cc6e2873efda7c05.jpg" alt="Lifan X60 I (дорестайл) 1.8i (128Hp) 2013г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/38b/960_700_1/38bc611da3e1914df3693b7a5556276d.jpg" data-lightbox="example-set_45">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/38b/122_91_1/38bc611da3e1914df3693b7a5556276d.jpg" alt="Lifan X60 I (дорестайл) 1.8i (128Hp) 2013г.в." title="заправочное устройство в заливной горловине."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/4ce/960_700_1/4cecdc5266ff634b57cef0e57b2ccb8e.jpg" data-lightbox="example-set_45">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/4ce/122_91_1/4cecdc5266ff634b57cef0e57b2ccb8e.jpg" alt="Lifan X60 I (дорестайл) 1.8i (128Hp) 2013г.в." title="заправочное устройство с накрученным на него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/283/960_700_1/283cd6a7edbd34e3e53e06470ecdf2fe.jpg" data-lightbox="example-set_45">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/283/122_91_1/283cd6a7edbd34e3e53e06470ecdf2fe.jpg" alt="Lifan X60 I (дорестайл) 1.8i (128Hp) 2013г.в." title="баллон объемом 53л вместо запасного колеса."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/543/960_700_1/543405bf4648e9b9d5ef26c571b0462b.jpg" data-lightbox="example-set_45">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/543/122_91_1/543405bf4648e9b9d5ef26c571b0462b.jpg" alt="Lifan X60 I (дорестайл) 1.8i (128Hp) 2013г.в." title="багажное отделение"/>
+                            </a></div>
+                    </div>
+<div class="work-item lincoln" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/2/c/7/9/12db64d1ad62c11dbacde0acf441.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Lincoln Navigator I 5.4i (304Hp) 2001г.в.</h2>
+                                Lincoln Navigator I 5.4i (304Hp) 2001г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в сентябре 2013г.<br>
+1. Модель автомобиля:  Lincoln Navigator I<br>
+2. двигатель: V-образный, бензиновый, 8-цилиндровый, рабочий объем 5.4л, мощность от 232 до 304 л.с. в зависимости от года выпуска.<br>
+3. годы выпуска: с 1997 по 2003<br>
+4. рекомендованное оборудование для установки: BRC Plug&amp;Drive<br>
+5. альтернативное оборудование для установки:  Alpha-M, Lovato<br>
+6. рекомендованный баллон: тороидальный баллон объемом 94л. (720х270) вместо запасного колеса.<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 150л на сложно-составную раму в багажное отделение<br>
+8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: очень трудоемкий автомобиль - изначально планируется полтора рабочих дня.
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/d59/960_700_1/d5965c54056b0a0a5ee8782aac7624b2.jpg" data-lightbox="example-set_46">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/d59/122_91_1/d5965c54056b0a0a5ee8782aac7624b2.jpg" alt="Lincoln Navigator I 5.4i (304Hp) 2001г.в." title="Lincoln Navigator I 5.4i (304Hp) 2001г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в сентябре 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/309/960_700_1/30930eea5e60b8381fc76c1b558dddd6.jpg" data-lightbox="example-set_46">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/309/122_91_1/30930eea5e60b8381fc76c1b558dddd6.jpg" alt="Lincoln Navigator I 5.4i (304Hp) 2001г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/92e/960_700_1/92e1378391737ab709d29550c3dca15c.jpg" data-lightbox="example-set_46">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/92e/122_91_1/92e1378391737ab709d29550c3dca15c.jpg" alt="Lincoln Navigator I 5.4i (304Hp) 2001г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/3b0/960_700_1/3b0157d26f2022b69dbad384f0d02917.jpg" data-lightbox="example-set_46">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/3b0/122_91_1/3b0157d26f2022b69dbad384f0d02917.jpg" alt="Lincoln Navigator I 5.4i (304Hp) 2001г.в." title="заправочное устройство поместилось под крышкой лючка заливной горловины бензобака."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/dde/960_700_1/dded81a8142a527e1416b0bcb71409c5.jpg" data-lightbox="example-set_46">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/dde/122_91_1/dded81a8142a527e1416b0bcb71409c5.jpg" alt="Lincoln Navigator I 5.4i (304Hp) 2001г.в." title="заправочное устройство с накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/fe1/960_700_1/fe14a51cd60532540653d79436c230b3.jpg" data-lightbox="example-set_46">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/fe1/122_91_1/fe14a51cd60532540653d79436c230b3.jpg" alt="Lincoln Navigator I 5.4i (304Hp) 2001г.в." title="баллон объемом 92л вместо запасного колеса"/>
+                            </a></div>
+                    </div>
+<div class="work-item mazda" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/2/b/3/8/8bfdf7c04c52da585f4f6b595d5e.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Mazda 3 I (BK) (седан) (дорестайл) 2.0i (150Hp) 2007г.в.</h2>
+                                Mazda 3 I (BK) (седан) (дорестайл) 2.0i (150Hp) 2007г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в июне 2013г.<br>
+1. Модель автомобиля: Mazda 3 I (BK) (седан) (дорестайл)<br>
+2. двигатель: рядный, бензиновый (инжекторный), 4-цилиндровый, рабочий объем 2.0л, мощность 150 л.с.<br>
+3. годы выпуска: с 2003 по 2006.<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha.<br>
+6. рекомендованный баллон: тороидальный баллон объемом до 42л. (600х200) вместо запасного колеса.<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 80л. на сложно-составную раму вдоль заднего ряда сидений.<br>
+8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: все довольно просто и логично.  чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами. 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/19d/960_700_1/19d6c2ec369f6733e466e2cf3c7d3c49.JPG" data-lightbox="example-set_47">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/19d/122_91_1/19d6c2ec369f6733e466e2cf3c7d3c49.JPG" alt="Mazda 3 I (BK) (седан) (дорестайл) 2.0i (150Hp) 2007г.в." title="Mazda 3 I (BK) (седан) (дорестайл) 2.0i (150Hp) 2007г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в июне 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/ec0/960_700_1/ec00d0345236c31858d1b1693a5137d5.JPG" data-lightbox="example-set_47">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/ec0/122_91_1/ec00d0345236c31858d1b1693a5137d5.JPG" alt="Mazda 3 I (BK) (седан) (дорестайл) 2.0i (150Hp) 2007г.в." title="моторный отсек без декоративной крышки мотора."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e1c/960_700_1/e1c0fc9aac09c45a3bfe8f1424aa3d2d.JPG" data-lightbox="example-set_47">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e1c/122_91_1/e1c0fc9aac09c45a3bfe8f1424aa3d2d.JPG" alt="Mazda 3 I (BK) (седан) (дорестайл) 2.0i (150Hp) 2007г.в." title="подкапотное пространство"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/879/960_700_1/87926f00d46582667138ec5ceae65c71.jpg" data-lightbox="example-set_47">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/879/122_91_1/87926f00d46582667138ec5ceae65c71.jpg" alt="Mazda 3 I (BK) (седан) (дорестайл) 2.0i (150Hp) 2007г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/796/960_700_1/796e4e1611cd4c6c3e9cd6912ee40cb7.JPG" data-lightbox="example-set_47">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/796/122_91_1/796e4e1611cd4c6c3e9cd6912ee40cb7.JPG" alt="Mazda 3 I (BK) (седан) (дорестайл) 2.0i (150Hp) 2007г.в." title="заправочное устройство поместилось в заливной горловине"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/a07/960_700_1/a07a5ebf2852ae0af6f495ddd9bc1b3e.JPG" data-lightbox="example-set_47">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/a07/122_91_1/a07a5ebf2852ae0af6f495ddd9bc1b3e.JPG" alt="Mazda 3 I (BK) (седан) (дорестайл) 2.0i (150Hp) 2007г.в." title="заправочное устройство с накрученным на него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e45/960_700_1/e4552fdbf3f6dfc55c95f86f4eaf1a82.JPG" data-lightbox="example-set_47">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e45/122_91_1/e4552fdbf3f6dfc55c95f86f4eaf1a82.JPG" alt="Mazda 3 I (BK) (седан) (дорестайл) 2.0i (150Hp) 2007г.в." title="баллон объемом 65л на сложно-составной раме вдоль заднего ряда сидений."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/2d1/960_700_1/2d13f7869acb1b56aef964840337c160.JPG" data-lightbox="example-set_47">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/2d1/122_91_1/2d13f7869acb1b56aef964840337c160.JPG" alt="Mazda 3 I (BK) (седан) (дорестайл) 2.0i (150Hp) 2007г.в." title="багажное отделение."/>
+                            </a></div>
+                    </div>
+<div class="work-item mazda" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/2/e/4/4/4223bb04121fe2150084c861d3f0.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Mazda 6 II (GH) (седан) (рестайл) 2.0i (147Hp) 2011г.в.</h2>
+                                Mazda 6 II (GH) (седан) (рестайл) 2.0i (147Hp) 2011г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в июле 2013г.<br>
+1. Модель автомобиля: Mazda 6 II (GH) (седан) (рестайл)<br>
+2. двигатель: рядный, бензиновый (инжекторный), 4-цилиндровый, рабочий объем 2.0л, мощность 147 л.с.<br>
+3. годы выпуска: с 2010 по 2012.<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha.<br>
+6. рекомендованный баллон: тороидальный баллон объемом до 53л. (630х225) вместо запасного колеса.<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 80л. на сложно-составную раму вдоль заднего ряда сидений.<br>
+8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: все довольно просто и логично.  чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами. 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/8a6/960_700_1/8a68d34a59241f059c031575cf29d65d.JPG" data-lightbox="example-set_48">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/8a6/122_91_1/8a68d34a59241f059c031575cf29d65d.JPG" alt="Mazda 6 II (GH) (седан) (рестайл) 2.0i (147Hp) 2011г.в." title="Mazda 6 II (GH) (седан) (рестайл) 2.0i (147Hp) 2011г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в июле 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/23f/960_700_1/23f98a7e9183de89f99011db280a737c.JPG" data-lightbox="example-set_48">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/23f/122_91_1/23f98a7e9183de89f99011db280a737c.JPG" alt="Mazda 6 II (GH) (седан) (рестайл) 2.0i (147Hp) 2011г.в." title="моторный отсек без декоративной крышки мотора"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/895/960_700_1/895bbee006098a1397cc5ffd8fcca285.JPG" data-lightbox="example-set_48">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/895/122_91_1/895bbee006098a1397cc5ffd8fcca285.JPG" alt="Mazda 6 II (GH) (седан) (рестайл) 2.0i (147Hp) 2011г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/9b0/960_700_1/9b04cfc2557065ce89b468c3170d839e.JPG" data-lightbox="example-set_48">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/9b0/122_91_1/9b04cfc2557065ce89b468c3170d839e.JPG" alt="Mazda 6 II (GH) (седан) (рестайл) 2.0i (147Hp) 2011г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e48/960_700_1/e482c0815a25ced9aec42869c14472b7.JPG" data-lightbox="example-set_48">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e48/122_91_1/e482c0815a25ced9aec42869c14472b7.JPG" alt="Mazda 6 II (GH) (седан) (рестайл) 2.0i (147Hp) 2011г.в." title="заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/048/960_700_1/0486edccaf070b5ebbc7f7a5c0b53775.JPG" data-lightbox="example-set_48">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/048/122_91_1/0486edccaf070b5ebbc7f7a5c0b53775.JPG" alt="Mazda 6 II (GH) (седан) (рестайл) 2.0i (147Hp) 2011г.в." title="заправочное устройство с накрученным на него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/0d5/960_700_1/0d5756969214b20b6470a8b85f23917b.JPG" data-lightbox="example-set_48">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/0d5/122_91_1/0d5756969214b20b6470a8b85f23917b.JPG" alt="Mazda 6 II (GH) (седан) (рестайл) 2.0i (147Hp) 2011г.в." title="тороидальный баллон объемом 53л (630х225) вместо запасного колеса"/>
+                            </a></div>
+                    </div>
+<div class="work-item mercedes-benz" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/4/e/8/c/2420f93a42feb059b00b16780a07.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Mercedes-Benz C180 II (W203) (седан) (дорестайл) 1.8i (129Hp) 2001г.в.</h2>
+                                Mercedes-Benz C180 II (W203) (седан) (дорестайл) 1.8i (129Hp) 2001г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в октябре 2013г.<br>
+1. Модель автомобиля: Mercedes-Benz C180 II (W203) (седан) (дорестайл)<br>
+2. двигатель: рядный, бензиновый, инжекторный, 4-цилиндровый, рабочий объем 1.8л, мощность 129 л.с.<br>
+3. годы выпуска: с 2000 по 2004.<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha.<br>
+6. рекомендованный баллон: тороидальный баллон объемом 53л (630х225) вместо запасного колеса<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 80л вдоль заднего ряда сидений.<br>
+8. установка внешнего заправочного устройства: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: как и все мерседесы крайне трудоемкий автомобиль. чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами   
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/5fd/960_700_1/5fdf21911e0439c80d4e4fdfbcae4c63.JPG" data-lightbox="example-set_49">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/5fd/122_91_1/5fdf21911e0439c80d4e4fdfbcae4c63.JPG" alt="Mercedes-Benz C180 II (W203) (седан) (дорестайл) 1.8i (129Hp) 2001г.в." title="Mercedes-Benz C180 II (W203) (седан) (дорестайл) 1.8i (129Hp) 2001г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в октябре 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/adc/960_700_1/adc494ded2d68af3f39cc66fcb4dfa18.JPG" data-lightbox="example-set_49">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/adc/122_91_1/adc494ded2d68af3f39cc66fcb4dfa18.JPG" alt="Mercedes-Benz C180 II (W203) (седан) (дорестайл) 1.8i (129Hp) 2001г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/1ed/960_700_1/1ed1a1c33762963fcf7022c40d25d590.JPG" data-lightbox="example-set_49">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/1ed/122_91_1/1ed1a1c33762963fcf7022c40d25d590.JPG" alt="Mercedes-Benz C180 II (W203) (седан) (дорестайл) 1.8i (129Hp) 2001г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/347/960_700_1/3471bb60d6731f4ba22b781736459cb4.JPG" data-lightbox="example-set_49">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/347/122_91_1/3471bb60d6731f4ba22b781736459cb4.JPG" alt="Mercedes-Benz C180 II (W203) (седан) (дорестайл) 1.8i (129Hp) 2001г.в." title="заправочное устройство поместилось под крышкой лючка заливной горловины бензобака."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/126/960_700_1/126edf8ee0e32cdc98402221a34e0798.JPG" data-lightbox="example-set_49">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/126/122_91_1/126edf8ee0e32cdc98402221a34e0798.JPG" alt="Mercedes-Benz C180 II (W203) (седан) (дорестайл) 1.8i (129Hp) 2001г.в." title="заправочное устройство с накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/976/960_700_1/9762e1f986a0b0968b5382e69b25fd73.JPG" data-lightbox="example-set_49">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/976/122_91_1/9762e1f986a0b0968b5382e69b25fd73.JPG" alt="Mercedes-Benz C180 II (W203) (седан) (дорестайл) 1.8i (129Hp) 2001г.в." title="баллон объемом 80л. на сложно-составной раме вдоль заднего ряда сидений"/>
+                            </a></div>
+                    </div>
+<div class="work-item mercedes-benz" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/7/b/7/3/860a7d9aa6c7aeed3b0e60773f2e.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Mercedes-Benz C240 II (W203) (седан) (дорестайл) 2.6i (170Hp) 2001г.в.</h2>
+                                Mercedes-Benz C240 II (W203) (седан) (дорестайл) 2.6i (170Hp) 2001г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "Alpha-M" в ноябре 2013г.<br>
+1. модель автомобиля: Mercedes-Benz C240 II (W203) (седан) (дорестайл)<br>
+2. двигатель: V-образный, бензиновый (инжекторный), 6-цилиндровый, рабочий объем 2.6л, мощность 170 л.с.<br>
+3. годы выпуска: с 2001 по 2004.<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha-M.<br>
+6. рекомендованный баллон:  а) тороидальный баллон объемом 53л (630х225) вместо запасного клдеса<br>
+                                               б) цилиндрический баллон объемом 90л. вдоль заднего ряда сидений.<br>
+7. альтернативный вариант установки баллона: нет.<br>
+8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: очень трудоемкий автомобиль. чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/d8e/960_700_1/d8ee99bc3950775c2c75fffcce48090c.JPG" data-lightbox="example-set_50">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/d8e/122_91_1/d8ee99bc3950775c2c75fffcce48090c.JPG" alt="Mercedes-Benz C240 II (W203) (седан) (дорестайл) 2.6i (170Hp) 2001г.в." title="Mercedes-Benz C240 II (W203) (седан) (дорестайл) 2.6i (170Hp) 2001г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "Alpha-M" в ноябре 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e6a/960_700_1/e6a7425ba04dc74694d0a077ac6ecbae.JPG" data-lightbox="example-set_50">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e6a/122_91_1/e6a7425ba04dc74694d0a077ac6ecbae.JPG" alt="Mercedes-Benz C240 II (W203) (седан) (дорестайл) 2.6i (170Hp) 2001г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/135/960_700_1/13547713cdc82b74b5fc929616fd3fa6.JPG" data-lightbox="example-set_50">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/135/122_91_1/13547713cdc82b74b5fc929616fd3fa6.JPG" alt="Mercedes-Benz C240 II (W203) (седан) (дорестайл) 2.6i (170Hp) 2001г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/5d4/960_700_1/5d46e3fa045ac10f507c61fee028a2aa.JPG" data-lightbox="example-set_50">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/5d4/122_91_1/5d46e3fa045ac10f507c61fee028a2aa.JPG" alt="Mercedes-Benz C240 II (W203) (седан) (дорестайл) 2.6i (170Hp) 2001г.в." title="заправочное устройство поместилось под крышкой лючка заливной горловины бензобака."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/657/960_700_1/657f3d4c47fb72e71852161dd33ad327.JPG" data-lightbox="example-set_50">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/657/122_91_1/657f3d4c47fb72e71852161dd33ad327.JPG" alt="Mercedes-Benz C240 II (W203) (седан) (дорестайл) 2.6i (170Hp) 2001г.в." title="заправочное устройство с накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/4dc/960_700_1/4dc5d3c21bfa6e944a63f19307a42e4c.JPG" data-lightbox="example-set_50">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/4dc/122_91_1/4dc5d3c21bfa6e944a63f19307a42e4c.JPG" alt="Mercedes-Benz C240 II (W203) (седан) (дорестайл) 2.6i (170Hp) 2001г.в." title="баллон объемом 53л вместо запасного колеса."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/5fb/960_700_1/5fb2711b6998f37e1bdacfd67853efdc.JPG" data-lightbox="example-set_50">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/5fb/122_91_1/5fb2711b6998f37e1bdacfd67853efdc.JPG" alt="Mercedes-Benz C240 II (W203) (седан) (дорестайл) 2.6i (170Hp) 2001г.в." title="багажное отделение."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/bc4/960_700_1/bc45df5ec68315d1cd410775089eee53.JPG" data-lightbox="example-set_50">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/bc4/122_91_1/bc45df5ec68315d1cd410775089eee53.JPG" alt="Mercedes-Benz C240 II (W203) (седан) (дорестайл) 2.6i (170Hp) 2002г.в." title="Mercedes-Benz C240 II (W203) (седан) (дорестайл) 2.6i (170Hp) 2002г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в мае 2014г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/a8a/960_700_1/a8a79da1ff3ef618484f948a7c20ff20.JPG" data-lightbox="example-set_50">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/a8a/122_91_1/a8a79da1ff3ef618484f948a7c20ff20.JPG" alt="Mercedes-Benz C240 II (W203) (седан) (дорестайл) 2.6i (170Hp) 2002г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/1fe/960_700_1/1fe1e30d13ecd29cb87257d2b801047d.JPG" data-lightbox="example-set_50">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/1fe/122_91_1/1fe1e30d13ecd29cb87257d2b801047d.JPG" alt="Mercedes-Benz C240 II (W203) (седан) (дорестайл) 2.6i (170Hp) 2002г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/490/960_700_1/490cd5a32a17a58637bfa6213310878b.JPG" data-lightbox="example-set_50">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/490/122_91_1/490cd5a32a17a58637bfa6213310878b.JPG" alt="Mercedes-Benz C240 II (W203) (седан) (дорестайл) 2.6i (170Hp) 2002г.в." title="внешнее заправочное устройство поместилось в лючке бензобака."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/3cb/960_700_1/3cb6d7d0163fd88ac5d96c8034e07f64.JPG" data-lightbox="example-set_50">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/3cb/122_91_1/3cb6d7d0163fd88ac5d96c8034e07f64.JPG" alt="Mercedes-Benz C240 II (W203) (седан) (дорестайл) 2.6i (170Hp) 2002г.в." title="внешнее заправочное устройство с накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/ad7/960_700_1/ad74661a423242d4a41b23e03db463e9.JPG" data-lightbox="example-set_50">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/ad7/122_91_1/ad74661a423242d4a41b23e03db463e9.JPG" alt="Mercedes-Benz C240 II (W203) (седан) (дорестайл) 2.6i (170Hp) 2002г.в." title="тороидальный баллон объемом 53л (630х225) вместо запасного колеса"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/943/960_700_1/943ead10800d96a8ec53e265078a8fc9.JPG" data-lightbox="example-set_50">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/943/122_91_1/943ead10800d96a8ec53e265078a8fc9.JPG" alt="Mercedes-Benz C240 II (W203) (седан) (дорестайл) 2.6i (170Hp) 2002г.в." title="багажное отделение."/>
+                            </a></div>
+                    </div>
+<div class="work-item mitsubishi" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/3/5/c/9/9e06faac516dfd3abeddf77d83d5.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Mitsubishi ASX I (дорестайл) 1.6i (117Hp) 2012г.в.</h2>
+                                Mitsubishi ASX I (дорестайл) 1.6i (117Hp) 2012г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в мае 2014г.<br>
+1. Модель автомобиля: Mitsubishi ASX I (дорестайл)<br>
+2. двигатель: рядный, бензиновый, 4-цилиндровый, рабочий объем 1.6л, мощность от 117 л.с.<br>
+3. годы выпуска: с 2010 по 2013.<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha.<br>
+6. рекомендованный баллон: а) тороидальный баллон объемом 53л (630х225) вместо запасного колеса<br>
+                                              б) тороидальный баллон объемом 74л (720х230) вместо запасного колеса<br>
+7. альтернативный вариант установки баллона:нет<br>
+8. установка внешнего заправочного устройства: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: довольно несложный автомобиль. чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/968/960_700_1/968ed62a259d2d2362607f91167d39fc.JPG" data-lightbox="example-set_51">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/968/122_91_1/968ed62a259d2d2362607f91167d39fc.JPG" alt="Mitsubishi ASX I (дорестайл) 1.6i (117Hp) 2012г.в." title="Mitsubishi ASX I (дорестайл) 1.6i (117Hp) 2012г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в мае 2014г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/70e/960_700_1/70eda3ac838ab90451654afed9e41236.JPG" data-lightbox="example-set_51">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/70e/122_91_1/70eda3ac838ab90451654afed9e41236.JPG" alt="Mitsubishi ASX I (дорестайл) 1.6i (117Hp) 2012г.в." title="моторный отсек без декоративной крышки мотора"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/ca2/960_700_1/ca219e8d7f6f092b736a0d8fb558fec6.JPG" data-lightbox="example-set_51">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/ca2/122_91_1/ca219e8d7f6f092b736a0d8fb558fec6.JPG" alt="Mitsubishi ASX I (дорестайл) 1.6i (117Hp) 2012г.в." title="подкапотное пространство"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/085/960_700_1/085d5c1952ace2adb6fe24af647c9827.JPG" data-lightbox="example-set_51">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/085/122_91_1/085d5c1952ace2adb6fe24af647c9827.JPG" alt="Mitsubishi ASX I (дорестайл) 1.6i (117Hp) 2012г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/2c1/960_700_1/2c1a719c8392543f28491f9e8018443d.JPG" data-lightbox="example-set_51">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/2c1/122_91_1/2c1a719c8392543f28491f9e8018443d.JPG" alt="Mitsubishi ASX I (дорестайл) 1.6i (117Hp) 2012г.в." title="внешнее заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/2d1/960_700_1/2d1584e50ad548d892c1b02af701bc60.JPG" data-lightbox="example-set_51">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/2d1/122_91_1/2d1584e50ad548d892c1b02af701bc60.JPG" alt="Mitsubishi ASX I (дорестайл) 1.6i (117Hp) 2012г.в." title="внешнее заправочное устройство с накрученным на него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/8c8/960_700_1/8c8400346d10253f070e7e62bac33dd9.JPG" data-lightbox="example-set_51">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/8c8/122_91_1/8c8400346d10253f070e7e62bac33dd9.JPG" alt="Mitsubishi ASX I (дорестайл) 1.6i (117Hp) 2012г.в." title="тороидальный баллон объемом 72л (720х225) вместо запасного колеса"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/19d/960_700_1/19defc308801375a3679fe941a722415.JPG" data-lightbox="example-set_51">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/19d/122_91_1/19defc308801375a3679fe941a722415.JPG" alt="Mitsubishi ASX I (дорестайл) 1.6i (117Hp) 2012г.в." title="багажное отделение."/>
+                            </a></div>
+                    </div>
+<div class="work-item mitsubishi" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/c/0/2/d/f34017d15efa9a868d0775b494e3.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Mitsubishi Lancer X (дорестайл) (седан) 1.5i (109Hp) 2010г.в.</h2>
+                                Mitsubishi Lancer X (дорестайл) (седан) 1.5i (109Hp) 2009г.в.переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы распределенного фазированного впрыска газа - "BRC" в мае 2013г.<br>
+1. Модель автомобиля: Mitsubishi Lancer X (дорестайл) (седан)<br>
+2. двигатель: рядный, бензиновый, инжекторный, 4-цилиндровый, рабочий объем 1.5л, мощность 109 л.с.<br>
+3. годы выпуска: с 2007 по 2010.<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha.<br>
+6. рекомендованный баллон: тороидальный баллон объемом 53л (630х225) вместо запасного колеса<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 90л вдоль заднего ряда сидений.<br>
+8. установка внешнего заправочного устройства: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: в общем сложностей нет. чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами   
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/865/960_700_1/865d323a5a1f331a38a75c1f1b2b6d8d.JPG" data-lightbox="example-set_52">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/865/122_91_1/865d323a5a1f331a38a75c1f1b2b6d8d.JPG" alt="Mitsubishi Lancer X (дорестайл) (седан) 1.5i (109Hp) 2009г.в." title="Mitsubishi Lancer X (дорестайл) (седан) 1.5i (109Hp) 2009г.в.переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы распределенного фазированного впрыска газа - "BRC" в мае 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/b5f/960_700_1/b5f4141a1fcfc649bbe0db7a74f47a1b.JPG" data-lightbox="example-set_52">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/b5f/122_91_1/b5f4141a1fcfc649bbe0db7a74f47a1b.JPG" alt="Mitsubishi Lancer X (дорестайл) (седан) 1.5i (109Hp) 2009г.в." title="моторный отсек, без декоративной крышки мотора."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/907/960_700_1/907eb61df44259bc3e1db848b2255d9c.JPG" data-lightbox="example-set_52">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/907/122_91_1/907eb61df44259bc3e1db848b2255d9c.JPG" alt="Mitsubishi Lancer X (дорестайл) (седан) 1.5i (109Hp) 2009г.в." title="подкапотное пространство"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/d89/960_700_1/d892e44174d09e5cf04bc0a2134859f6.JPG" data-lightbox="example-set_52">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/d89/122_91_1/d892e44174d09e5cf04bc0a2134859f6.JPG" alt="Mitsubishi Lancer X (дорестайл) (седан) 1.5i (109Hp) 2009г.в." title="заправочное устройство в заливной горловине."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/a62/960_700_1/a6215b232fab07a983003e504ba0ba1a.JPG" data-lightbox="example-set_52">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/a62/122_91_1/a6215b232fab07a983003e504ba0ba1a.JPG" alt="Mitsubishi Lancer X (дорестайл) (седан) 1.5i (109Hp) 2009г.в." title="заправочное устройство с накрученным на него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/12c/960_700_1/12c98f0e2608b18f710f9b5b2a25b630.JPG" data-lightbox="example-set_52">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/12c/122_91_1/12c98f0e2608b18f710f9b5b2a25b630.JPG" alt="Mitsubishi Lancer X (дорестайл) (седан) 1.5i (109Hp) 2009г.в." title="баллон объемом 53л вместо запасного колеса."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/009/960_700_1/0092320da884f5c27d64e19c98171499.JPG" data-lightbox="example-set_52">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/009/122_91_1/0092320da884f5c27d64e19c98171499.JPG" alt="Mitsubishi Lancer X (дорестайл) (седан) 1.5i (109Hp) 2009г.в." title="багажное отделение"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/60c/960_700_1/60cc84b7378812fbed34edc5d88c5458.JPG" data-lightbox="example-set_52">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/60c/122_91_1/60cc84b7378812fbed34edc5d88c5458.JPG" alt="Mitsubishi Lancer X (дорестайл) (седан) 1.5i (109Hp) 2010г.в." title="Mitsubishi Lancer X (дорестайл) (седан) 1.5i (109Hp) 2010г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы распределенного фазированного впрыска газа - "BRC" в феврале 2013"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/350/960_700_1/350f4cc201a4014711eed71adf1a9ace.JPG" data-lightbox="example-set_52">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/350/122_91_1/350f4cc201a4014711eed71adf1a9ace.JPG" alt="Mitsubishi Lancer X (дорестайл) (седан) 1.5i (109Hp) 2010г.в." title="подкапотное пространство"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/bff/960_700_1/bff80ccbec5884e66984781f3736cbc2.JPG" data-lightbox="example-set_52">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/bff/122_91_1/bff80ccbec5884e66984781f3736cbc2.JPG" alt="Mitsubishi Lancer X (дорестайл) (седан) 1.5i (109Hp) 2010г.в." title="кнопка переключения режимов работы - газбензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/894/960_700_1/894da48e636700f329b221858dfbed88.JPG" data-lightbox="example-set_52">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/894/122_91_1/894da48e636700f329b221858dfbed88.JPG" alt="Mitsubishi Lancer X (дорестайл) (седан) 1.5i (109Hp) 2010г.в." title="заправочное устройство поместилось в штатной заливной горловине"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/5bb/960_700_1/5bbb17ce28ad4fb4a0f197a513fb54ff.JPG" data-lightbox="example-set_52">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/5bb/122_91_1/5bbb17ce28ad4fb4a0f197a513fb54ff.JPG" alt="Mitsubishi Lancer X (дорестайл) (седан) 1.5i (109Hp) 2010г.в." title="заправочное устройство с накрученным на него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/4a8/960_700_1/4a8f0be38e85e1a01eaad6d51e2b9a5c.JPG" data-lightbox="example-set_52">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/4a8/122_91_1/4a8f0be38e85e1a01eaad6d51e2b9a5c.JPG" alt="Mitsubishi Lancer X (дорестайл) (седан) 1.5i (109Hp) 2010г.в." title="баллон объемом 53л вместо запасного колеса"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e8c/960_700_1/e8c94503b01d0f13e73fcec9473a7c5f.JPG" data-lightbox="example-set_52">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e8c/122_91_1/e8c94503b01d0f13e73fcec9473a7c5f.JPG" alt="Mitsubishi Lancer X (дорестайл) (седан) 1.5i (109Hp) 2010г.в." title="багажное отделение"/>
+                            </a></div>
+                    </div>
+<div class="work-item  nissan" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/b/c/f/4/3a526e885ccc2e46f43e94713f41.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Nissan Almera Classic 1.6i (107Hp) 2009г.в.</h2>
+                                Nissan Almera Classic 1.6i (107Hp) 2009г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в апреле 2015г.<br>
+1. Модель автомобиля: Nissan Almera Classic<br>
+2. двигатель: рядный, бензиновый, 4-цилиндровый, рабочий объем 1.6л, мощность 107 л.с.<br>
+3. годы выпуска: с 2006 по 2013.<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Alpha, Digitronic.<br>
+6. рекомендованный баллон: тороидальный баллон объемом 53л (630х225) вместо запасного колеса<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 90л вдоль заднего ряда сидений.<br>
+8. установка внешнего заправочного устройства: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: в общем сложностей нет. чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами   
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/4cf/960_700_1/4cf9da9c5d6eb14d2eb2490a02fe3348.JPG" data-lightbox="example-set_53">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/4cf/122_91_1/4cf9da9c5d6eb14d2eb2490a02fe3348.JPG" alt="Nissan Almera Classic 1.6i (107Hp) 2009г.в." title="Nissan Almera Classic 1.6i (107Hp) 2009г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в апреле 2015г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/877/960_700_1/877d8fa870cefbee1613dacf7260f180.JPG" data-lightbox="example-set_53">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/877/122_91_1/877d8fa870cefbee1613dacf7260f180.JPG" alt="Nissan Almera Classic 1.6i (107Hp) 2009г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/d85/960_700_1/d85e0be99c3d2a437c323ba672279cd5.JPG" data-lightbox="example-set_53">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/d85/122_91_1/d85e0be99c3d2a437c323ba672279cd5.JPG" alt="Nissan Almera Classic 1.6i (107Hp) 2009г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/14e/960_700_1/14e68161c325ef1818968f32e5de2240.JPG" data-lightbox="example-set_53">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/14e/122_91_1/14e68161c325ef1818968f32e5de2240.JPG" alt="Nissan Almera Classic 1.6i (107Hp) 2009г.в." title="заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/525/960_700_1/52546f5ac44271cce72fb7b528be62f1.JPG" data-lightbox="example-set_53">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/525/122_91_1/52546f5ac44271cce72fb7b528be62f1.JPG" alt="Nissan Almera Classic 1.6i (107Hp) 2009г.в." title="заправаочное устройство с накрученным заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/046/960_700_1/046ab8c03c4ba9331db237b204f36888.JPG" data-lightbox="example-set_53">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/046/122_91_1/046ab8c03c4ba9331db237b204f36888.JPG" alt="Nissan Almera Classic 1.6i (107Hp) 2009г.в." title="тороидальный баллон объемом 53л (630х225) вместо запасного колеса"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/be2/960_700_1/be2e22fea2cefc969718442326873158.JPG" data-lightbox="example-set_53">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/be2/122_91_1/be2e22fea2cefc969718442326873158.JPG" alt="Nissan Almera Classic 1.6i (107Hp) 2009г.в." title="багажное отделение."/>
+                            </a></div>
+                    </div>
+<div class="work-item  nissan" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/9/f/a/5/bb78f49f0853791fe4054fa51ce9.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Nissan Almera II (N16) (седан) (рестайл) 1.8i 2004г.в.</h2>
+                                Nissan Almera II (N16) (седан) (рестайл) 1.8i 2004г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в мае 2014г.<br>
+1. Модель автомобиля: Nissan Almera II (N16) (седан) (рестайл)<br>
+2. двигатель: рядный, бензиновый, 4-цилиндровый, рабочий объем 1.8л, мощность 116 л.с.<br>
+3. годы выпуска: с 2003 по 2006.<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha.<br>
+6. рекомендованный баллон: тороидальный баллон объемом 53л (630х225) вместо запасного колеса<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 90л вдоль заднего ряда сидений.<br>
+8. установка внешнего заправочного устройства: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: в общем сложностей нет. чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами   
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/305/960_700_1/305e82d1ae2037052ba760434351c61b.JPG" data-lightbox="example-set_54">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/305/122_91_1/305e82d1ae2037052ba760434351c61b.JPG" alt="Nissan Almera II (N16) (седан) (рестайл) 1.8i 2004г.в." title="Nissan Almera II (N16) (седан) (рестайл) 1.8i 2004г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в мае 2014г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/d6e/960_700_1/d6ec4e458fd9014355d873d95bb4f864.JPG" data-lightbox="example-set_54">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/d6e/122_91_1/d6ec4e458fd9014355d873d95bb4f864.JPG" alt="Nissan Almera II (N16) (седан) (рестайл) 1.8i 2004г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/809/960_700_1/809d0a82d504a0a90d9b18d408004934.JPG" data-lightbox="example-set_54">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/809/122_91_1/809d0a82d504a0a90d9b18d408004934.JPG" alt="Nissan Almera II (N16) (седан) (рестайл) 1.8i 2004г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/ddf/960_700_1/ddf4253957638c9c12aedbd26821400a.JPG" data-lightbox="example-set_54">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/ddf/122_91_1/ddf4253957638c9c12aedbd26821400a.JPG" alt="Nissan Almera II (N16) (седан) (рестайл) 1.8i 2004г.в." title="внешнее заправочное устройство поместилось в лючке бензобака."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/3a8/960_700_1/3a824e93ec289600bd052234c3913b85.JPG" data-lightbox="example-set_54">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/3a8/122_91_1/3a824e93ec289600bd052234c3913b85.JPG" alt="Nissan Almera II (N16) (седан) (рестайл) 1.8i 2004г.в." title="внешнее заправочное устройство с накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e85/960_700_1/e85d551f6099308ce07b0e030054a853.JPG" data-lightbox="example-set_54">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e85/122_91_1/e85d551f6099308ce07b0e030054a853.JPG" alt="Nissan Almera II (N16) (седан) (рестайл) 1.8i 2004г.в." title="тороидальный баллон объемом 53л вместо запасного колеса"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/dbd/960_700_1/dbd89a1e079c6f4190fdebf3eee0a13d.JPG" data-lightbox="example-set_54">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/dbd/122_91_1/dbd89a1e079c6f4190fdebf3eee0a13d.JPG" alt="Nissan Almera II (N16) (седан) (рестайл) 1.8i 2004г.в." title="багажное отделение."/>
+                            </a></div>
+                    </div>
+<div class="work-item opel" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/2/c/4/2/0171307365e55f7dba8e5786de0f.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в.</h2>
+                                Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "Lovato" в феврале 2017г.<br>
+1. модель автомобиля: Opel Antara I (дорестайл)<br>
+2. двигатель: V-образный, бензиновый (инжекторный), 6-цилиндровый, рабочий объем 3.2л, мощность 227 л.с.<br>
+3. годы выпуска: с 2006 по 2010<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha<br>
+6. рекомендованный баллон: а) тороидальный баллон объемом 53л. (630х225) вместо запасного колеса<br>
+                                              б) тороидальный баллон объемом 74л. (720х230) вместо запасного колеса<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон на сложно-составной раме вдоль заднего ряда сидений<br>
+8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: обязательный демонтаж впускного коллектора. чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/144/960_700_1/1440cac958099fe981ae47a9c9912b10.JPG" data-lightbox="example-set_55">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/144/122_91_1/1440cac958099fe981ae47a9c9912b10.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "Lovato" в феврале 2017г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/67f/960_700_1/67f81b2c0f8e0a2d89ffdb0c0c7f4857.JPG" data-lightbox="example-set_55">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/67f/122_91_1/67f81b2c0f8e0a2d89ffdb0c0c7f4857.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="моторный отсек."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/74b/960_700_1/74bbc11bc38a0f508286df01665e9955.JPG" data-lightbox="example-set_55">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/74b/122_91_1/74bbc11bc38a0f508286df01665e9955.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/c67/960_700_1/c671f4473ba087e5056ff850b615ba98.JPG" data-lightbox="example-set_55">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/c67/122_91_1/c671f4473ba087e5056ff850b615ba98.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/593/960_700_1/5937bfd4201b181428eae154a309511f.JPG" data-lightbox="example-set_55">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/593/122_91_1/5937bfd4201b181428eae154a309511f.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/978/960_700_1/9780cda9b8bc5edb0eec686fc673f2eb.JPG" data-lightbox="example-set_55">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/978/122_91_1/9780cda9b8bc5edb0eec686fc673f2eb.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня топлива."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/fee/960_700_1/fee98039727500e0ae5ab739e5e69080.JPG" data-lightbox="example-set_55">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/fee/122_91_1/fee98039727500e0ae5ab739e5e69080.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/f2f/960_700_1/f2fe0ee8a37a1d46a17a325e25b6af80.JPG" data-lightbox="example-set_55">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/f2f/122_91_1/f2fe0ee8a37a1d46a17a325e25b6af80.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="заправочное устройство с вкрученным в него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/ed0/960_700_1/ed04473d043a2b4a61c1f53a4ade42cc.JPG" data-lightbox="example-set_55">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/ed0/122_91_1/ed04473d043a2b4a61c1f53a4ade42cc.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="тороидальный баллон объемом 53л (630х225) вместо запасного колеса."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/9c5/960_700_1/9c59e3b35553fc598c40341872da8d19.JPG" data-lightbox="example-set_55">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/9c5/122_91_1/9c59e3b35553fc598c40341872da8d19.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="багажное отделение"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/5ae/960_700_1/5ae98970e9b19093ea698d14e2feb8c2.JPG" data-lightbox="example-set_55">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/5ae/122_91_1/5ae98970e9b19093ea698d14e2feb8c2.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2009г.в." title="Opel Antara I (дорестайл) 3.2i (227Hp) 2009г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в июле 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/a77/960_700_1/a7736a537833cb68419a80020df1cc25.JPG" data-lightbox="example-set_55">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/a77/122_91_1/a7736a537833cb68419a80020df1cc25.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2009г.в." title="моторный отсек без декоративной крышки мотора."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/8ce/960_700_1/8ce4b6b157667b2b1ff371aed41f3d7c.JPG" data-lightbox="example-set_55">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/8ce/122_91_1/8ce4b6b157667b2b1ff371aed41f3d7c.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2009г.в." title="подкапотное пространство"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e95/960_700_1/e95f34bcd48b886439bd78dc3493ccd0.JPG" data-lightbox="example-set_55">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e95/122_91_1/e95f34bcd48b886439bd78dc3493ccd0.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2009г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/cfd/960_700_1/cfd67a696a214b57535e72ba058f90fd.JPG" data-lightbox="example-set_55">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/cfd/122_91_1/cfd67a696a214b57535e72ba058f90fd.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2009г.в." title="баллон объемом 79л. вместо запасного колеса."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/4b9/960_700_1/4b96b196ba660ff424e3b3704be54ee4.JPG" data-lightbox="example-set_55">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/4b9/122_91_1/4b96b196ba660ff424e3b3704be54ee4.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2009г.в." title="багажное отделение."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/adc/960_700_1/adc361fa8bbdcf037ab13a3258d8bda6.JPG" data-lightbox="example-set_55">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/adc/122_91_1/adc361fa8bbdcf037ab13a3258d8bda6.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2009г.в." title="заправочное устройство поместилось под лючком заливной горловины бензобака."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/068/960_700_1/068de30ee4a072180a9d36174c12591b.JPG" data-lightbox="example-set_55">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/068/122_91_1/068de30ee4a072180a9d36174c12591b.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2009г.в." title="заправочное устройствос накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/74f/960_700_1/74ff5aa0528bbf708f70ed14e8cf847b.JPG" data-lightbox="example-set_55">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/74f/122_91_1/74ff5aa0528bbf708f70ed14e8cf847b.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в июле 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/f87/960_700_1/f873e90b4e4e8fef5843ec0b1a6a1745.JPG" data-lightbox="example-set_55">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/f87/122_91_1/f873e90b4e4e8fef5843ec0b1a6a1745.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="моторный отсек без декоративной крышки мотора"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/4ee/960_700_1/4ee0e7fd971f817f52b28a24d677f680.JPG" data-lightbox="example-set_55">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/4ee/122_91_1/4ee0e7fd971f817f52b28a24d677f680.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="подкапотное пространство"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/f34/960_700_1/f34a6a680d7167a7348df64c992c9413.JPG" data-lightbox="example-set_55">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/f34/122_91_1/f34a6a680d7167a7348df64c992c9413.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/c07/960_700_1/c07d6531e43f85d18689d70aa08284ca.JPG" data-lightbox="example-set_55">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/c07/122_91_1/c07d6531e43f85d18689d70aa08284ca.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="внешнее заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/4fd/960_700_1/4fd1145163cb77512d4b0db5aaf666b7.JPG" data-lightbox="example-set_55">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/4fd/122_91_1/4fd1145163cb77512d4b0db5aaf666b7.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="внешнее заправочное устройство с накрученным на него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/a13/960_700_1/a13c649161e779946b6e2c2f90b4c8b9.JPG" data-lightbox="example-set_55">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/a13/122_91_1/a13c649161e779946b6e2c2f90b4c8b9.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="тороидальный баллон объемом 79л вместо запасного колеса"/>
+                            </a></div>
+                    </div>
+<div class="work-item opel" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/2/c/4/2/0171307365e55f7dba8e5786de0f.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в.</h2>
+                                Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "Lovato" в феврале 2017г.<br>
+1. модель автомобиля: Opel Antara I (дорестайл)<br>
+2. двигатель: V-образный, бензиновый (инжекторный), 6-цилиндровый, рабочий объем 3.2л, мощность 227 л.с.<br>
+3. годы выпуска: с 2006 по 2010<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha<br>
+6. рекомендованный баллон: а) тороидальный баллон объемом 53л. (630х225) вместо запасного колеса<br>
+                                              б) тороидальный баллон объемом 74л. (720х230) вместо запасного колеса<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон на сложно-составной раме вдоль заднего ряда сидений<br>
+8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: обязательный демонтаж впускного коллектора. чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/144/960_700_1/1440cac958099fe981ae47a9c9912b10.JPG" data-lightbox="example-set_56">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/144/122_91_1/1440cac958099fe981ae47a9c9912b10.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "Lovato" в феврале 2017г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/67f/960_700_1/67f81b2c0f8e0a2d89ffdb0c0c7f4857.JPG" data-lightbox="example-set_56">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/67f/122_91_1/67f81b2c0f8e0a2d89ffdb0c0c7f4857.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="моторный отсек."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/74b/960_700_1/74bbc11bc38a0f508286df01665e9955.JPG" data-lightbox="example-set_56">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/74b/122_91_1/74bbc11bc38a0f508286df01665e9955.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/c67/960_700_1/c671f4473ba087e5056ff850b615ba98.JPG" data-lightbox="example-set_56">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/c67/122_91_1/c671f4473ba087e5056ff850b615ba98.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/593/960_700_1/5937bfd4201b181428eae154a309511f.JPG" data-lightbox="example-set_56">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/593/122_91_1/5937bfd4201b181428eae154a309511f.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/978/960_700_1/9780cda9b8bc5edb0eec686fc673f2eb.JPG" data-lightbox="example-set_56">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/978/122_91_1/9780cda9b8bc5edb0eec686fc673f2eb.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня топлива."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/fee/960_700_1/fee98039727500e0ae5ab739e5e69080.JPG" data-lightbox="example-set_56">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/fee/122_91_1/fee98039727500e0ae5ab739e5e69080.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/f2f/960_700_1/f2fe0ee8a37a1d46a17a325e25b6af80.JPG" data-lightbox="example-set_56">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/f2f/122_91_1/f2fe0ee8a37a1d46a17a325e25b6af80.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="заправочное устройство с вкрученным в него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/ed0/960_700_1/ed04473d043a2b4a61c1f53a4ade42cc.JPG" data-lightbox="example-set_56">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/ed0/122_91_1/ed04473d043a2b4a61c1f53a4ade42cc.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="тороидальный баллон объемом 53л (630х225) вместо запасного колеса."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/9c5/960_700_1/9c59e3b35553fc598c40341872da8d19.JPG" data-lightbox="example-set_56">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/9c5/122_91_1/9c59e3b35553fc598c40341872da8d19.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="багажное отделение"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/5ae/960_700_1/5ae98970e9b19093ea698d14e2feb8c2.JPG" data-lightbox="example-set_56">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/5ae/122_91_1/5ae98970e9b19093ea698d14e2feb8c2.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2009г.в." title="Opel Antara I (дорестайл) 3.2i (227Hp) 2009г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в июле 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/a77/960_700_1/a7736a537833cb68419a80020df1cc25.JPG" data-lightbox="example-set_56">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/a77/122_91_1/a7736a537833cb68419a80020df1cc25.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2009г.в." title="моторный отсек без декоративной крышки мотора."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/8ce/960_700_1/8ce4b6b157667b2b1ff371aed41f3d7c.JPG" data-lightbox="example-set_56">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/8ce/122_91_1/8ce4b6b157667b2b1ff371aed41f3d7c.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2009г.в." title="подкапотное пространство"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e95/960_700_1/e95f34bcd48b886439bd78dc3493ccd0.JPG" data-lightbox="example-set_56">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e95/122_91_1/e95f34bcd48b886439bd78dc3493ccd0.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2009г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/cfd/960_700_1/cfd67a696a214b57535e72ba058f90fd.JPG" data-lightbox="example-set_56">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/cfd/122_91_1/cfd67a696a214b57535e72ba058f90fd.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2009г.в." title="баллон объемом 79л. вместо запасного колеса."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/4b9/960_700_1/4b96b196ba660ff424e3b3704be54ee4.JPG" data-lightbox="example-set_56">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/4b9/122_91_1/4b96b196ba660ff424e3b3704be54ee4.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2009г.в." title="багажное отделение."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/adc/960_700_1/adc361fa8bbdcf037ab13a3258d8bda6.JPG" data-lightbox="example-set_56">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/adc/122_91_1/adc361fa8bbdcf037ab13a3258d8bda6.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2009г.в." title="заправочное устройство поместилось под лючком заливной горловины бензобака."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/068/960_700_1/068de30ee4a072180a9d36174c12591b.JPG" data-lightbox="example-set_56">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/068/122_91_1/068de30ee4a072180a9d36174c12591b.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2009г.в." title="заправочное устройствос накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/74f/960_700_1/74ff5aa0528bbf708f70ed14e8cf847b.JPG" data-lightbox="example-set_56">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/74f/122_91_1/74ff5aa0528bbf708f70ed14e8cf847b.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в июле 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/f87/960_700_1/f873e90b4e4e8fef5843ec0b1a6a1745.JPG" data-lightbox="example-set_56">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/f87/122_91_1/f873e90b4e4e8fef5843ec0b1a6a1745.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="моторный отсек без декоративной крышки мотора"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/4ee/960_700_1/4ee0e7fd971f817f52b28a24d677f680.JPG" data-lightbox="example-set_56">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/4ee/122_91_1/4ee0e7fd971f817f52b28a24d677f680.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="подкапотное пространство"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/f34/960_700_1/f34a6a680d7167a7348df64c992c9413.JPG" data-lightbox="example-set_56">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/f34/122_91_1/f34a6a680d7167a7348df64c992c9413.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/c07/960_700_1/c07d6531e43f85d18689d70aa08284ca.JPG" data-lightbox="example-set_56">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/c07/122_91_1/c07d6531e43f85d18689d70aa08284ca.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="внешнее заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/4fd/960_700_1/4fd1145163cb77512d4b0db5aaf666b7.JPG" data-lightbox="example-set_56">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/4fd/122_91_1/4fd1145163cb77512d4b0db5aaf666b7.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="внешнее заправочное устройство с накрученным на него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/a13/960_700_1/a13c649161e779946b6e2c2f90b4c8b9.JPG" data-lightbox="example-set_56">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/a13/122_91_1/a13c649161e779946b6e2c2f90b4c8b9.JPG" alt="Opel Antara I (дорестайл) 3.2i (227Hp) 2008г.в." title="тороидальный баллон объемом 79л вместо запасного колеса"/>
+                            </a></div>
+                    </div>
+<div class="work-item peugeot" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/9/c/8/e/ed91722adced4482e650be0cf128.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Pegeot Partner II (дорестайл) 1.6i (90Hp) 2011г.в.</h2>
+                                Pegeot Partner II (дорестайл) 1.6i (90Hp) 2011г.в.. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы распределенного фазированного впрыска газа - "BRC" в июне 2013г.<br>
+1. Модель автомобиля: Peugeot Partner II (рестайл)<br>
+2. двигатель: рядный, бензиновый, 4-цилиндровый, рабочий объем 1.6л, мощность от 90 до 120 л.с. в зависимости о года выпуска и модификации.<br>
+3. годы выпуска: с 2007 по 2012<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha<br>
+6. рекомендованный баллон: тороидальный баллон объемом 66л (630х270) вместо запасного колеса<br>
+7. альтернативный вариант установки баллона:  цилиндрический баллон объемом до 130л в багажном отделении<br>
+8. установка внешнего заправочного устройства: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: в модификациях с мотором 1.6 мощностью 120 л.с. использована технология Вальветроник пришедшая из BMW. в этом случае лучше использовать оборудование BRC. небольшая сложность присутствует при установке заправочного устройства в лючок бензобака, в остальном автомобиль простенький. чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами. 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e4a/960_700_1/e4a5d9edd02c4c125398490d04073c61.jpg" data-lightbox="example-set_57">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e4a/122_91_1/e4a5d9edd02c4c125398490d04073c61.jpg" alt="Pegeot Partner II (дорестайл) 1.6i (90Hp) 2011г.в." title="Pegeot Partner II (дорестайл) 1.6i (90Hp) 2011г.в.. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы распределенного фазированного впрыска газа - "BRC" в июне 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/d76/960_700_1/d76fdc34143f0dd43ad86016661f1c2a.jpg" data-lightbox="example-set_57">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/d76/122_91_1/d76fdc34143f0dd43ad86016661f1c2a.jpg" alt="Pegeot Partner II (дорестайл) 1.6i (90Hp) 2011г.в." title="моторный отсек."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/438/960_700_1/4389cb4bc28842b602ea30d3db28f523.jpg" data-lightbox="example-set_57">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/438/122_91_1/4389cb4bc28842b602ea30d3db28f523.jpg" alt="Pegeot Partner II (дорестайл) 1.6i (90Hp) 2011г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/5a2/960_700_1/5a242387b13753e5727054c009b9f1ec.jpg" data-lightbox="example-set_57">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/5a2/122_91_1/5a242387b13753e5727054c009b9f1ec.jpg" alt="Pegeot Partner II (дорестайл) 1.6i (90Hp) 2011г.в." title="заправочное устройство в заливной горловине."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/ec0/960_700_1/ec03cdff4ac4f443d04d91eea8c98fb4.jpg" data-lightbox="example-set_57">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/ec0/122_91_1/ec03cdff4ac4f443d04d91eea8c98fb4.jpg" alt="Pegeot Partner II (дорестайл) 1.6i (90Hp) 2011г.в." title="заправочное устройство с накрученным на него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/927/960_700_1/927fda17a6120455db502ee643bb4157.jpg" data-lightbox="example-set_57">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/927/122_91_1/927fda17a6120455db502ee643bb4157.jpg" alt="Pegeot Partner II (дорестайл) 1.6i (90Hp) 2011г.в." title="баллон объемом 68л вместо запасного колеса"/>
+                            </a></div>
+                    </div>
+<div class="work-item peugeot" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/f/f/1/6/3827ae3e66e67ccf3330576285b3.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Peugeot 206 (хэтчбек 5дв) 1.4i (75Hp) 2002г.в.</h2>
+                                Peugeot 206 (хэтчбек 5дв) 1.4i (75Hp) 2002г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в марте 2014г.<br>
+1. Модель автомобиля: Peugeot 206 (хэтчбек 5дв)<br>
+2. двигатель: рядный, бензиновый, 4-цилиндровый, рабочий объем 1.4л, мощность 75 л.с. <br>
+3. годы выпуска: с 1998 по 2012<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha<br>
+6. рекомендованный баллон: тороидальный баллон объемом 42л (600х200) вместо запасного колеса<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом 80л на сложно-составной раме в багажном отделении вдоль заднего ряда сидений<br>
+8. установка внешнего заправочного устройства: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: в общем сложностей нет, чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами   
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/caa/960_700_1/caae6d3101384761d50dc2617060f75d.JPG" data-lightbox="example-set_58">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/caa/122_91_1/caae6d3101384761d50dc2617060f75d.JPG" alt="Peugeot 206 (хэтчбек 5дв) 1.4i (75Hp) 2002г.в." title="Peugeot 206 (хэтчбек 5дв) 1.4i (75Hp) 2002г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в марте 2014г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/6e0/960_700_1/6e0ea802827b43dff91c3cf15246189c.JPG" data-lightbox="example-set_58">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/6e0/122_91_1/6e0ea802827b43dff91c3cf15246189c.JPG" alt="Peugeot 206 (хэтчбек 5дв) 1.4i (75Hp) 2002г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/47b/960_700_1/47b0d2a32cc25798b55ca1e5c4188eaf.JPG" data-lightbox="example-set_58">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/47b/122_91_1/47b0d2a32cc25798b55ca1e5c4188eaf.JPG" alt="Peugeot 206 (хэтчбек 5дв) 1.4i (75Hp) 2002г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/c3a/960_700_1/c3aefe9cff4fb9205dd43489aff3526f.JPG" data-lightbox="example-set_58">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/c3a/122_91_1/c3aefe9cff4fb9205dd43489aff3526f.JPG" alt="Peugeot 206 (хэтчбек 5дв) 1.4i (75Hp) 2002г.в." title="внешнее заправочное устройство"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/4ec/960_700_1/4ec81ce2f1900c569cc4c3627a178705.JPG" data-lightbox="example-set_58">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/4ec/122_91_1/4ec81ce2f1900c569cc4c3627a178705.JPG" alt="Peugeot 206 (хэтчбек 5дв) 1.4i (75Hp) 2002г.в." title="внешнее заправочное устройство с накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/596/960_700_1/596ce97be73c412df0c7fce4108e9fce.JPG" data-lightbox="example-set_58">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/596/122_91_1/596ce97be73c412df0c7fce4108e9fce.JPG" alt="Peugeot 206 (хэтчбек 5дв) 1.4i (75Hp) 2002г.в." title="баллон объемом 42л вместо запасного колеса"/>
+                            </a></div>
+                    </div>
+<div class="work-item porsche" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/a/6/9/a/9a1e46026456e508ad6edb221be3.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Porsche Cayenne I (955) (дорестайл) 4.5i (340Hp) 2006г.в.</h2>
+                                Porsche Cayenne I (955) (дорестайл) 4.5i (340Hp) 2006г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "Lovato" в марте 2016г.<br>
+1. Модель автомобиля: Porsche Cayenne I (955) (дорестайл)<br>
+2. Двигатель: V-образный, бензиновый, 8-цилиндровый, рабочий объем 4.5 л, мощность. 340 л.с.<br>
+3. Годы выпуска: с 2002 по 2006<br>
+4. Рекомендованное оборудование для установки: BRC.<br>
+5. Альтернативное оборудование для установки: Lovato, Digitronic, Alpha<br>
+6. Рекомендованный баллон: Цилиндрический баллон объемом 90 л. на сложно-составную раму в багажное отделение вдоль заднего ряда сидений.<br>
+7. Альтернативный вариант установки баллона: Баллон объемом 42 л. (600х200) вместо запасного колеса.<br>
+8. Установка внешнего заправочного устройство: Под лючок бензобака рядом с заливной горловиной.<br>
+9. Показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. Особенности установки: Стесненная компоновка моторного отсека, делает монтаж газового оборудования очень длительным по времени.
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/2d2/960_700_1/2d2c1685807e316c62b9e4f819f2065e.JPG" data-lightbox="example-set_59">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/2d2/122_91_1/2d2c1685807e316c62b9e4f819f2065e.JPG" alt="Porsche Cayenne I (955) (дорестайл) 4.5i (340Hp) 2006г.в." title="Porsche Cayenne I (955) (дорестайл) 4.5i (340Hp) 2006г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "Lovato" в марте 2016г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/374/960_700_1/374fae271586fed09e46f30dc10748ac.JPG" data-lightbox="example-set_59">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/374/122_91_1/374fae271586fed09e46f30dc10748ac.JPG" alt="Porsche Cayenne I (955) (дорестайл) 4.5i (340Hp) 2006г.в." title="моторный отсек без декоративной крышки мотора"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/02a/960_700_1/02a52308dca21ce3b98a5360e4ed1cb5.JPG" data-lightbox="example-set_59">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/02a/122_91_1/02a52308dca21ce3b98a5360e4ed1cb5.JPG" alt="Porsche Cayenne I (955) (дорестайл) 4.5i (340Hp) 2006г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/2e0/960_700_1/2e0214f7e54a162dd257d7767efff524.JPG" data-lightbox="example-set_59">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/2e0/122_91_1/2e0214f7e54a162dd257d7767efff524.JPG" alt="Porsche Cayenne I (955) (дорестайл) 4.5i (340Hp) 2006г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/32e/960_700_1/32ee31513e7d523726937cd2970f03b1.JPG" data-lightbox="example-set_59">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/32e/122_91_1/32ee31513e7d523726937cd2970f03b1.JPG" alt="Porsche Cayenne I (955) (дорестайл) 4.5i (340Hp) 2006г.в." title="заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/8cf/960_700_1/8cf376ff3857f393a043c58b0faf4c2d.JPG" data-lightbox="example-set_59">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/8cf/122_91_1/8cf376ff3857f393a043c58b0faf4c2d.JPG" alt="Porsche Cayenne I (955) (дорестайл) 4.5i (340Hp) 2006г.в." title="цилиндрический баллон объемом 65 литров вдоль заднего ряда сидений на сложно-составной раме."/>
+                            </a></div>
+                    </div>
+<div class="work-item porsche" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/7/9/9/0/a156adfbe0ef7bb6f39425655e93.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Porsche Cayenne I (955) (дорестайл) 3.2i (250Hp) 2005г.в.</h2>
+                                Porsche Cayenne I (955) (дорестайл) 3.2i (250Hp) 2005г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в декабре 2016г.<br>
+1. модель автомобиля: Porsche Cayenne I (955) (дорестайл)<br>
+2. двигатель: V-образно-рядный, бензиновый (инжекторный), 6-цилиндровый, рабочий объем 3.2л, мощность 250 л.с.<br>
+3. годы выпуска: с 2002 по 2006<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки:  Lovato, Digitronic<br>
+6. рекомендованный баллон: а) тороидальный баллон объемом 42л. (600х200) вместо запасного колеса<br>
+                                              б) цилиндрический баллон объемом 90л на сложно-составную раму в багажное отделение вдоль заднего ряда сидений.<br>
+7. альтернативный вариант установки баллона: нет.<br>
+8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: обязательный демонтаж впускного коллектора (и в остальном крайне непростой автомобиль). чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/c15/960_700_1/c15e9ae690075a3874c30aadaf486d99.JPG" data-lightbox="example-set_60">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/c15/122_91_1/c15e9ae690075a3874c30aadaf486d99.JPG" alt="Porsche Cayenne I (955) (дорестайл) 3.2i (250Hp) 2005г.в." title="Porsche Cayenne I (955) (дорестайл) 3.2i (250Hp) 2005г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в декабре 2016г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/c0c/960_700_1/c0c5aa969dc5bcd85ffd999f6d939c71.JPG" data-lightbox="example-set_60">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/c0c/122_91_1/c0c5aa969dc5bcd85ffd999f6d939c71.JPG" alt="Porsche Cayenne I (955) (дорестайл) 3.2i (250Hp) 2005г.в." title="моторный отсек."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/588/960_700_1/5881285ebf0c905f9c759dc4cd0972ee.JPG" data-lightbox="example-set_60">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/588/122_91_1/5881285ebf0c905f9c759dc4cd0972ee.JPG" alt="Porsche Cayenne I (955) (дорестайл) 3.2i (250Hp) 2005г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e2b/960_700_1/e2b26ea378f849f7eb0ae9e320db4e15.JPG" data-lightbox="example-set_60">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e2b/122_91_1/e2b26ea378f849f7eb0ae9e320db4e15.JPG" alt="Porsche Cayenne I (955) (дорестайл) 3.2i (250Hp) 2005г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/268/960_700_1/26867a14cc801056f5c522c797082907.JPG" data-lightbox="example-set_60">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/268/122_91_1/26867a14cc801056f5c522c797082907.JPG" alt="Porsche Cayenne I (955) (дорестайл) 3.2i (250Hp) 2005г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/329/960_700_1/329a384d2cb1eebc1d4e8cb75d078d07.JPG" data-lightbox="example-set_60">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/329/122_91_1/329a384d2cb1eebc1d4e8cb75d078d07.JPG" alt="Porsche Cayenne I (955) (дорестайл) 3.2i (250Hp) 2005г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня топлива."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/cdf/960_700_1/cdf5f89914b2086db2f91fcdc24c050c.JPG" data-lightbox="example-set_60">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/cdf/122_91_1/cdf5f89914b2086db2f91fcdc24c050c.JPG" alt="Porsche Cayenne I (955) (дорестайл) 3.2i (250Hp) 2005г.в." title="заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/d63/960_700_1/d63b7d526ab9945684558dec7805b65b.JPG" data-lightbox="example-set_60">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/d63/122_91_1/d63b7d526ab9945684558dec7805b65b.JPG" alt="Porsche Cayenne I (955) (дорестайл) 3.2i (250Hp) 2005г.в." title="заправочное устройство с вкрученным в него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/0bd/960_700_1/0bd3ccacb58b645b3504413c0a847678.JPG" data-lightbox="example-set_60">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/0bd/122_91_1/0bd3ccacb58b645b3504413c0a847678.JPG" alt="Porsche Cayenne I (955) (дорестайл) 3.2i (250Hp) 2005г.в." title="цилиндрический баллон объемом 90л на сложно-составной раме в багажном отделении"/>
+                            </a></div>
+                    </div>
+<div class="work-item renault" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/5/a/0/9/86836dfe96ee2ab460d98b738fe6.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Renault Duster I (дорестайл) (2WD) 1.6i (102Hp) 2014г.в.</h2>
+                                Renault Duster I (дорестайл) (2WD) 1.6i (102Hp) 2014г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в марте 2017г.<br>
+1. Модель автомобиля: Renault Duster I (дорестайл) (2WD)<br>
+2. двигатель: рядный, бензиновый, 4-цилиндровый, рабочий объем 1.6л, мощность 102 л.с.<br>
+3. годы выпуска: с 2011 по 2015<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha<br>
+6. рекомендованный баллон: а) тороидальный баллон объемом 53л (630х225) вместо запасного колеса<br>
+                                              б) тороидальный баллон объемом 63л (630х250) вместо запасного колеса<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом 80л на сложно-составной раме в багажном отделении вдоль заднего ряда сидений<br>
+8. установка внешнего заправочного устройства: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: вполне простенький автомобиль. чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами.
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/1d6/960_700_1/1d69401507374aa7110476223f343d1c.JPG" data-lightbox="example-set_61">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/1d6/122_91_1/1d69401507374aa7110476223f343d1c.JPG" alt="Renault Duster I (дорестайл) (2WD) 1.6i (102Hp) 2014г.в." title="Renault Duster I (дорестайл) (2WD) 1.6i (102Hp) 2014г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в марте 2017г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/93c/960_700_1/93cf2242252adde217555fa1a821772c.JPG" data-lightbox="example-set_61">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/93c/122_91_1/93cf2242252adde217555fa1a821772c.JPG" alt="Renault Duster I (дорестайл) (2WD) 1.6i (102Hp) 2014г.в." title="моторный отсек."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/386/960_700_1/38649c65ea61cf8a6d746bb4019e7780.JPG" data-lightbox="example-set_61">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/386/122_91_1/38649c65ea61cf8a6d746bb4019e7780.JPG" alt="Renault Duster I (дорестайл) (2WD) 1.6i (102Hp) 2014г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/190/960_700_1/19044424d2da4bfdab1e0028e2ec2653.JPG" data-lightbox="example-set_61">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/190/122_91_1/19044424d2da4bfdab1e0028e2ec2653.JPG" alt="Renault Duster I (дорестайл) (2WD) 1.6i (102Hp) 2014г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/dbb/960_700_1/dbb757bc479401a0a43c539cb846e578.JPG" data-lightbox="example-set_61">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/dbb/122_91_1/dbb757bc479401a0a43c539cb846e578.JPG" alt="Renault Duster I (дорестайл) (2WD) 1.6i (102Hp) 2014г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/a8f/960_700_1/a8ffab13e995f72b34b863a22c6dbca2.JPG" data-lightbox="example-set_61">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/a8f/122_91_1/a8ffab13e995f72b34b863a22c6dbca2.JPG" alt="Renault Duster I (дорестайл) (2WD) 1.6i (102Hp) 2014г.в." title="заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/25a/960_700_1/25a339bfc579511e1096724f938daf3a.JPG" data-lightbox="example-set_61">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/25a/122_91_1/25a339bfc579511e1096724f938daf3a.JPG" alt="Renault Duster I (дорестайл) (2WD) 1.6i (102Hp) 2014г.в." title="тороидальный баллон объемом 63л (630х250) вместо запасного колеса"/>
+                            </a></div>
+                    </div>
+<div class="work-item renault" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/9/3/b/d/f18a064285276e49c3d1b3b34135.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Renault Duster I (дорестайл) (4WD) 2.0i (135Hp) 2013г.в.</h2>
+                                Renault Duster I (дорестайл) (4WD) 2.0i (135Hp) 2013г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в июне 2013г.<br>
+1. Модель автомобиля: Renault Duster I (дорестайл) (4WD)<br>
+2. двигатель: рядный, бензиновый, 4-цилиндровый, рабочий объем 2.0л, мощность 135 л.с.<br>
+3. годы выпуска: с 2011 по 2015<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha<br>
+6. рекомендованный баллон: а) тороидальный баллон объемом 53л (630х225) вместо запасного колеса<br>
+                                              б) тороидальный баллон объемом 74л (720х230) вместо запасного колеса <br>
+7. альтернативный вариант установки баллона:  цилиндрический баллон объемом до 80л в багажное отделение вдоль заднего ряда сидений.<br>
+8. установка внешнего заправочного устройства: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: вполне простенький автомобиль. чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами. 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/374/960_700_1/37458df578dd8af494d135c8b85a0547.jpg" data-lightbox="example-set_62">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/374/122_91_1/37458df578dd8af494d135c8b85a0547.jpg" alt="Renault Duster I (дорестайл) (4WD) 2.0i (135Hp) 2013г.в." title="Renault Duster I (дорестайл) (4WD) 2.0i (135Hp) 2013г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в июне 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/2de/960_700_1/2de14e4102ffc9f2f02ee4a80c0c4c89.jpg" data-lightbox="example-set_62">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/2de/122_91_1/2de14e4102ffc9f2f02ee4a80c0c4c89.jpg" alt="Renault Duster I (дорестайл) (4WD) 2.0i (135Hp) 2013г.в." title="моторный отсек."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e3c/960_700_1/e3c50a6e0acefcfd2bf68b57b419b275.jpg" data-lightbox="example-set_62">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e3c/122_91_1/e3c50a6e0acefcfd2bf68b57b419b275.jpg" alt="Renault Duster I (дорестайл) (4WD) 2.0i (135Hp) 2013г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/678/960_700_1/678a0dc8a135bdb55d4e7f08d43756bd.jpg" data-lightbox="example-set_62">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/678/122_91_1/678a0dc8a135bdb55d4e7f08d43756bd.jpg" alt="Renault Duster I (дорестайл) (4WD) 2.0i (135Hp) 2013г.в." title="заправочное устройство в заливной горловине."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/29c/960_700_1/29c5b1889e677083078fb0d36ca251a2.jpg" data-lightbox="example-set_62">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/29c/122_91_1/29c5b1889e677083078fb0d36ca251a2.jpg" alt="Renault Duster I (дорестайл) (4WD) 2.0i (135Hp) 2013г.в." title="баллон объемом 53л. вместо запасного колеса"/>
+                            </a></div>
+                    </div>
+<div class="work-item skoda" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/4/9/1/8/b68d9b5786a25cf91c08226e2c06.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Skoda Fabia II (рестайл) 1.4i (86Hp) 2011г.в.</h2>
+                                Skoda Fabia II (рестайл) 1.4i (86Hp) 2011г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в сентябре 2013г.<br>
+1. Модель автомобиля: Skoda Fabia II (рестайл)<br>
+2. двигатель: рядный, бензиновый (инжекторный), 4-цилиндровый, рабочий объем 1.4л, мощность 86 л.с.<br>
+3. годы выпуска: с 2010 по 2015<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha<br>
+6. рекомендованный баллон: тороидальный баллон объемом 42л (600х200) вместо запасного колеса<br>
+7. альтернативный вариант установки баллона: нет<br>
+8. установка внешнего заправочного устройства: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: вполне несложный автомобиль. чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами. 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/238/960_700_1/2382d5da8991e0547cee934bcd195bd9.JPG" data-lightbox="example-set_63">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/238/122_91_1/2382d5da8991e0547cee934bcd195bd9.JPG" alt="Skoda Fabia II (рестайл) 1.4i (86Hp) 2011г.в." title="Skoda Fabia II (рестайл) 1.4i (86Hp) 2011г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в сентябре 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/b85/960_700_1/b853ae3f74f9d1bcc257557657e9116c.JPG" data-lightbox="example-set_63">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/b85/122_91_1/b853ae3f74f9d1bcc257557657e9116c.JPG" alt="Skoda Fabia II (рестайл) 1.4i (86Hp) 2011г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/b7c/960_700_1/b7cc330b7d297ff4ab2d763f27942977.JPG" data-lightbox="example-set_63">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/b7c/122_91_1/b7cc330b7d297ff4ab2d763f27942977.JPG" alt="Skoda Fabia II (рестайл) 1.4i (86Hp) 2011г.в." title="заправочное устройство поместилось под крышку заливной горловины бензобака."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/4c7/960_700_1/4c71beb15aebb2880ac100a087ffe912.JPG" data-lightbox="example-set_63">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/4c7/122_91_1/4c71beb15aebb2880ac100a087ffe912.JPG" alt="Skoda Fabia II (рестайл) 1.4i (86Hp) 2011г.в." title="заправочное устройство с накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/abf/960_700_1/abf37ae0fa42afa2ad30cd287a229257.JPG" data-lightbox="example-set_63">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/abf/122_91_1/abf37ae0fa42afa2ad30cd287a229257.JPG" alt="Skoda Fabia II (рестайл) 1.4i (86Hp) 2011г.в." title="баллон объемом 42л вместо запасного колеса."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/59e/960_700_1/59e7ffa061e2fa125cade042c69a1330.JPG" data-lightbox="example-set_63">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/59e/122_91_1/59e7ffa061e2fa125cade042c69a1330.JPG" alt="Skoda Fabia II (рестайл) 1.4i (86Hp) 2011г.в." title="багажное отделение."/>
+                            </a></div>
+                    </div>
+<div class="work-item skoda" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/4/c/e/a/b80f94b5b22c03817a2634c68918.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Skoda Octavia I (рестайл) (лифтбэк) 1.6i (75-102Hp) 2008г.в.</h2>
+                                Skoda Octavia I (рестайл) (лифтбэк) 1.6i (75-102Hp) 2008г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "Oscar-N" в марте 2016г.<br>
+1. Модель автомобиля: Skoda Octavia I (лифтбэк)(рестайл)<br>
+2. двигатель: рядный, бензиновый (инжекторный), 4-цилиндровый, рабочий объем 1.6л, мощность от 75 до 102 л.с. в зависимости от года выпуска и комплектации.<br>
+3. годы выпуска: с 2000 по 2011.<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic<br>
+6. рекомендованный баллон: тороидальный баллон объемом 53л (630х225) вместо запасного колеса<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 90л на сложно-составную раму в багажное отделение вдоль заднего ряда сидений.<br>
+8. установка внешнего заправочного устройства: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: вполне несложный автомобиль. чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами. 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/a8f/960_700_1/a8f415ebe687e619ad34074264cadc0a.JPG" data-lightbox="example-set_64">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/a8f/122_91_1/a8f415ebe687e619ad34074264cadc0a.JPG" alt="Skoda Octavia I (рестайл) (лифтбэк) 1.6i (75-102Hp) 2008г.в." title="Skoda Octavia I (рестайл) (лифтбэк) 1.6i (75-102Hp) 2008г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "Oscar-N" в марте 2016г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/20d/960_700_1/20d0d977a37f904e53616e9d0787ab46.JPG" data-lightbox="example-set_64">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/20d/122_91_1/20d0d977a37f904e53616e9d0787ab46.JPG" alt="Skoda Octavia I (рестайл) (лифтбэк) 1.6i (75-102Hp) 2008г.в." title="моторный отсек."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e70/960_700_1/e7028ede5d95025d8a47830df85fab71.JPG" data-lightbox="example-set_64">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e70/122_91_1/e7028ede5d95025d8a47830df85fab71.JPG" alt="Skoda Octavia I (рестайл) (лифтбэк) 1.6i (75-102Hp) 2008г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/174/960_700_1/174e098b9c02b9941f361c635852a30c.JPG" data-lightbox="example-set_64">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/174/122_91_1/174e098b9c02b9941f361c635852a30c.JPG" alt="Skoda Octavia I (рестайл) (лифтбэк) 1.6i (75-102Hp) 2008г.в." title="заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/7d5/960_700_1/7d51b8c7a4c1f003c02cd3da1455d70a.JPG" data-lightbox="example-set_64">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/7d5/122_91_1/7d51b8c7a4c1f003c02cd3da1455d70a.JPG" alt="Skoda Octavia I (рестайл) (лифтбэк) 1.6i (75-102Hp) 2008г.в." title="заправочное устройство с накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/6e2/960_700_1/6e23e42fac0034f2c69c38e4f1df3c70.JPG" data-lightbox="example-set_64">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/6e2/122_91_1/6e23e42fac0034f2c69c38e4f1df3c70.JPG" alt="Skoda Octavia I (рестайл) (лифтбэк) 1.6i (75-102Hp) 2008г.в." title="тороидальный баллон объемом 53л. (630х225) вместо запасного колеса"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/a1f/960_700_1/a1fa2245ec767a49291869a9d37a388f.JPG" data-lightbox="example-set_64">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/a1f/122_91_1/a1fa2245ec767a49291869a9d37a388f.JPG" alt="Skoda Octavia I (рестайл) (лифтбэк) 1.6i (75-102Hp) 2008г.в." title="багажное отделение"/>
+                            </a></div>
+                    </div>
+<div class="work-item ssang yong" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/e/1/6/6/3a0793caceabda41c7eb632d2c18.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2011г.в.</h2>
+                                SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2014 г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в марте 2016г.<br>
+1. Модель автомобиля: SSang-Yong Kyron I (рестайлинг) <br>
+2. Двигатель: рядный, бензиновый (инжекторный), 4-цилиндровый, рабочий объем 2.3л, мощность 150 л.с.<br>
+3. Годы выпуска: с 2007 по н.в.<br>
+4. Рекомендованное оборудование для установки: BRC<br>
+5. Альтернативное оборудование для установки: Digitronic, Lovato, Alpha<br>
+6. Рекомендованный баллон: Тороидальный баллон объемом 53 л. (630х225) вместо запасного колеса.<br>
+7. Альтернативный вариант установки баллона: Тороидальный баллон объемом 74 л (720х230) вместо запасного колеса. <br>
+8. Установка заправочного устройства: под лючок бензобака рядом с заливной горловиной.<br>
+9. Показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. Особенности установки: Сложностей в установке автомобили SSang-Yong Kyron не представляют.
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/d95/960_700_1/d9568a1fc7a61f678146e9c66f0d2c59.JPG" data-lightbox="example-set_65">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/d95/122_91_1/d9568a1fc7a61f678146e9c66f0d2c59.JPG" alt="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2014 г.в." title="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2014 г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в марте 2016г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/8fc/960_700_1/8fc98200902562a7f8f7a0bbf52f52f1.JPG" data-lightbox="example-set_65">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/8fc/122_91_1/8fc98200902562a7f8f7a0bbf52f52f1.JPG" alt="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2014 г.в." title="моторный отсек."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/33b/960_700_1/33b79035a48a58f8102b90de6d1cdc9b.JPG" data-lightbox="example-set_65">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/33b/122_91_1/33b79035a48a58f8102b90de6d1cdc9b.JPG" alt="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2014 г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/af9/960_700_1/af9721ecbe470e07b49c8a08075f6601.JPG" data-lightbox="example-set_65">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/af9/122_91_1/af9721ecbe470e07b49c8a08075f6601.JPG" alt="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2014 г.в." title="заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/fe4/960_700_1/fe42166ad05a892336cbee9fe0701843.JPG" data-lightbox="example-set_65">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/fe4/122_91_1/fe42166ad05a892336cbee9fe0701843.JPG" alt="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2014 г.в." title="заправочное устройство с накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/354/960_700_1/3540e7db971a5dfd7e22f4d54104da1e.JPG" data-lightbox="example-set_65">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/354/122_91_1/3540e7db971a5dfd7e22f4d54104da1e.JPG" alt="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2014 г.в." title="тороидальный баллон объемом 74л (720х230) вместо запасного колеса."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/873/960_700_1/8738057384234077a8a7b3e405d4e868.JPG" data-lightbox="example-set_65">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/873/122_91_1/8738057384234077a8a7b3e405d4e868.JPG" alt="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2011г.в." title="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2011г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в июне 2014г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/73c/960_700_1/73c48c34628c1e0b9e297612a46c5f96.JPG" data-lightbox="example-set_65">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/73c/122_91_1/73c48c34628c1e0b9e297612a46c5f96.JPG" alt="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2011г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/0bb/960_700_1/0bbe021f43fdaa9c903ad5ed76f2dc27.JPG" data-lightbox="example-set_65">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/0bb/122_91_1/0bbe021f43fdaa9c903ad5ed76f2dc27.JPG" alt="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2011г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/8ee/960_700_1/8ee45f37afdd4d2f7c13b62282f106e7.JPG" data-lightbox="example-set_65">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/8ee/122_91_1/8ee45f37afdd4d2f7c13b62282f106e7.JPG" alt="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2011г.в." title="внешнее заправочное устройство поместилось в лючке бензобака."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/039/960_700_1/039355fc95e2f18920f0a2c50f1ffd6c.JPG" data-lightbox="example-set_65">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/039/122_91_1/039355fc95e2f18920f0a2c50f1ffd6c.JPG" alt="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2011г.в." title="внешнее заправочное устройство с накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/1d4/960_700_1/1d486b6ad5a6d8fd98c49065a638d3e6.JPG" data-lightbox="example-set_65">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/1d4/122_91_1/1d486b6ad5a6d8fd98c49065a638d3e6.JPG" alt="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2011г.в." title="тороидальный баллон объемом 74л (720х230) вместо запасного колеса"/>
+                            </a></div>
+                    </div>
+<div class="work-item ssang yong" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/e/1/6/6/3a0793caceabda41c7eb632d2c18.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2014 г.в.</h2>
+                                SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2014 г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в марте 2016г.<br>
+1. Модель автомобиля: SSang-Yong Kyron I (рестайлинг) <br>
+2. Двигатель: рядный, бензиновый (инжекторный), 4-цилиндровый, рабочий объем 2.3л, мощность 150 л.с.<br>
+3. Годы выпуска: с 2007 по н.в.<br>
+4. Рекомендованное оборудование для установки: BRC<br>
+5. Альтернативное оборудование для установки: Digitronic, Lovato, Alpha<br>
+6. Рекомендованный баллон: Тороидальный баллон объемом 53 л. (630х225) вместо запасного колеса.<br>
+7. Альтернативный вариант установки баллона: Тороидальный баллон объемом 74 л (720х230) вместо запасного колеса. <br>
+8. Установка заправочного устройства: под лючок бензобака рядом с заливной горловиной.<br>
+9. Показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. Особенности установки: Сложностей в установке автомобили SSang-Yong Kyron не представляют.
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/d95/960_700_1/d9568a1fc7a61f678146e9c66f0d2c59.JPG" data-lightbox="example-set_66">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/d95/122_91_1/d9568a1fc7a61f678146e9c66f0d2c59.JPG" alt="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2014 г.в." title="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2014 г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в марте 2016г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/8fc/960_700_1/8fc98200902562a7f8f7a0bbf52f52f1.JPG" data-lightbox="example-set_66">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/8fc/122_91_1/8fc98200902562a7f8f7a0bbf52f52f1.JPG" alt="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2014 г.в." title="моторный отсек."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/33b/960_700_1/33b79035a48a58f8102b90de6d1cdc9b.JPG" data-lightbox="example-set_66">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/33b/122_91_1/33b79035a48a58f8102b90de6d1cdc9b.JPG" alt="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2014 г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/af9/960_700_1/af9721ecbe470e07b49c8a08075f6601.JPG" data-lightbox="example-set_66">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/af9/122_91_1/af9721ecbe470e07b49c8a08075f6601.JPG" alt="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2014 г.в." title="заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/fe4/960_700_1/fe42166ad05a892336cbee9fe0701843.JPG" data-lightbox="example-set_66">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/fe4/122_91_1/fe42166ad05a892336cbee9fe0701843.JPG" alt="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2014 г.в." title="заправочное устройство с накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/354/960_700_1/3540e7db971a5dfd7e22f4d54104da1e.JPG" data-lightbox="example-set_66">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/354/122_91_1/3540e7db971a5dfd7e22f4d54104da1e.JPG" alt="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2014 г.в." title="тороидальный баллон объемом 74л (720х230) вместо запасного колеса."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/873/960_700_1/8738057384234077a8a7b3e405d4e868.JPG" data-lightbox="example-set_66">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/873/122_91_1/8738057384234077a8a7b3e405d4e868.JPG" alt="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2011г.в." title="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2011г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в июне 2014г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/73c/960_700_1/73c48c34628c1e0b9e297612a46c5f96.JPG" data-lightbox="example-set_66">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/73c/122_91_1/73c48c34628c1e0b9e297612a46c5f96.JPG" alt="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2011г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/0bb/960_700_1/0bbe021f43fdaa9c903ad5ed76f2dc27.JPG" data-lightbox="example-set_66">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/0bb/122_91_1/0bbe021f43fdaa9c903ad5ed76f2dc27.JPG" alt="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2011г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/8ee/960_700_1/8ee45f37afdd4d2f7c13b62282f106e7.JPG" data-lightbox="example-set_66">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/8ee/122_91_1/8ee45f37afdd4d2f7c13b62282f106e7.JPG" alt="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2011г.в." title="внешнее заправочное устройство поместилось в лючке бензобака."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/039/960_700_1/039355fc95e2f18920f0a2c50f1ffd6c.JPG" data-lightbox="example-set_66">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/039/122_91_1/039355fc95e2f18920f0a2c50f1ffd6c.JPG" alt="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2011г.в." title="внешнее заправочное устройство с накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/1d4/960_700_1/1d486b6ad5a6d8fd98c49065a638d3e6.JPG" data-lightbox="example-set_66">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/1d4/122_91_1/1d486b6ad5a6d8fd98c49065a638d3e6.JPG" alt="SSang-Yong Kyron I (рестайлинг) 2.3i (150Hp) 2011г.в." title="тороидальный баллон объемом 74л (720х230) вместо запасного колеса"/>
+                            </a></div>
+                    </div>
+<div class="work-item subaru" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/1/2/4/0/ec4794adcfd1a1bc0af3b53417fd.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Subaru Forester III (дорестайл) 2.5i (173Hp) 2008г.в.</h2>
+                                Subaru Forester III (дорестайл) 2.5i (173Hp) 2008г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в мае 2014г.<br>
+1. Модель автомобиля: Subaru Forester III (дорестайл)<br>
+2. двигатель: оппозитный, бензиновый (инжекторный), 4-цилиндровый, рабочий объем 2.5л, мощность 173 л.с.<br>
+3. годы выпуска: с 2007 по 2011<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha<br>
+6. рекомендованный баллон: тороидальный баллон объемом 53л (630х225) вместо запасного колеса<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 90 л. на сложно-составную раму вдоль заднего ряда сидений.<br>
+8. установка внешнего заправочного устройства: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: ничего сложного, но субару есть субару - делается долго. чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами. 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/3d2/960_700_1/3d21b81f1e773e34f41bee85c5b8c547.JPG" data-lightbox="example-set_67">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/3d2/122_91_1/3d21b81f1e773e34f41bee85c5b8c547.JPG" alt="Subaru Forester III (дорестайл) 2.5i (173Hp) 2008г.в." title="Subaru Forester III (дорестайл) 2.5i (173Hp) 2008г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в мае 2014г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/2fc/960_700_1/2fc9997b188c8fcab4b462cca3020eab.JPG" data-lightbox="example-set_67">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/2fc/122_91_1/2fc9997b188c8fcab4b462cca3020eab.JPG" alt="Subaru Forester III (дорестайл) 2.5i (173Hp) 2008г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e20/960_700_1/e20461b74547945968a69ef49cf37c49.JPG" data-lightbox="example-set_67">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e20/122_91_1/e20461b74547945968a69ef49cf37c49.JPG" alt="Subaru Forester III (дорестайл) 2.5i (173Hp) 2008г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/348/960_700_1/348f352d7af31a18017653d152d25578.JPG" data-lightbox="example-set_67">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/348/122_91_1/348f352d7af31a18017653d152d25578.JPG" alt="Subaru Forester III (дорестайл) 2.5i (173Hp) 2008г.в." title="внешнее заправочное устройство поместилось в лючке бензобака."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/cf9/960_700_1/cf9ecaab58ab88b66e234214e8831f82.JPG" data-lightbox="example-set_67">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/cf9/122_91_1/cf9ecaab58ab88b66e234214e8831f82.JPG" alt="Subaru Forester III (дорестайл) 2.5i (173Hp) 2008г.в." title="внешнее заправочное устройство с накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/94f/960_700_1/94f7b74cd351d8667b5b974eab80878c.JPG" data-lightbox="example-set_67">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/94f/122_91_1/94f7b74cd351d8667b5b974eab80878c.JPG" alt="Subaru Forester III (дорестайл) 2.5i (173Hp) 2008г.в." title="тороидальный баллон объемом 53л (630х225) вместо запасного колеса"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e3c/960_700_1/e3c53de4c7150467f80c6184d353419c.JPG" data-lightbox="example-set_67">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e3c/122_91_1/e3c53de4c7150467f80c6184d353419c.JPG" alt="Subaru Forester III (дорестайл) 2.5i (173Hp) 2008г.в." title="багажное отделение."/>
+                            </a></div>
+                    </div>
+<div class="work-item subaru" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/b/e/4/2/08cb6bffd0b5528bd825074fb9f0.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Subaru Forester III (дорестайл) 2.0 (150Hp) 2010г.в.</h2>
+                                Subaru Forester III (дорестайл) 2.0i (150Hp) 2010г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в октябре 2013г.<br>
+1. Модель автомобиля: Subaru Forester III (дорестайл)<br>
+2. двигатель: оппозитный, бензиновый (инжекторный), 4-цилиндровый, рабочий объем 2.0л, мощность 150 л.с.<br>
+3. годы выпуска: с 2007 по 2011.<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha<br>
+6. рекомендованный баллон: тороидальный баллон объемом 53л (630х225) вместо запасного колеса<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 90 л. на сложно-составную раму вдоль заднего ряда сидений.<br>
+8. установка внешнего заправочного устройства: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: ничего сложного, но субару есть субару - делается долго. чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами. 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/740/960_700_1/740b6c43864cac772d6584100d5cc48e.JPG" data-lightbox="example-set_68">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/740/122_91_1/740b6c43864cac772d6584100d5cc48e.JPG" alt="Subaru Forester III (дорестайл) 2.0i (150Hp) 2010г.в." title="Subaru Forester III (дорестайл) 2.0i (150Hp) 2010г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в октябре 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/a8d/960_700_1/a8d7b166f81aa5a547fc1f5e6fcc37e0.JPG" data-lightbox="example-set_68">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/a8d/122_91_1/a8d7b166f81aa5a547fc1f5e6fcc37e0.JPG" alt="Subaru Forester III (дорестайл) 2.0i (150Hp) 2010г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/7b5/960_700_1/7b5432cf99884e51e9fd0c40b4cf3f7f.JPG" data-lightbox="example-set_68">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/7b5/122_91_1/7b5432cf99884e51e9fd0c40b4cf3f7f.JPG" alt="Subaru Forester III (дорестайл) 2.0i (150Hp) 2010г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/f55/960_700_1/f55ffb7a98c7e8410ab81bb5a168215a.JPG" data-lightbox="example-set_68">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/f55/122_91_1/f55ffb7a98c7e8410ab81bb5a168215a.JPG" alt="Subaru Forester III (дорестайл) 2.0i (150Hp) 2010г.в." title="заправочное устройство поместилось под крышкой лючка заливной горловины бензобака. "/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/c24/960_700_1/c24077afcc8519711306a56cfb477da0.JPG" data-lightbox="example-set_68">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/c24/122_91_1/c24077afcc8519711306a56cfb477da0.JPG" alt="Subaru Forester III (дорестайл) 2.0i (150Hp) 2010г.в." title="заправочное устройство с накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/a9c/960_700_1/a9c17bbdee3a651bd03add3295d5cf54.JPG" data-lightbox="example-set_68">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/a9c/122_91_1/a9c17bbdee3a651bd03add3295d5cf54.JPG" alt="Subaru Forester III (дорестайл) 2.0i (150Hp) 2010г.в." title="баллон объемом 53л вместо запасного колеса"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/092/960_700_1/092db974a045e1bf5edff4c9d77f6761.JPG" data-lightbox="example-set_68">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/092/122_91_1/092db974a045e1bf5edff4c9d77f6761.JPG" alt="Subaru Forester III (дорестайл) 2.0i (150Hp) 2010г.в." title="багажное отделение."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/8e6/960_700_1/8e67de41322156423ae8ca456bbeac74.jpg" data-lightbox="example-set_68">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/8e6/122_91_1/8e67de41322156423ae8ca456bbeac74.jpg" alt="Subaru Forester III (дорестайл) 2.0 (150Hp) 2008г.в." title="Subaru Forester III (дорестайл) 2.0 (150Hp) 2008г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в июне 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e78/960_700_1/e789cbc21beb40b6ae3de0a82aac3883.jpg" data-lightbox="example-set_68">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e78/122_91_1/e789cbc21beb40b6ae3de0a82aac3883.jpg" alt="Subaru Forester III (дорестайл) 2.0 (150Hp) 2008г.в." title="моторный отсек."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/0de/960_700_1/0dee03cbe56cd9734981e2f4707d8b48.jpg" data-lightbox="example-set_68">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/0de/122_91_1/0dee03cbe56cd9734981e2f4707d8b48.jpg" alt="Subaru Forester III (дорестайл) 2.0 (150Hp) 2008г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/a2e/960_700_1/a2e13f64e30d333ffc95b46112b7b1a8.jpg" data-lightbox="example-set_68">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/a2e/122_91_1/a2e13f64e30d333ffc95b46112b7b1a8.jpg" alt="Subaru Forester III (дорестайл) 2.0 (150Hp) 2008г.в." title="заправочное устройство в заливной горловине."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/9a0/960_700_1/9a0a21e8cb71db58c67df1cf08c0699b.jpg" data-lightbox="example-set_68">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/9a0/122_91_1/9a0a21e8cb71db58c67df1cf08c0699b.jpg" alt="Subaru Forester III (дорестайл) 2.0 (150Hp) 2008г.в." title="заправочное устройство с накрученным на него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/91b/960_700_1/91b74d10b47869f79a7181d35bf62b5e.jpg" data-lightbox="example-set_68">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/91b/122_91_1/91b74d10b47869f79a7181d35bf62b5e.jpg" alt="Subaru Forester III (дорестайл) 2.0 (150Hp) 2008г.в." title="баллон объемом 60л вместо запасного колеса."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/b96/960_700_1/b9629f0e539fa68e580d0093eed5df7c.jpg" data-lightbox="example-set_68">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/b96/122_91_1/b9629f0e539fa68e580d0093eed5df7c.jpg" alt="Subaru Forester III (дорестайл) 2.0 (150Hp) 2008г.в." title="багажное отделение"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/081/960_700_1/081423377f76ec7c252e87574af6fa7e.JPG" data-lightbox="example-set_68">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/081/122_91_1/081423377f76ec7c252e87574af6fa7e.JPG" alt="Subaru Forester III (дорестайл) 2.0 (150Hp) 2010г.в." title="Subaru Forester III (дорестайл) 2.0 (150Hp) 2010г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в мае 2014г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/f09/960_700_1/f098b1cdf69c2c6339c570fc2287a5fd.JPG" data-lightbox="example-set_68">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/f09/122_91_1/f098b1cdf69c2c6339c570fc2287a5fd.JPG" alt="Subaru Forester III (дорестайл) 2.0 (150Hp) 2010г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e3e/960_700_1/e3eda4746365961285002850b5f4d015.JPG" data-lightbox="example-set_68">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e3e/122_91_1/e3eda4746365961285002850b5f4d015.JPG" alt="Subaru Forester III (дорестайл) 2.0 (150Hp) 2010г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/a0c/960_700_1/a0cbd06bd92a9fd437edb886524ab3ee.JPG" data-lightbox="example-set_68">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/a0c/122_91_1/a0cbd06bd92a9fd437edb886524ab3ee.JPG" alt="Subaru Forester III (дорестайл) 2.0 (150Hp) 2010г.в." title="внешнее заправочное устройство поместилось в лючке бензобака."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/3f3/960_700_1/3f3d31d5bf20bccc7ea6f6249c19ab1b.JPG" data-lightbox="example-set_68">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/3f3/122_91_1/3f3d31d5bf20bccc7ea6f6249c19ab1b.JPG" alt="Subaru Forester III (дорестайл) 2.0 (150Hp) 2010г.в." title="внешнее заправочное устройство с накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/2fe/960_700_1/2fed7b9250bdfbba3228c893ee210ae5.JPG" data-lightbox="example-set_68">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/2fe/122_91_1/2fed7b9250bdfbba3228c893ee210ae5.JPG" alt="Subaru Forester III (дорестайл) 2.0 (150Hp) 2010г.в." title="тороидальный баллон объемом 53л (630х225) вместо запасного колеса"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/33b/960_700_1/33b1f020bec1b9d0858e052a76b9c4b0.JPG" data-lightbox="example-set_68">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/33b/122_91_1/33b1f020bec1b9d0858e052a76b9c4b0.JPG" alt="Subaru Forester III (дорестайл) 2.0 (150Hp) 2010г.в." title="багажное отделение."/>
+                            </a></div>
+                    </div>
+<div class="work-item suzuki" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/3/1/d/d/12bf393eebc6516736468f38eef9.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Suzuki Grand Vitara III (рестайл) 2.4i (169Hp) 2009г.в.</h2>
+                                Suzuki Grand Vitara III (рестайл) 2.4i (169Hp) 2009г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в мае 2014г.<br>
+1. Модель автомобиля: Suzuki Grand Vitara III (рестайл)<br>
+2. двигатель: рядный, бензиновый (инжекторный), 4-цилиндровый, рабочий объем 2.4л, мощность 169 л.с.<br>
+3. годы выпуска: с 2008 по 2012.<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha<br>
+6. рекомендованный баллон: цилиндрический баллон объемом 51л вдоль кузова на сложно-составную раму с правой стороны в багажном отделении<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 90л вдоль заднего ряда сидений на сложно-составную раму в багажном отделении.<br>
+8. установка внешнего заправочного устройства: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: в общем автомобиль несложный
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/7f5/960_700_1/7f5e94f49369628885f2926b00b6164e.JPG" data-lightbox="example-set_69">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/7f5/122_91_1/7f5e94f49369628885f2926b00b6164e.JPG" alt="Suzuki Grand Vitara III (рестайл) 2.4i (169Hp) 2009г.в." title="Suzuki Grand Vitara III (рестайл) 2.4i (169Hp) 2009г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в мае 2014г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/46b/960_700_1/46b197fa7d610d92b44a378a11c6b8ac.JPG" data-lightbox="example-set_69">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/46b/122_91_1/46b197fa7d610d92b44a378a11c6b8ac.JPG" alt="Suzuki Grand Vitara III (рестайл) 2.4i (169Hp) 2009г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/d6e/960_700_1/d6eeed380ddd597ac0d36b7ca16fc68d.JPG" data-lightbox="example-set_69">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/d6e/122_91_1/d6eeed380ddd597ac0d36b7ca16fc68d.JPG" alt="Suzuki Grand Vitara III (рестайл) 2.4i (169Hp) 2009г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/ed8/960_700_1/ed84a7f5c275647c382d2d7aa8922123.JPG" data-lightbox="example-set_69">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/ed8/122_91_1/ed84a7f5c275647c382d2d7aa8922123.JPG" alt="Suzuki Grand Vitara III (рестайл) 2.4i (169Hp) 2009г.в." title="внешнее заправочное устройство поместилось в лючке бензобака."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/286/960_700_1/2869439cde559166edf02b1dcf67df2a.JPG" data-lightbox="example-set_69">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/286/122_91_1/2869439cde559166edf02b1dcf67df2a.JPG" alt="Suzuki Grand Vitara III (рестайл) 2.4i (169Hp) 2009г.в." title="внешнее заправочное устройство с накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/423/960_700_1/42337a41ef4e68469ab4bbb22e7207d8.JPG" data-lightbox="example-set_69">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/423/122_91_1/42337a41ef4e68469ab4bbb22e7207d8.JPG" alt="Suzuki Grand Vitara III (рестайл) 2.4i (169Hp) 2009г.в." title="цилиндрический баллон объемом 55л на сложно-составной раме в багажном отделении вдоль борта с правой стороны."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/160/960_700_1/160504dadda9dbc2bf2e7fcff3ac2e8f.JPG" data-lightbox="example-set_69">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/160/122_91_1/160504dadda9dbc2bf2e7fcff3ac2e8f.JPG" alt="Suzuki Grand Vitara III (рестайл) 2.4i (169Hp) 2009г.в." title="багажное отделение"/>
+                            </a></div>
+                    </div>
+<div class="work-item suzuki" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/f/2/0/c/b7a0aeb8b3f10803b603798f4572.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Suzuki Grand Vitara III (дорестайл) 2.0i (140Hp) 2008г.в.</h2>
+                                Suzuki Grand Vitara III (дорестайл) 2.0i (140Hp) 2008г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в сентябре 2013г.<br>
+1. Модель автомобиля: Suzuki Grand Vitara III<br>
+2. двигатель: рядный, бензиновый (инжекторный), 4-цилиндровый, рабочий объем 2.0л, мощность 140 л.с.<br>
+3. годы выпуска: с 2005 по наши дни.<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha<br>
+6. рекомендованный баллон: цилиндрический баллон объемом 51л вдоль кузова на сложно-составную раму с правой стороны в багажном отделении<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 90л вдоль заднего ряда сидений на сложно-составную раму в багажном отделении.<br>
+8. установка внешнего заправочного устройства: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: в общем автомобиль несложный.
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/d5d/960_700_1/d5dede28233969a80add3aeb9acd4da7.jpg" data-lightbox="example-set_70">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/d5d/122_91_1/d5dede28233969a80add3aeb9acd4da7.jpg" alt="Suzuki Grand Vitara III (дорестайл) 2.0i (140Hp) 2008г.в." title="Suzuki Grand Vitara III (дорестайл) 2.0i (140Hp) 2008г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в сентябре 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/ac1/960_700_1/ac1efe3b5b960c35825183745f6563b3.jpg" data-lightbox="example-set_70">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/ac1/122_91_1/ac1efe3b5b960c35825183745f6563b3.jpg" alt="Suzuki Grand Vitara III (дорестайл) 2.0i (140Hp) 2008г.в." title="моторный отсек без декоративной крышки мотора."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/274/960_700_1/274a05bb3ba36bafe5b3ccac98caeb6f.jpg" data-lightbox="example-set_70">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/274/122_91_1/274a05bb3ba36bafe5b3ccac98caeb6f.jpg" alt="Suzuki Grand Vitara III (дорестайл) 2.0i (140Hp) 2008г.в." title="подкапотное пространство"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/2d6/960_700_1/2d6bd01bfcf9e8236ce21e1ae7e58bd1.jpg" data-lightbox="example-set_70">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/2d6/122_91_1/2d6bd01bfcf9e8236ce21e1ae7e58bd1.jpg" alt="Suzuki Grand Vitara III (дорестайл) 2.0i (140Hp) 2008г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/1e9/960_700_1/1e9f8acfab87d241d39067d14692d81f.jpg" data-lightbox="example-set_70">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/1e9/122_91_1/1e9f8acfab87d241d39067d14692d81f.jpg" alt="Suzuki Grand Vitara III (дорестайл) 2.0i (140Hp) 2008г.в." title="заправочное устройство поместилось в заливной горловине"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/af5/960_700_1/af540e915576dd1a4d63cab8c932f010.jpg" data-lightbox="example-set_70">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/af5/122_91_1/af540e915576dd1a4d63cab8c932f010.jpg" alt="Suzuki Grand Vitara III (дорестайл) 2.0i (140Hp) 2008г.в." title="заправочное устройство с накрученным на него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/002/960_700_1/002254381a120e262fecdfc5429c588e.jpg" data-lightbox="example-set_70">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/002/122_91_1/002254381a120e262fecdfc5429c588e.jpg" alt="Suzuki Grand Vitara III (дорестайл) 2.0i (140Hp) 2008г.в." title="баллон объемом 51л вболь борта на сложно-составной раме с правой стороны."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/928/960_700_1/9285b012067cc5be289134256a770db4.JPG" data-lightbox="example-set_70">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/928/122_91_1/9285b012067cc5be289134256a770db4.JPG" alt="Suzuki Grand Vitara III (дорестайл) 2.0i (140Hp) 2007г.в." title="Suzuki Grand Vitara III (дорестайл) 2.0i (140Hp) 2007г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в сентябре 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/04c/960_700_1/04cadf9150648fe2b6f50ed7001d1cc4.JPG" data-lightbox="example-set_70">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/04c/122_91_1/04cadf9150648fe2b6f50ed7001d1cc4.JPG" alt="Suzuki Grand Vitara III (дорестайл) 2.0i (140Hp) 2007г.в." title="моторный отсек без декоративной крышки мотора."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/208/960_700_1/208db675755d09f280cfdde47c91e78f.JPG" data-lightbox="example-set_70">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/208/122_91_1/208db675755d09f280cfdde47c91e78f.JPG" alt="Suzuki Grand Vitara III (дорестайл) 2.0i (140Hp) 2007г.в." title="подкапотное пространство"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/764/960_700_1/7647e3b5e5da239741f473c8eeb55de2.JPG" data-lightbox="example-set_70">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/764/122_91_1/7647e3b5e5da239741f473c8eeb55de2.JPG" alt="Suzuki Grand Vitara III (дорестайл) 2.0i (140Hp) 2007г.в." title="заправочное устройство поместилось под крышкой лючка заливной горловины бензобака."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/25d/960_700_1/25de437b6a1ceeef359a6db5ad868066.JPG" data-lightbox="example-set_70">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/25d/122_91_1/25de437b6a1ceeef359a6db5ad868066.JPG" alt="Suzuki Grand Vitara III (дорестайл) 2.0i (140Hp) 2007г.в." title="заправочное устройство с накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/35f/960_700_1/35fe2500b2d45110fda2f6aa387b5202.JPG" data-lightbox="example-set_70">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/35f/122_91_1/35fe2500b2d45110fda2f6aa387b5202.JPG" alt="Suzuki Grand Vitara III (дорестайл) 2.0i (140Hp) 2007г.в." title="баллон объемом 65л "/>
+                            </a></div>
+                    </div>
+<div class="work-item tagaz" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/4/0/8/8/c9ad909ca5452e32faec6b67640a.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>ТагАЗ Tager (3дв) 2.3i (150Hp) 2011г.в.</h2>
+                                ТагАЗ Tager (3дв) 2.3i (150Hp) 2011г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в марте 2014г.<br>
+1. Модель автомобиля: Tagaz Tager<br>
+2. двигатель: рядный, бензиновый (инжекторный), 4-цилиндровый, рабочий объем 2.3л, мощность 150 л.с.<br>
+3. годы выпуска: с 2008 по 2014.<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digigtronic, Alpha<br>
+6. рекомендованный баллон: цилиндрический баллон объемом 60л. вниз под задний бампер с небольшой переделкой выхлопной системы.<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 100л вдоль заднего ряда сидений на сложно-составной раме в багажном отделении.<br>
+8. установка внешнего заправочного устройства: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: довольно простой автомобиль (как старый мерседес). чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами. 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/adc/960_700_1/adc53186be6c6128b6c974211e56086c.jpg" data-lightbox="example-set_71">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/adc/122_91_1/adc53186be6c6128b6c974211e56086c.jpg" alt="ТагАЗ Tager (3дв) 2.3i (150Hp) 2011г.в." title="ТагАЗ Tager (3дв) 2.3i (150Hp) 2011г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в марте 2014г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/44e/960_700_1/44e8e1e1616577be1364f5b10da1afd0.jpg" data-lightbox="example-set_71">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/44e/122_91_1/44e8e1e1616577be1364f5b10da1afd0.jpg" alt="ТагАЗ Tager (3дв) 2.3i (150Hp) 2011г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/843/960_700_1/843ddf3dc414c96a23cf1bd0ef3911e3.jpg" data-lightbox="example-set_71">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/843/122_91_1/843ddf3dc414c96a23cf1bd0ef3911e3.jpg" alt="ТагАЗ Tager (3дв) 2.3i (150Hp) 2011г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/230/960_700_1/23051e4b2b55d5a743fa44f6b6181d6b.jpg" data-lightbox="example-set_71">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/230/122_91_1/23051e4b2b55d5a743fa44f6b6181d6b.jpg" alt="ТагАЗ Tager (3дв) 2.3i (150Hp) 2011г.в." title="внешнее заправочное устройство поместилось в лючке бензобака."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/ba3/960_700_1/ba3e775bb60a7a6d52994fd0482100b5.jpg" data-lightbox="example-set_71">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/ba3/122_91_1/ba3e775bb60a7a6d52994fd0482100b5.jpg" alt="ТагАЗ Tager (3дв) 2.3i (150Hp) 2011г.в." title="внешнее заправочное устройство с накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/12d/960_700_1/12d2582c30f3948023a1bc466b29dda4.jpg" data-lightbox="example-set_71">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/12d/122_91_1/12d2582c30f3948023a1bc466b29dda4.jpg" alt="ТагАЗ Tager (3дв) 2.3i (150Hp) 2011г.в." title="цилиндрический баллон объемом 60л под задним бампером"/>
+                            </a></div>
+                    </div>
+<div class="work-item toyota" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/3/d/5/4/7334f4ff36aa493f90df0e9ad458.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Toyota Camry VI (XV40) (рестайл) 2.4i (167Hp) 2010г.в.</h2>
+                                Toyota Camry VI (XV40) (рестайл) 2.4i (167Hp) 2009г.в переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в мае 2015<br>
+1. модель автомобиля: Toyota Camry VI (XV40) (рестайл)<br>
+2. двигатель: рядный, бензиновый (инжекторный), 4-цилиндровый, рабочий объем 2.4л, мощность 167 л.с.<br>
+3. годы выпуска: с 2009 по 2011.<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное бюджетное оборудование для установки:  Lovato, Digitronic, Alpha<br>
+6. рекомендованный баллон: тороидальный баллон объемом до 53л. (630х225) вместо запасного колеса<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 90л.на сложно-составную раму вдоль заднего ряда сидений.<br>
+8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: в  общем все несложно.  чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами. 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e9c/960_700_1/e9c0fd74ab75057c78678e20c9324861.JPG" data-lightbox="example-set_72">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e9c/122_91_1/e9c0fd74ab75057c78678e20c9324861.JPG" alt="Toyota Camry VI (XV40) (рестайл) 2.4i (167Hp) 2009г.в." title="Toyota Camry VI (XV40) (рестайл) 2.4i (167Hp) 2009г.в переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в мае 2015"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/4a8/960_700_1/4a8cafd5995f3a90262f2ac58c6eb821.JPG" data-lightbox="example-set_72">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/4a8/122_91_1/4a8cafd5995f3a90262f2ac58c6eb821.JPG" alt="Toyota Camry VI (XV40) (рестайл) 2.4i (167Hp) 2009г.в." title="моторный отсек без декоративной крышки мотора"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/4c8/960_700_1/4c8ff8e122990f886ebb56be67546b3f.JPG" data-lightbox="example-set_72">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/4c8/122_91_1/4c8ff8e122990f886ebb56be67546b3f.JPG" alt="Toyota Camry VI (XV40) (рестайл) 2.4i (167Hp) 2009г.в." title="подкапотное пространство"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e4a/960_700_1/e4a047daf46ed1204299d9238e2fbc33.JPG" data-lightbox="example-set_72">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e4a/122_91_1/e4a047daf46ed1204299d9238e2fbc33.JPG" alt="Toyota Camry VI (XV40) (рестайл) 2.4i (167Hp) 2009г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/262/960_700_1/262fdf6d72c0c7ce8aa87ae0968b24ca.JPG" data-lightbox="example-set_72">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/262/122_91_1/262fdf6d72c0c7ce8aa87ae0968b24ca.JPG" alt="Toyota Camry VI (XV40) (рестайл) 2.4i (167Hp) 2009г.в." title="заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e3f/960_700_1/e3f93e51362217dc8409a3182b6de891.JPG" data-lightbox="example-set_72">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e3f/122_91_1/e3f93e51362217dc8409a3182b6de891.JPG" alt="Toyota Camry VI (XV40) (рестайл) 2.4i (167Hp) 2009г.в." title="заправочное устройство с накрученным на него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/545/960_700_1/545fce22faaf93ebb01330b2a2b8234a.JPG" data-lightbox="example-set_72">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/545/122_91_1/545fce22faaf93ebb01330b2a2b8234a.JPG" alt="Toyota Camry VI (XV40) (рестайл) 2.4i (167Hp) 2009г.в." title="тороидальный баллон объемом 53л (630х225) вместо запасного колеса"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/78e/960_700_1/78e103abd0f175866500d25abedbcf3f.JPG" data-lightbox="example-set_72">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/78e/122_91_1/78e103abd0f175866500d25abedbcf3f.JPG" alt="Toyota Camry VI (XV40) (рестайл) 2.4i (167Hp) 2009г.в." title="багажное отделение"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/673/960_700_1/67361997dba17883b5b47fa1460f9ffc.JPG" data-lightbox="example-set_72">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/673/122_91_1/67361997dba17883b5b47fa1460f9ffc.JPG" alt="Toyota Camry VI (XV40) (рестайл) 2.4i (167Hp) 2010г.в." title="Toyota Camry VI (XV40) (рестайл) 2.4i (167Hp) 2010г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в августе 2014г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/b18/960_700_1/b188997009f06d43ae55562777cefff7.JPG" data-lightbox="example-set_72">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/b18/122_91_1/b188997009f06d43ae55562777cefff7.JPG" alt="Toyota Camry VI (XV40) (рестайл) 2.4i (167Hp) 2010г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/2cd/960_700_1/2cd797fc912dc4c7e40b776ef756d5e1.JPG" data-lightbox="example-set_72">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/2cd/122_91_1/2cd797fc912dc4c7e40b776ef756d5e1.JPG" alt="Toyota Camry VI (XV40) (рестайл) 2.4i (167Hp) 2010г.в." title="кнопка переключения режимов работы - газ\бензин"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/c69/960_700_1/c691ac6921ee59697036727d96c00d19.JPG" data-lightbox="example-set_72">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/c69/122_91_1/c691ac6921ee59697036727d96c00d19.JPG" alt="Toyota Camry VI (XV40) (рестайл) 2.4i (167Hp) 2010г.в." title="заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/a4f/960_700_1/a4f891eb572886d39f1b0122d78ed222.JPG" data-lightbox="example-set_72">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/a4f/122_91_1/a4f891eb572886d39f1b0122d78ed222.JPG" alt="Toyota Camry VI (XV40) (рестайл) 2.4i (167Hp) 2010г.в." title="заправаочное устройство с накрученным заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/005/960_700_1/0056660559d2574eed082099f73c5a3b.JPG" data-lightbox="example-set_72">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/005/122_91_1/0056660559d2574eed082099f73c5a3b.JPG" alt="Toyota Camry VI (XV40) (рестайл) 2.4i (167Hp) 2010г.в." title="тороидальный баллон объемом 53л вместо запасного колеса"/>
+                            </a></div>
+                    </div>
+<div class="work-item toyota" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/d/d/b/e/7dd577401836e2bc4026e22ee3ca.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Toyota Camry VII (XV50) (дорестайл) 2.5i  (181Hp) 2012г.в.</h2>
+                                Toyota Camry VII (XV50) (дорестайл) 2.5i  (181Hp) 2012г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в сентябре 2014г.<br>
+1. модель автомобиля: Toyota Camry VII (XV50) (дорестайл)<br>
+2. двигатель: рядный, бензиновый (инжекторный), 4-цилиндровый, рабочий объем 2.5л, мощность 181 л.с.<br>
+3. годы выпуска: с 2011 по 2014.<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное бюджетное оборудование для установки: Lovato, Digitronic, Alpha<br>
+6. рекомендованный баллон: тороидальный баллон объемом до 53л. (630х225) вместо запасного колеса<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 90л.на сложно-составную раму вдоль заднего ряда сидений.<br>
+8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: в  общем все несложно.  чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами. 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/4d1/960_700_1/4d19c9b5cdd7ccbdecec591556582018.JPG" data-lightbox="example-set_73">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/4d1/122_91_1/4d19c9b5cdd7ccbdecec591556582018.JPG" alt="Toyota Camry VII (XV50) (дорестайл) 2.5i  (181Hp) 2012г.в." title="Toyota Camry VII (XV50) (дорестайл) 2.5i  (181Hp) 2012г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в сентябре 2014г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/608/960_700_1/608687577f72da2cc732346837570d02.JPG" data-lightbox="example-set_73">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/608/122_91_1/608687577f72da2cc732346837570d02.JPG" alt="Toyota Camry VII (XV50) (дорестайл) 2.5i  (181Hp) 2012г.в." title="моторный отсек без декоративной крышки мотора"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/9fb/960_700_1/9fbd232f05fd5decba711e411efd0881.JPG" data-lightbox="example-set_73">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/9fb/122_91_1/9fbd232f05fd5decba711e411efd0881.JPG" alt="Toyota Camry VII (XV50) (дорестайл) 2.5i  (181Hp) 2012г.в." title="подкапотное пространство"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/4b9/960_700_1/4b96ca8beda5b5b3ea7ec297736cca93.JPG" data-lightbox="example-set_73">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/4b9/122_91_1/4b96ca8beda5b5b3ea7ec297736cca93.JPG" alt="Toyota Camry VII (XV50) (дорестайл) 2.5i  (181Hp) 2012г.в." title="кнопка переключения режимов работы - газ\бензин"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/348/960_700_1/348c2f11aa2b4be7e639a48a7cc69fe3.JPG" data-lightbox="example-set_73">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/348/122_91_1/348c2f11aa2b4be7e639a48a7cc69fe3.JPG" alt="Toyota Camry VII (XV50) (дорестайл) 2.5i  (181Hp) 2012г.в." title="заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/0be/960_700_1/0beb1f4193ba077e074dbe56104a4878.JPG" data-lightbox="example-set_73">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/0be/122_91_1/0beb1f4193ba077e074dbe56104a4878.JPG" alt="Toyota Camry VII (XV50) (дорестайл) 2.5i  (181Hp) 2012г.в." title="заправочное устройство с накрученным на него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/4eb/960_700_1/4eb70342c814ff03bff6282dcd669747.JPG" data-lightbox="example-set_73">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/4eb/122_91_1/4eb70342c814ff03bff6282dcd669747.JPG" alt="Toyota Camry VII (XV50) (дорестайл) 2.5i  (181Hp) 2012г.в." title="цилиндрический баллон объемом 80л на сложно-составной раме вдоль заднего ряда сидений."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/64a/960_700_1/64a11a313c5199471bbbec3b14607131.JPG" data-lightbox="example-set_73">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/64a/122_91_1/64a11a313c5199471bbbec3b14607131.JPG" alt="Toyota Camry VII (XV50) (дорестайл) 2.5i  (181Hp) 2012г.в." title="багажное отделение"/>
+                            </a></div>
+                    </div>
+<div class="work-item volkswagen" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/3/8/3/3/216c1cfe10ed1377dd24972519cd.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Volkswagen Jetta VI (дорестайл) 1.6i (105Hp) 2014г.в.</h2>
+                                Volkswagen Jetta VI (дорестайл) 1.6i (105Hp) 2014г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в октябре 2016г.<br>
+1. модель автомобиля: Volkswagen Jetta VI (дорестайл)<br>
+2. двигатель: рядный, бензиновый (инжекторный), 4-цилиндровый, рабочий объем 1.6л, мощность 105 л.с.<br>
+3. годы выпуска: с 2011 по 2014<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки:  Lovato, Digitronic, Alpha<br>
+6. рекомендованный баллон: тороидальный баллон объемом до 53л. (630х225) вместо запасного колеса<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 90л.на сложно-составную раму вдоль заднего ряда сидений.<br>
+8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: в  общем все несложно.  чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами. 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/845/960_700_1/8457db3ebd3563a031f56f5cf1d2d011.JPG" data-lightbox="example-set_74">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/845/122_91_1/8457db3ebd3563a031f56f5cf1d2d011.JPG" alt="Volkswagen Jetta VI (дорестайл) 1.6i (105Hp) 2014г.в." title="Volkswagen Jetta VI (дорестайл) 1.6i (105Hp) 2014г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в октябре 2016г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/bc5/960_700_1/bc503aadee6e8e1cbd0f2646dcd81a09.JPG" data-lightbox="example-set_74">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/bc5/122_91_1/bc503aadee6e8e1cbd0f2646dcd81a09.JPG" alt="Volkswagen Jetta VI (дорестайл) 1.6i (105Hp) 2014г.в." title="моторный отсек."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/b8f/960_700_1/b8f8109d8c6274bd46b7c11b26370ca2.JPG" data-lightbox="example-set_74">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/b8f/122_91_1/b8f8109d8c6274bd46b7c11b26370ca2.JPG" alt="Volkswagen Jetta VI (дорестайл) 1.6i (105Hp) 2014г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/3ae/960_700_1/3ae508128d4f98b30fa71417f89a7bae.JPG" data-lightbox="example-set_74">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/3ae/122_91_1/3ae508128d4f98b30fa71417f89a7bae.JPG" alt="Volkswagen Jetta VI (дорестайл) 1.6i (105Hp) 2014г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/83a/960_700_1/83ac1409283de3713795d661798d846c.JPG" data-lightbox="example-set_74">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/83a/122_91_1/83ac1409283de3713795d661798d846c.JPG" alt="Volkswagen Jetta VI (дорестайл) 1.6i (105Hp) 2014г.в." title="заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/2a6/960_700_1/2a67300367a32ffc62a53715147ac1ec.JPG" data-lightbox="example-set_74">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/2a6/122_91_1/2a67300367a32ffc62a53715147ac1ec.JPG" alt="Volkswagen Jetta VI (дорестайл) 1.6i (105Hp) 2014г.в." title="заправочное устройство с накрученным на него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/c3f/960_700_1/c3f13963c7c178f88fa15446054079b8.JPG" data-lightbox="example-set_74">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/c3f/122_91_1/c3f13963c7c178f88fa15446054079b8.JPG" alt="Volkswagen Jetta VI (дорестайл) 1.6i (105Hp) 2014г.в." title="тороидальный баллон объемом 53л (630х225) вместо запасного колеса"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/cb1/960_700_1/cb1b2cae1da9fc45bdbc1d19feb8ec81.JPG" data-lightbox="example-set_74">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/cb1/122_91_1/cb1b2cae1da9fc45bdbc1d19feb8ec81.JPG" alt="Volkswagen Jetta VI (дорестайл) 1.6i (105Hp) 2014г.в." title="багажное отделение"/>
+                            </a></div>
+                    </div>
+<div class="work-item volkswagen" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/4/7/5/a/5dd96cb9f32d536b5ea73e6ddc31.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Volkswagen Passat (B4) (универсал) 2.8i VR6 (174Hp) 1994г.в.</h2>
+                                Volkswagen Passat (B4) (универсал) 2.8i VR6 (174Hp) 1994г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в сентябре 2013г.<br>
+1. модель автомобиля: Volkswagen Passat (B4) (универсал)<br>
+2. двигатель: V-образно-рядный, бензиновый (инжекторный), 6-цилиндровый, рабочий объем 2.8л, мощность 174л.с. <br>
+3. годы выпуска: с 1993 по 1997 г.в.<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha-M<br>
+6. рекомендованный баллон: а) тороидальный баллон объемом 42л. (600х200) вместо запасного колеса<br>
+                                              б) цилиндрический баллон объемом 90л на сложно-составную раму в багажное отделение вдоль заднего ряда сидений.<br>
+7. альтернативный вариант установки баллона: нет.<br>
+8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: крайне непростой и трудоемкий автомобиль. чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/742/960_700_1/742309444d225f07ce47eb9ef17856a3.JPG" data-lightbox="example-set_75">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/742/122_91_1/742309444d225f07ce47eb9ef17856a3.JPG" alt="Volkswagen Passat (B4) (универсал) 2.8i VR6 (174Hp) 1994г.в." title="Volkswagen Passat (B4) (универсал) 2.8i VR6 (174Hp) 1994г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в сентябре 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/fef/960_700_1/fef16a9780ba1172f27c9ca11803d1d0.JPG" data-lightbox="example-set_75">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/fef/122_91_1/fef16a9780ba1172f27c9ca11803d1d0.JPG" alt="Volkswagen Passat (B4) (универсал) 2.8i VR6 (174Hp) 1994г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/1bb/960_700_1/1bb433a59ea46238dc288612fe19cdd2.JPG" data-lightbox="example-set_75">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/1bb/122_91_1/1bb433a59ea46238dc288612fe19cdd2.JPG" alt="Volkswagen Passat (B4) (универсал) 2.8i VR6 (174Hp) 1994г.в." title="заправочное устройство поместилось под крышку заливной горловины бензобака."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/67a/960_700_1/67a3412c1efedb11f7232216647b6049.JPG" data-lightbox="example-set_75">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/67a/122_91_1/67a3412c1efedb11f7232216647b6049.JPG" alt="Volkswagen Passat (B4) (универсал) 2.8i VR6 (174Hp) 1994г.в." title="заправочное устройство с накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/366/960_700_1/366265acb3020337918cfce8b269435d.JPG" data-lightbox="example-set_75">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/366/122_91_1/366265acb3020337918cfce8b269435d.JPG" alt="Volkswagen Passat (B4) (универсал) 2.8i VR6 (174Hp) 1994г.в." title=" баллон объемом 42л вместо запасного колеса"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/8f9/960_700_1/8f938f12533330b546c7694591f78872.JPG" data-lightbox="example-set_75">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/8f9/122_91_1/8f938f12533330b546c7694591f78872.JPG" alt="Volkswagen Passat (B4) (универсал) 2.8i VR6 (174Hp) 1994г.в." title="багажное отделение."/>
+                            </a></div>
+                    </div>
+<div class="work-item volvo" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/e/6/7/9/6eb8e170598916fe81ee51b3d5f2.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Volvo CX90 I (рестайл) 4.4i (315Hp) 2007г.в.</h2>
+                                Volvo CX90 I (рестайл) 4.4i (315Hp) 2007г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в июне 2013г.<br>
+1. модель автомобиля: Volvo XC90 I (дорестайл)<br>
+2. двигатель: V-образный, бензиновый (инжекторный), 8-цилиндровый, рабочий объем 4.4л, мощность 315 л.с.<br>
+3. год выпуска: с 2006 по 2014<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное бюджетное оборудование для установки: Lovato, Digitronic, Alpha<br>
+6. рекомендованный баллон: а)тороидальный баллон объемом 53л (630х225) вместо запасного колеса.<br>
+                                              б) тороидальный баллон объемом 60л (630х250) вместо запасного колеса.<br>
+                                              в) тороидальный баллон объемом 74л (720х230) вместо запасного колеса.<br>
+                                              г) тороидальный баллон объемом 65л (720х200) вместо запасного колеса.<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 130 л. в багажное отделение вдоль второго ряда сидений вместо третьего ряда сидений, который демонтируется.<br>
+8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: в общем проблем нет, но в поздних выпусках наличие в системе управления датчика давления бензина в рампе делает почти обязательной установку оборудования BRC, которое единственное на данный момент может справится проблемой эмулирования сигнала этого датчика при работе на газе. Без этого ЭБУ двигателя будет видеть его как неисправный, зажигать лампу неисправности двигателя и переходить в аварийный режим.  чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами. 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/a68/960_700_1/a68c7fb72b208cf75c2db605eceed77d.jpg" data-lightbox="example-set_76">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/a68/122_91_1/a68c7fb72b208cf75c2db605eceed77d.jpg" alt="Volvo CX90 I (рестайл) 4.4i (315Hp) 2007г.в." title="Volvo CX90 I (рестайл) 4.4i (315Hp) 2007г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в июне 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/ea1/960_700_1/ea1f1af8e7525776e03ac59d2a3e4842.jpg" data-lightbox="example-set_76">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/ea1/122_91_1/ea1f1af8e7525776e03ac59d2a3e4842.jpg" alt="Volvo CX90 I (рестайл) 4.4i (315Hp) 2007г.в." title="моторный отсек."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/fd2/960_700_1/fd27ed566b0fae074bfeca3bff7e8b88.jpg" data-lightbox="example-set_76">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/fd2/122_91_1/fd27ed566b0fae074bfeca3bff7e8b88.jpg" alt="Volvo CX90 I (рестайл) 4.4i (315Hp) 2007г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/b3d/960_700_1/b3d13aa1fc0faab3e1a663cf95424388.jpg" data-lightbox="example-set_76">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/b3d/122_91_1/b3d13aa1fc0faab3e1a663cf95424388.jpg" alt="Volvo CX90 I (рестайл) 4.4i (315Hp) 2007г.в." title="заправочное устройство в заливной горловине."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/a2c/960_700_1/a2cf232adebda320e7f7ad4778e01277.jpg" data-lightbox="example-set_76">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/a2c/122_91_1/a2cf232adebda320e7f7ad4778e01277.jpg" alt="Volvo CX90 I (рестайл) 4.4i (315Hp) 2007г.в." title="заправочное устройство с накрученным на него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/594/960_700_1/59464495c22dd656e8b77f80b5c13f7f.jpg" data-lightbox="example-set_76">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/594/122_91_1/59464495c22dd656e8b77f80b5c13f7f.jpg" alt="Volvo CX90 I (рестайл) 4.4i (315Hp) 2007г.в." title="баллон объемом 79л "/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/d74/960_700_1/d74a9363495652324834fc9e622e195c.JPG" data-lightbox="example-set_76">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/d74/122_91_1/d74a9363495652324834fc9e622e195c.JPG" alt="Volvo XC90 I (рестайл) 4.4i (315Hp) 2009г.в." title="Volvo XC90 I (рестайл) 4.4i (315Hp) 2009г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы распределенного фазированного впрыска газа - "BRC - Plug&Drive" в апреле 2013г"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/d0d/960_700_1/d0da0d61c0ca5ff97342f080c1e8edf4.JPG" data-lightbox="example-set_76">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/d0d/122_91_1/d0da0d61c0ca5ff97342f080c1e8edf4.JPG" alt="Volvo XC90 I (рестайл) 4.4i (315Hp) 2009г.в." title="моторный отсек."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/8de/960_700_1/8de612bc655610eeffdf06e6b783e803.JPG" data-lightbox="example-set_76">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/8de/122_91_1/8de612bc655610eeffdf06e6b783e803.JPG" alt="Volvo XC90 I (рестайл) 4.4i (315Hp) 2009г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/6ff/960_700_1/6ff1db0b254ebc3227d20ddc4684d055.JPG" data-lightbox="example-set_76">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/6ff/122_91_1/6ff1db0b254ebc3227d20ddc4684d055.JPG" alt="Volvo XC90 I (рестайл) 4.4i (315Hp) 2009г.в." title="заправочное устройство в заливной горловине."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/5e0/960_700_1/5e04b1d6652b20b4cf2cbdbed526d2a3.JPG" data-lightbox="example-set_76">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/5e0/122_91_1/5e04b1d6652b20b4cf2cbdbed526d2a3.JPG" alt="Volvo XC90 I (рестайл) 4.4i (315Hp) 2009г.в." title="заправочное устройство с накрученным на него заправочным переходником"/>
+                            </a></div>
+                    </div>
+<div class="work-item volvo" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/e/5/0/4/3f8ad8ff6e14fbbd124f7952f3a6.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Volvo S40 II (рестайл) 2.4i (170Hp) 2008г.в.</h2>
+                                Volvo S40 II (рестайл) 2.4i (170Hp) 2008г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в августе 2013г.<br>
+1. модель автомобиля: Volvo S40 II (рестайл)<br>
+2. двигатель: рядный, бензиновый (инжекторный), 5-цилиндровый, рабочий объем 2.4л, мощность 170 л.с.<br>
+3. год выпуска: с 2007 по 2012<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное бюджетное оборудование для установки: Lovato, Digitronic, Alpha<br>
+6. рекомендованный баллон: а)тороидальный баллон объемом 42л вместо запасного колеса.<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 90л вдоль заднего ряда сидений на сложно-составную раму.<br>
+8. установка внешнего заправочного устройство: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: в общем проблем нет, но в поздних выпусках наличие в системе управления датчика давления бензина в рампе делает почти обязательной установку оборудования BRC, которое единственное на данный момент может справится проблемой эмулирования сигнала этого датчика при работе на газе. Без этого ЭБУ двигателя будет видеть его как неисправный, зажигать лампу неисправности двигателя и переходить в аварийный режим.  чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами.<br>
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e78/960_700_1/e78f2450da22752faf2efd714817db5f.JPG" data-lightbox="example-set_77">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e78/122_91_1/e78f2450da22752faf2efd714817db5f.JPG" alt="Volvo S40 II (рестайл) 2.4i (170Hp) 2008г.в." title="Volvo S40 II (рестайл) 2.4i (170Hp) 2008г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в августе 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/349/960_700_1/349ed676decf183c830fbc6d4255343b.JPG" data-lightbox="example-set_77">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/349/122_91_1/349ed676decf183c830fbc6d4255343b.JPG" alt="Volvo S40 II (рестайл) 2.4i (170Hp) 2008г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/63a/960_700_1/63a83c3b390b9f565ee7ab883d952c4d.JPG" data-lightbox="example-set_77">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/63a/122_91_1/63a83c3b390b9f565ee7ab883d952c4d.JPG" alt="Volvo S40 II (рестайл) 2.4i (170Hp) 2008г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/b77/960_700_1/b770ef3a32b50d0423f150a020f886ba.JPG" data-lightbox="example-set_77">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/b77/122_91_1/b770ef3a32b50d0423f150a020f886ba.JPG" alt="Volvo S40 II (рестайл) 2.4i (170Hp) 2008г.в." title="заправочное устройство поместилось под крышкой лючка заливной горловины бензобака. бензобака."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/39f/960_700_1/39f0ea52af7f2f912d858b5e57547312.JPG" data-lightbox="example-set_77">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/39f/122_91_1/39f0ea52af7f2f912d858b5e57547312.JPG" alt="Volvo S40 II (рестайл) 2.4i (170Hp) 2008г.в." title="заправочное устройство с накрученным на него заправочным переходником."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/cb0/960_700_1/cb094370533d6c840b2437c9f6659b87.JPG" data-lightbox="example-set_77">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/cb0/122_91_1/cb094370533d6c840b2437c9f6659b87.JPG" alt="Volvo S40 II (рестайл) 2.4i (170Hp) 2008г.в." title="баллон объемом 42л вместо запасного колеса."/>
+                            </a></div>
+                    </div>
+<div class="work-item Ваз" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/f/1/9/6/2cecd6b4b8da7dff0a273a2c8af5.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Lada Kalina универсал 1.6i 2009г.в.</h2>
+                                Lada Kalina универсал 1.6i (80Hp) 2009г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в ноябре 2013г.<br>
+1. Модель автомобиля: ВАЗ 1118 Калина универсал<br>
+2. двигатель: рядный, бензиновый, 4-цилиндровый, рабочий объем 1.6л, мощность от 80 л.с.<br>
+3. годы выпуска: с 2007 по наши дни<br>
+4. рекомендованное оборудование для установки: BRC Seq24 KitVale<br>
+5. альтернативное оборудование для установки: Lovato<br>
+6. рекомендованный баллон: тороидальный баллон объемом 42л вместо запасного колеса<br>
+7. альтернативный вариант установки баллона:  цилиндрический баллон объемом до 65л в багажное отделение вдоль заднего ряда сидений.<br>
+8. установка внешнего заправочного устройства: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: вполне простенький автомобиль. чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/0c5/960_700_1/0c5c3b43a3c16aa90137a48a5c401915.JPG" data-lightbox="example-set_78">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/0c5/122_91_1/0c5c3b43a3c16aa90137a48a5c401915.JPG" alt="Lada Kalina универсал 1.6i (80Hp) 2009г.в." title="Lada Kalina универсал 1.6i (80Hp) 2009г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в ноябре 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/50c/960_700_1/50cff64719278671ee9402fb1d038d0e.JPG" data-lightbox="example-set_78">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/50c/122_91_1/50cff64719278671ee9402fb1d038d0e.JPG" alt="Lada Kalina универсал 1.6i (80Hp) 2009г.в." title="моторный отсек без декоративной крышки мотора."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/208/960_700_1/2085da2c842f9168fa5fab3a090b2615.JPG" data-lightbox="example-set_78">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/208/122_91_1/2085da2c842f9168fa5fab3a090b2615.JPG" alt="Lada Kalina универсал 1.6i (80Hp) 2009г.в." title="подкапотное пространство"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/9d9/960_700_1/9d9b32c3ca7c2389ef84203cc0b62b31.JPG" data-lightbox="example-set_78">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/9d9/122_91_1/9d9b32c3ca7c2389ef84203cc0b62b31.JPG" alt="Lada Kalina универсал 1.6i (80Hp) 2009г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/90e/960_700_1/90e5bb8256d73d532b98f9a0cecb1aab.JPG" data-lightbox="example-set_78">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/90e/122_91_1/90e5bb8256d73d532b98f9a0cecb1aab.JPG" alt="Lada Kalina универсал 1.6i (80Hp) 2009г.в." title="заправочное устройство поместилось в заливной горловине"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/c50/960_700_1/c50f165e3e6059d3cc1e341dd7f6976a.JPG" data-lightbox="example-set_78">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/c50/122_91_1/c50f165e3e6059d3cc1e341dd7f6976a.JPG" alt="Lada Kalina универсал 1.6i (80Hp) 2009г.в." title="заправочное устройство с накрученным на него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e59/960_700_1/e59c80579e9fbb576927c23346ffe9d2.JPG" data-lightbox="example-set_78">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e59/122_91_1/e59c80579e9fbb576927c23346ffe9d2.JPG" alt="Lada Kalina универсал 1.6i (80Hp) 2009г.в." title="баллон объемом 42л вместо запасного колеса."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/480/960_700_1/480732abbb0f936e88f5a987fec3f7fe.JPG" data-lightbox="example-set_78">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/480/122_91_1/480732abbb0f936e88f5a987fec3f7fe.JPG" alt="Lada Kalina универсал 1.6i 2009г.в." title="Lada Kalina универсал 1.6i 2009г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в мае 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/f31/960_700_1/f3181bfa342272cfde35a79cebf742a8.JPG" data-lightbox="example-set_78">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/f31/122_91_1/f3181bfa342272cfde35a79cebf742a8.JPG" alt="Lada Kalina универсал 1.6i 2009г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e7e/960_700_1/e7ee7bf4580e7d820ccff8bf66a2be19.JPG" data-lightbox="example-set_78">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e7e/122_91_1/e7ee7bf4580e7d820ccff8bf66a2be19.JPG" alt="Lada Kalina универсал 1.6i 2009г.в." title="кнопка переключения режимов работы - газбензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/9cf/960_700_1/9cf49196baf58262f0c055dcebbcbc2b.JPG" data-lightbox="example-set_78">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/9cf/122_91_1/9cf49196baf58262f0c055dcebbcbc2b.JPG" alt="Lada Kalina универсал 1.6i 2009г.в." title="заправочное устройство поместилось в штатной заливной горловине"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/6bb/960_700_1/6bbb7a83baabae6728a831b0edace432.JPG" data-lightbox="example-set_78">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/6bb/122_91_1/6bbb7a83baabae6728a831b0edace432.JPG" alt="Lada Kalina универсал 1.6i 2009г.в." title="заправочное устройство с накрученным на него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/086/960_700_1/086c543d958f306c7fce2433e2d70ed4.JPG" data-lightbox="example-set_78">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/086/122_91_1/086c543d958f306c7fce2433e2d70ed4.JPG" alt="Lada Kalina универсал 1.6i 2009г.в." title="баллон объемом 42л вместо запасного колеса"/>
+                            </a></div>
+                    </div>
+<div class="work-item Ваз" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/f/1/9/6/2cecd6b4b8da7dff0a273a2c8af5.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>Lada Kalina универсал 1.6i (80Hp) 2009г.в.</h2>
+                                Lada Kalina универсал 1.6i (80Hp) 2009г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в ноябре 2013г.<br>
+1. Модель автомобиля: ВАЗ 1118 Калина универсал<br>
+2. двигатель: рядный, бензиновый, 4-цилиндровый, рабочий объем 1.6л, мощность от 80 л.с.<br>
+3. годы выпуска: с 2007 по наши дни<br>
+4. рекомендованное оборудование для установки: BRC Seq24 KitVale<br>
+5. альтернативное оборудование для установки: Lovato<br>
+6. рекомендованный баллон: тороидальный баллон объемом 42л вместо запасного колеса<br>
+7. альтернативный вариант установки баллона:  цилиндрический баллон объемом до 65л в багажное отделение вдоль заднего ряда сидений.<br>
+8. установка внешнего заправочного устройства: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: вполне простенький автомобиль. чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/0c5/960_700_1/0c5c3b43a3c16aa90137a48a5c401915.JPG" data-lightbox="example-set_79">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/0c5/122_91_1/0c5c3b43a3c16aa90137a48a5c401915.JPG" alt="Lada Kalina универсал 1.6i (80Hp) 2009г.в." title="Lada Kalina универсал 1.6i (80Hp) 2009г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в ноябре 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/50c/960_700_1/50cff64719278671ee9402fb1d038d0e.JPG" data-lightbox="example-set_79">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/50c/122_91_1/50cff64719278671ee9402fb1d038d0e.JPG" alt="Lada Kalina универсал 1.6i (80Hp) 2009г.в." title="моторный отсек без декоративной крышки мотора."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/208/960_700_1/2085da2c842f9168fa5fab3a090b2615.JPG" data-lightbox="example-set_79">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/208/122_91_1/2085da2c842f9168fa5fab3a090b2615.JPG" alt="Lada Kalina универсал 1.6i (80Hp) 2009г.в." title="подкапотное пространство"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/9d9/960_700_1/9d9b32c3ca7c2389ef84203cc0b62b31.JPG" data-lightbox="example-set_79">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/9d9/122_91_1/9d9b32c3ca7c2389ef84203cc0b62b31.JPG" alt="Lada Kalina универсал 1.6i (80Hp) 2009г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/90e/960_700_1/90e5bb8256d73d532b98f9a0cecb1aab.JPG" data-lightbox="example-set_79">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/90e/122_91_1/90e5bb8256d73d532b98f9a0cecb1aab.JPG" alt="Lada Kalina универсал 1.6i (80Hp) 2009г.в." title="заправочное устройство поместилось в заливной горловине"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/c50/960_700_1/c50f165e3e6059d3cc1e341dd7f6976a.JPG" data-lightbox="example-set_79">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/c50/122_91_1/c50f165e3e6059d3cc1e341dd7f6976a.JPG" alt="Lada Kalina универсал 1.6i (80Hp) 2009г.в." title="заправочное устройство с накрученным на него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e59/960_700_1/e59c80579e9fbb576927c23346ffe9d2.JPG" data-lightbox="example-set_79">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e59/122_91_1/e59c80579e9fbb576927c23346ffe9d2.JPG" alt="Lada Kalina универсал 1.6i (80Hp) 2009г.в." title="баллон объемом 42л вместо запасного колеса."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/480/960_700_1/480732abbb0f936e88f5a987fec3f7fe.JPG" data-lightbox="example-set_79">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/480/122_91_1/480732abbb0f936e88f5a987fec3f7fe.JPG" alt="Lada Kalina универсал 1.6i 2009г.в." title="Lada Kalina универсал 1.6i 2009г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в мае 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/f31/960_700_1/f3181bfa342272cfde35a79cebf742a8.JPG" data-lightbox="example-set_79">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/f31/122_91_1/f3181bfa342272cfde35a79cebf742a8.JPG" alt="Lada Kalina универсал 1.6i 2009г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/e7e/960_700_1/e7ee7bf4580e7d820ccff8bf66a2be19.JPG" data-lightbox="example-set_79">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/e7e/122_91_1/e7ee7bf4580e7d820ccff8bf66a2be19.JPG" alt="Lada Kalina универсал 1.6i 2009г.в." title="кнопка переключения режимов работы - газбензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/9cf/960_700_1/9cf49196baf58262f0c055dcebbcbc2b.JPG" data-lightbox="example-set_79">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/9cf/122_91_1/9cf49196baf58262f0c055dcebbcbc2b.JPG" alt="Lada Kalina универсал 1.6i 2009г.в." title="заправочное устройство поместилось в штатной заливной горловине"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/6bb/960_700_1/6bbb7a83baabae6728a831b0edace432.JPG" data-lightbox="example-set_79">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/6bb/122_91_1/6bbb7a83baabae6728a831b0edace432.JPG" alt="Lada Kalina универсал 1.6i 2009г.в." title="заправочное устройство с накрученным на него заправочным переходником"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/086/960_700_1/086c543d958f306c7fce2433e2d70ed4.JPG" data-lightbox="example-set_79">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/086/122_91_1/086c543d958f306c7fce2433e2d70ed4.JPG" alt="Lada Kalina универсал 1.6i 2009г.в." title="баллон объемом 42л вместо запасного колеса"/>
+                            </a></div>
+                    </div>
+<div class="work-item Газ" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/e/7/a/1/55361c548bbf8ae27f880175e5ed.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2> ГАЗ GAZelle Бизнес  (фургон цельнометаллический) 2.9i (106Hp) 2014г.в.</h2>
+                                ГАЗ GAZelle Бизнес  (фургон цельнометаллический) 2.9i (106Hp) 2014г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в апреле 2015г.<br>
+1. Модель автомобиля: ГАЗ GAZelle Бизнес  (фургон цельнометаллический)<br>
+2. двигатель: рядный, бензиновый, 4-цилиндровый, рабочий объем 2.9л, мощность 106 л.с.<br>
+3. год выпуска: 2014<br>
+4. рекомендованное оборудование для установки: BRC Seq24<br>
+5. альтернативное оборудование для установки: Lovato, Stag-300 (Digitronic)<br>
+6. рекомендованный баллон: два спаренных баллона снизу сзади под кузовом вместо запасного колеса общим объемом 95л<br>
+7. альтернативный вариант установки баллона:<br>
+8. установка внешнего заправочного устройства:<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: в общем сложностей нет. 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/6cf/960_700_1/6cf384186332c8537f3fd1de52357d00.JPG" data-lightbox="example-set_80">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/6cf/122_91_1/6cf384186332c8537f3fd1de52357d00.JPG" alt=" ГАЗ GAZelle Бизнес  (фургон цельнометаллический) 2.9i (106Hp) 2014г.в." title="ГАЗ GAZelle Бизнес  (фургон цельнометаллический) 2.9i (106Hp) 2014г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в апреле 2015г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/79b/960_700_1/79ba4f6bbedc395db74177c7e85868e8.JPG" data-lightbox="example-set_80">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/79b/122_91_1/79ba4f6bbedc395db74177c7e85868e8.JPG" alt=" ГАЗ GAZelle Бизнес  (фургон цельнометаллический) 2.9i (106Hp) 2014г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/673/960_700_1/6734abafb7bf4d4d0b37ec81b2a250e4.JPG" data-lightbox="example-set_80">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/673/122_91_1/6734abafb7bf4d4d0b37ec81b2a250e4.JPG" alt=" ГАЗ GAZelle Бизнес  (фургон цельнометаллический) 2.9i (106Hp) 2014г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/469/960_700_1/4696c01d0fe08cf542ce236fbb9cd922.JPG" data-lightbox="example-set_80">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/469/122_91_1/4696c01d0fe08cf542ce236fbb9cd922.JPG" alt=" ГАЗ GAZelle Бизнес  (фургон цельнометаллический) 2.9i (106Hp) 2014г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/49f/960_700_1/49f3e4400ff98aa7eceaa58d8d6eead0.JPG" data-lightbox="example-set_80">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/49f/122_91_1/49f3e4400ff98aa7eceaa58d8d6eead0.JPG" alt=" ГАЗ GAZelle Бизнес  (фургон цельнометаллический) 2.9i (106Hp) 2014г.в." title="лва спаренных баллона объемом 95л вместо запасного колеса"/>
+                            </a></div>
+                    </div>
+<div class="work-item Газ" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/4/d/6/b/3fb91e0ede72a8060e2446b7188b.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>ГАЗ 3102 «Волга» 2.3i (150Hp) 2008г.в.</h2>
+                                ГАЗ 3102 «Волга» 2.3i (150Hp) 2008г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в марте 2016г.<br>
+1. Модель автомобиля: ГАЗ 3102 «Волга»<br>
+2. двигатель: рядный, бензиновый, 4-цилиндровый, рабочий объем 2.3л, мощность 150 л.с.<br>
+3. годы выпуска: с 1997 по 2009<br>
+4. рекомендованное оборудование для установки: BRC, Alpha<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic<br>
+6. рекомендованный баллон: цилиндрический баллон объемом 65л вместо запасного колеса<br>
+7. альтернативный вариант установки баллона:  цилиндрический баллон объемом 90л в багажное отделение.<br>
+8. установка внешнего заправочного устройства: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: вполне простенький автомобиль, хоть и легендарный. чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами. 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/00b/960_700_1/00be9accc5979e744fa29d68f3bebe88.JPG" data-lightbox="example-set_81">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/00b/122_91_1/00be9accc5979e744fa29d68f3bebe88.JPG" alt="ГАЗ 3102 «Волга» 2.3i (150Hp) 2008г.в." title="ГАЗ 3102 «Волга» 2.3i (150Hp) 2008г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в марте 2016г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/26b/960_700_1/26bcb02cf6c77933562592bba1f417fc.JPG" data-lightbox="example-set_81">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/26b/122_91_1/26bcb02cf6c77933562592bba1f417fc.JPG" alt="ГАЗ 3102 «Волга» 2.3i (150Hp) 2008г.в." title="моторный отсек."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/a63/960_700_1/a636d7540631c3c49508b3defa984337.JPG" data-lightbox="example-set_81">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/a63/122_91_1/a636d7540631c3c49508b3defa984337.JPG" alt="ГАЗ 3102 «Волга» 2.3i (150Hp) 2008г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/3b7/960_700_1/3b72aa64b9636b6ca638a9da1c64ad69.JPG" data-lightbox="example-set_81">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/3b7/122_91_1/3b72aa64b9636b6ca638a9da1c64ad69.JPG" alt="ГАЗ 3102 «Волга» 2.3i (150Hp) 2008г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/60c/960_700_1/60ca8a885b73e61a904ed3e34aa818f8.JPG" data-lightbox="example-set_81">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/60c/122_91_1/60ca8a885b73e61a904ed3e34aa818f8.JPG" alt="ГАЗ 3102 «Волга» 2.3i (150Hp) 2008г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/ae7/960_700_1/ae72bc44678698a5da73f0b0bc74a007.JPG" data-lightbox="example-set_81">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/ae7/122_91_1/ae72bc44678698a5da73f0b0bc74a007.JPG" alt="ГАЗ 3102 «Волга» 2.3i (150Hp) 2008г.в." title="заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/79c/960_700_1/79c26af4f3171ecfbe2e9086d65f77bf.JPG" data-lightbox="example-set_81">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/79c/122_91_1/79c26af4f3171ecfbe2e9086d65f77bf.JPG" alt="ГАЗ 3102 «Волга» 2.3i (150Hp) 2008г.в." title="цилиндрический баллон объемом 65л на сложно-составной раме вдоль заднего ряда сидений"/>
+                            </a></div>
+                    </div>
+<div class="work-item УАЗ" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/c/9/1/7/6aa0b077d13d9a308993ee69ef1b.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>УАЗ 3741 Буханка 2.7i 2013г.в.</h2>
+                                УАЗ 3741 Буханка 2.7i 2013г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в марте 2013г.<br>
+1. Модель автомобиля: УАЗ 3741 Буханка<br>
+2. двигатель: рядный, бензиновый, инжекторный, 4-цилиндровый, рабочий объем 2.7л, мощность 128 л.с.<br>
+3. год выпуска:  2013<br>
+4. рекомендованное оборудование для установки: BRC Seq24 KitVale<br>
+5. альтернативное оборудование для установки: нет<br>
+6. рекомендованный баллон: тороидальный баллон объемом 95л вместо запасного клеса<br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 150л в багажном отсеке.<br>
+8. установка внешнего заправочного устройства: <br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: автомобиль вполне непростой и  долгий. чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами. 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/f57/960_700_1/f571efd672c81abb36d5cbdf7496abc0.JPG" data-lightbox="example-set_82">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/f57/122_91_1/f571efd672c81abb36d5cbdf7496abc0.JPG" alt="УАЗ 3741 Буханка 2.7i 2013г.в." title="УАЗ 3741 Буханка 2.7i 2013г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в марте 2013г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/c84/960_700_1/c8471a747cb03ad217350ad96cfbc7aa.JPG" data-lightbox="example-set_82">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/c84/122_91_1/c8471a747cb03ad217350ad96cfbc7aa.JPG" alt="УАЗ 3741 Буханка 2.7i 2013г.в." title="моторный отсек."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/3a5/960_700_1/3a5f41cf52c0453edbcdd4bce8f628ad.JPG" data-lightbox="example-set_82">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/3a5/122_91_1/3a5f41cf52c0453edbcdd4bce8f628ad.JPG" alt="УАЗ 3741 Буханка 2.7i 2013г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/c3d/960_700_1/c3d90bcd6136f220b4c0536ff6d5d788.JPG" data-lightbox="example-set_82">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/c3d/122_91_1/c3d90bcd6136f220b4c0536ff6d5d788.JPG" alt="УАЗ 3741 Буханка 2.7i 2013г.в." title="баллоо объемом 95л вместо запасного колеса"/>
+                            </a></div>
+                    </div>
+<div class="work-item УАЗ" ><div class="col-md-4">
+                                 <img class="img-responsive" src="http://www.gazunas.ru/bitrix/tmp/wo/img/scale/4/5/b/5/abb1fe324f94b016327955030b45.jpg" alt="">
+                         </div><div class="col-md-8 work-slides">
+                                <h2>УАЗ Hunter 2.7i (128Hp) 2015г.в.</h2>
+                                УАЗ Hunter 2.7i (128Hp) 2015г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в мае 2016г.<br>
+1. Модель автомобиля: УАЗ Hunter<br>
+2. двигатель: рядный, бензиновый, 4-цилиндровый, рабочий объем 2.7л, мощность 128 л.с.<br>
+3. годы выпуска: с 2003 по наши дни<br>
+4. рекомендованное оборудование для установки: BRC<br>
+5. альтернативное оборудование для установки: Lovato, Digitronic, Alpha<br>
+6. рекомендованный баллон: два цилиндрических баллона по 50л на сложно-составных рамах над арками вдоль бортов с правой и левой стороны в багажном отделении                 <br>
+7. альтернативный вариант установки баллона: цилиндрический баллон объемом до 130л вдоль заднего ряда сидений в багажном отделении..<br>
+8. установка внешнего заправочного устройства: под лючок бензобака рядом с заливной горловиной.<br>
+9. показания датчика уровня выводятся на кнопку переключения режимов работы - газ\бензин<br>
+10. особенности установки: автомобиль вполне несложный. чтобы узнать подробности звоните или оставьте заявку - наш специалист свяжется с вами. 
+
+                                <div class="clearfix"></div><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/82c/960_700_1/82cfbe2384c1eabf90785ddb2e50c6b8.JPG" data-lightbox="example-set_83">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/82c/122_91_1/82cfbe2384c1eabf90785ddb2e50c6b8.JPG" alt="УАЗ Hunter 2.7i (128Hp) 2015г.в." title="УАЗ Hunter 2.7i (128Hp) 2015г.в. переоборудован для использования в качестве моторного топлива сжиженного нефтяного газа (пропан-бутан) с использованием системы - "BRC" в мае 2016г."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/3b9/960_700_1/3b9ccecca04927d8ca52c67faae6033a.JPG" data-lightbox="example-set_83">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/3b9/122_91_1/3b9ccecca04927d8ca52c67faae6033a.JPG" alt="УАЗ Hunter 2.7i (128Hp) 2015г.в." title="моторный отсек."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/4b3/960_700_1/4b319d186191da92c91b2b29bdd17794.JPG" data-lightbox="example-set_83">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/4b3/122_91_1/4b319d186191da92c91b2b29bdd17794.JPG" alt="УАЗ Hunter 2.7i (128Hp) 2015г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/37a/960_700_1/37abea1943293cdced045d9103ae857f.JPG" data-lightbox="example-set_83">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/37a/122_91_1/37abea1943293cdced045d9103ae857f.JPG" alt="УАЗ Hunter 2.7i (128Hp) 2015г.в." title="моторный отсек"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/f96/960_700_1/f960722d57542293fe447f509f31317b.JPG" data-lightbox="example-set_83">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/f96/122_91_1/f960722d57542293fe447f509f31317b.JPG" alt="УАЗ Hunter 2.7i (128Hp) 2015г.в." title="кнопка переключения режимов работы - газ\бензин с указателем уровня газа в баллоне."/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/53c/960_700_1/53ca9a280e733767b64dea2dae402d15.JPG" data-lightbox="example-set_83">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/53c/122_91_1/53ca9a280e733767b64dea2dae402d15.JPG" alt="УАЗ Hunter 2.7i (128Hp) 2015г.в." title="заправочное устройство поместилось в лючке бензобака"/>
+                            </a><a class="example-image-link" href="http://www.gazunas.ru/upload/resize_cache/iblock/f93/960_700_1/f93cd0d9cbbf3b312fc45a7b60bd9075.JPG" data-lightbox="example-set_83">
+                                <img class="example-image" src="http://www.gazunas.ru/upload/resize_cache/iblock/f93/122_91_1/f93cd0d9cbbf3b312fc45a7b60bd9075.JPG" alt="УАЗ Hunter 2.7i (128Hp) 2015г.в." title="цилиндрический баллон объемом 65л на сложно-составной раме вдоль заднего ряда сидений"/>
                             </a></div>
                     </div>

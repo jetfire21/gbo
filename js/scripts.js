@@ -35,15 +35,15 @@
       // autoPlay:4000
     });
 
-  jQuery("#owl-demo").owlCarousel({
-      autoPlay: 3000, //Set AutoPlay to 3 seconds
-      items : 3,
-      itemsDesktop : [1199,3],
-      itemsDesktopSmall : [979,2],
-      navigation:true,
-       navigationText: ["",""],
-       pagination: false,
-  });
+  // jQuery("#owl-demo").owlCarousel({
+  //     autoPlay: 3000, //Set AutoPlay to 3 seconds
+  //     items : 3,
+  //     itemsDesktop : [1199,3],
+  //     itemsDesktopSmall : [979,2],
+  //     navigation:true,
+  //      navigationText: ["",""],
+  //      pagination: false,
+  // });
 
     $('#form_call_back').submit(function(e){
       e.preventDefault();
@@ -58,8 +58,10 @@
       function ValidPhone(obj) {
 
         // 8 (999) 123-45-64 или 8(999)123-45-64 или 8 (999)123-45-64
-          var re = /^[\d]{1} ?\([\d]{2,3}\) ?[\d]{2,3}-[\d]{2,3}-[\d]{2,3}$/;
+          // var re = /^[\d]{1} ?\([\d]{2,3}\) ?[\d]{2,3}-[\d]{2,3}-[\d]{2,3}$/;
           // var re = /^[\d]{1}\ \([\d]{2,3}\)\ [\d]{2,3}-[\d]{2,3}-[\d]{2,3}$/;
+          // 8 (999) 111-12-12w или 8 (999) 111-12-12фч то есть проверяет есть ли латиница или русские буквы
+          var re = /[а-яА-ЯёЁa-zA-Z]+/;
           var Phone = obj.find(".phone input").val();
           // var Phone = obj.find("input[name='phone']").val();
           var valid = re.test(Phone);
@@ -71,8 +73,8 @@
       // console.log(form_data);
       obj.find(".phone .js-validation").remove();
       obj.find(".name .js-validation").remove();
-      if( !ValidPhone(obj)){
-        obj.find(".phone").append( '<p class="js-validation">Номер телефона введен неправильно! Должен быть в формате: 8 (999) 999-99-99<p>');
+      if( ValidPhone(obj)){
+        obj.find(".phone").append( '<p class="js-validation">Номер телефона введен неправильно! Должен быть в формате: 8 (999) 999 99 99 или 99 99 99<p>');
         return false;
       }
        $.ajax({

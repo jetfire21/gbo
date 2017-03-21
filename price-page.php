@@ -61,7 +61,7 @@
 					<div class="price_backfround_img">
 						<div class="price_backfround_txt_left">Установка гбо 4-го поколения (6 цилиндров)</div>
 						<div class="price_backfround_txt_right">
-							от 36.000 P
+							<span>от 36.000 P</span>
 							<a href="#anchor_proposal" name="modal" class="btn float-button-light2 page-price a21_btn_blink2">Оставить заявку</a>
 						</div>
 					</div>
@@ -90,7 +90,7 @@
 					<div class="price_backfround_img">
 						<div class="price_backfround_txt_left">Установка гбо 4-го поколения (8 цилиндров)</div>
 						<div class="price_backfround_txt_right">
-						от 40.000 P
+						<span>от 40.000 P</span>
 			 			<a href="#anchor_proposal" name="modal" class="btn float-button-light2 page-price a21_btn_blink3">Оставить заявку</a>
 						</div>
 					</div>
@@ -119,7 +119,7 @@
 					<div class="price_backfround_img">
 						<div class="price_backfround_txt_left">Установка гбо 4-го поколения</div>
 						<div class="price_backfround_txt_right">
-						от 24.000 P
+						<span>от 24.000 P</span>
 			 			<a href="#anchor_proposal" name="modal" class="btn float-button-light2 page-price a21_btn_blink4">Оставить заявку</a>
 						</div>
 					</div>

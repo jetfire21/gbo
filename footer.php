@@ -192,7 +192,7 @@
 				  	 Waves.ripple('.a21_btn_blink3', options);
 				  	 Waves.ripple('.a21_btn_home_blink', options);
 				  	 Waves.ripple('.a21_btn_home_blink2', options);
-				  	 console.log('blink 1');
+				  	 // console.log('blink 1');
 				  }, 1500);			  
 				}
 
@@ -201,7 +201,7 @@
 				  	 Waves.ripple('.a21_btn_blink2', options2);
 				  	 Waves.ripple('.a21_btn_blink4', options2);
 				  	 // Waves.ripple('.a21_btn_home_call_blink', options2);
-				  	 console.log('blink 2');
+				  	 // console.log('blink 2');
 				  }, 2600);			  
 				}
 
@@ -225,11 +225,14 @@
 			function ValidPhone(obj) {
 
 				// 8 (999) 999-99-99 или 8(999)123-45-64 или 8 (999)123-45-64
-			    var re = /^[\d]{1} ?\([\d]{2,3}\) ?[\d]{2,3}-[\d]{2,3}-[\d]{2,3}$/;
+			    // var re = /^[\d]{1} ?\([\d]{2,3}\) ?[\d]{2,3}-[\d]{2,3}-[\d]{2,3}$/;
 			    // var re = /^[\d]{1}\ \([\d]{2,3}\)\ [\d]{2,3}-[\d]{2,3}-[\d]{2,3}$/;
+			    // 8 (999) 111-12-12w или 8 (999) 111-12-12фч то есть проверяет есть ли латиница или русские буквы
+			    var re = /[а-яА-ЯёЁa-zA-Z]+/;
 			    var Phone = obj.find(".phone input").val();
 			    // var Phone = obj.find("input[name='phone']").val();
 			    var valid = re.test(Phone);
+			    console.log(valid);
 			    return valid;
 			    // return Phone;
 			    // return output;
@@ -238,10 +241,11 @@
 			// console.log(form_data);
 			obj.find(".phone .js-validation").remove();
 			obj.find(".name .js-validation").remove();
-			if( !ValidPhone(obj)){
-				obj.find(".phone").append( '<p class="js-validation">Номер телефона введен неправильно! Должен быть в формате: 8 (999) 999-99-99<p>');
+			if( ValidPhone(obj)){
+				obj.find(".phone").append( '<p class="js-validation">Номер телефона введен неправильно! Должен быть в формате: 8 (999) 999 99 99 или 99 99 99<p>');
 				return false;
 			}
+			// return false;
 			 $.ajax({
 				  type: 'post',
          		   url: path_theme+'/mail.php',

@@ -59,5 +59,5 @@ get_header(); ?>
  <div class="clear"></div>
 
 </div>
-
+</div>
 <?php get_footer(); ?>

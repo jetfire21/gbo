@@ -22,8 +22,10 @@
     	 <div class="item">
     		 <div class="wrapper">
 	    	 	<div class="home-slider-texts">
-					<h2>Установка газобаллонного оборудования в Чебоксарах с гарантией до 5 лет</h2>
-					<p>Экономия на топливе до 50% установка за один день</p>
+					<h2>Установка газобаллонного оборудования в Чебоксарах</h2>
+					<p>Экономия на топливе до 50%<br>
+					Гарантия до 5 лет<br>
+					установка за один день</p>
 					 <a href="#anchor_get_consult" name="modal" class="btn float-button-light2 a21_btn_home_blink">Получить консультацию</a>
 				 </div>
 			 </div>
@@ -174,17 +176,17 @@
 <div class="price_on_install">
 	<div class="page_middle">
 		<h2>Цены на установку ГБО</h2>
-		<div class="col-md-4">
+		<div class="col-md-4 col-sm-4">
 		<h3>4 цилиндра</h3>
 		<img src="<?php echo get_template_directory_uri();?>/img/alex/opel-4-c.png" alt="">
 		<p>от 22 000 р</p>
 		</div>
-		<div class="col-md-4">
+		<div class="col-md-4 col-sm-4">
 		<h3>6 цилиндров</h3>
 		<img src="<?php echo get_template_directory_uri();?>/img/alex/audi-6-c.png" alt="">
 		<p>от 36 000 р</p>			
 		</div>
-		<div class="col-md-4">
+		<div class="col-md-4 col-sm-4">
 		<h3>8 цилиндров</h3>
 		<img src="<?php echo get_template_directory_uri();?>/img/alex/toyota-8-c.png" alt="">
 		<p>от 40 000 р</p>			
