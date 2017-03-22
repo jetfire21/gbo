@@ -109,7 +109,8 @@
 <div id="back_modal"></div>
 </div>
 
-<?php if( is_front_page() || is_page('prajs-list')):?>
+<?php // if( is_front_page() || is_page('prajs-list')):?>
+<?php if( is_front_page() || is_page('uslugi-i-cenyw')):?>
 
 	        <div id="boxes">
             <div id="anchor_get_consult" class="window">

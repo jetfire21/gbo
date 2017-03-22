@@ -4,9 +4,7 @@
     <meta charset="UTF-8"/>
 	 <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width"> 
 	<link rel="shortcut icon" href="/favicon.ico">
-    <title>Установка ГБО в Чувашии газобаллонное оборудование &quot;Газовик&quot;! </title>
-    <meta name="keywords" content="установка гбо, гбо, ремонт гбо,диагностика,установка гбо 4 поколения">
-<meta name="description" content="В Установочном центре ГБО &quot;Газ Авто Профи&quot; в Самаре  Вы можете установить газобаллонное оборудование(ГБО) 4го поколения!">
+  <title><?php wp_title("-",true); ?></title>
 <!-- <script type="text/javascript" src="<?php echo get_template_directory_uri();?>/js/jquery-1.12.4.min.js"></script> -->
 <link href="<?php echo get_template_directory_uri();?>/css/home.css" rel="stylesheet">
 <!-- <link h<?php echo get_template_directory_uri();?>ref="/css/owl.carousel.css" rel="stylesheet"> -->
@@ -21,7 +19,7 @@
     <!--[if lt IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-<?php wp_head(); ?>
+      <?php wp_head(); ?>
 <script>var path_theme='<?php echo get_template_directory_uri()?>';</script>
 </head>
 <body>  
