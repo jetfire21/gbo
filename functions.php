@@ -143,8 +143,12 @@ function alex21_add_html_for_option()
 
 
 
-add_action("init","a21_test",999);
+// add_action("init","a21_test",999);
+// add_action("wp_head","a21_test",999);
+
 function a21_test(){
+echo "curl";
+if(is_home() || is_front_page()){
 
 /* парсинг сайта с простой авторизацией,скрипт эмулиреут браузер,отрпвляет все заголовки:язык,юзер агент и т.д
 работает на:
@@ -163,6 +167,7 @@ $url = "http://rg.dev/parser/parser_works.php";
 //замеряем время начала работы скрипта
 $st_time =  microtime(true);
 
+echo "1111111";
 function get_result($url){
 
     $ch = curl_init();
@@ -242,13 +247,14 @@ function parser($domen, $url, $p1_count, $count_cars_brand){
              // получаем имя класса родителя...work-item bmw
              $class_parent = $wrap_car_item->attr("class");
              $brand = explode(" ", $class_parent);
+             $brand[1] = strtolower(translit($brand[1]));
              // echo $brand[1];
              echo "<br>";
              // echo $wpdb->prefix;
 
              // если нечетное число то есть 1,3
              echo "нечет ".$p1 % $count_cars_brand;
-             if($p1 % $count_cars_brand != 0){
+             // if($p1 % $count_cars_brand != 0){
 
                     echo "p1- ".$p1; echo "<br>";
                      $brand_slug = $wpdb->get_var( "SELECT slug FROM `{$wpdb->prefix}terms` WHERE slug='{$brand[1]}'");
@@ -276,7 +282,7 @@ function parser($domen, $url, $p1_count, $count_cars_brand){
 
                     if( is_null($has_term_id )) $wpdb->query($insert_cat);
                     echo "<hr>";
-             }
+             // }
 
               $big_img_url = $wrap_car_item->find(".img-responsive")->attr("src");
               $desc = $wrap_car_item->find("p");
@@ -311,11 +317,12 @@ function parser($domen, $url, $p1_count, $count_cars_brand){
 
             // echo $content = mysql_real_escape_string($content);
 
-            // проблема дублирования 100 постов связана с html content,а именно с " и '
+            // проблема дублирования 100 постов связана с html content,а именно с " и ' страница обновляется через какое то время!
 
-           $insert_post = "INSERT INTO $wpdb->posts (`post_author`, `post_content`, `post_title`, `post_name`, `post_type`,`guid`) VALUES 
-           ('2', '{$content}', '{$title}','{$title_url}', 'post','{$last_post_id}')";
-           $wpdb->query($insert_post);
+           $insert_post = "INSERT INTO $wpdb->posts (`post_author`, `post_content`, `post_title`, `post_name`, `post_type`,`guid`,`ping_status`) VALUES 
+           ('2', '{$content}', '{$title}','{$title_url}', 'post','{$last_post_id}','closed')";
+           if(!empty($content)) $wpdb->query($insert_post);
+           echo $insert_post;
             /* 
             $insert_post = $wpdb->prepare("INSERT INTO $wpdb->posts (`ID`,`post_author`, `post_date`, `post_date_gmt`, `post_content`, `post_title`, `post_excerpt`, `post_status`, `comment_status`, `ping_status`, `post_password`, `post_name`, `to_ping`, `pinged`, `post_modified`, `post_modified_gmt`, `post_content_filtered`, `post_parent`, `guid`, `menu_order`, `post_type`, `post_mime_type`, `comment_count`) VALUES (%d,'2', '2017-03-22 12:07:36', '2017-03-22 09:07:36', %s, %s, '', 'publish', 'open', 'open', '', %s, '', '', '2017-03-22 12:07:36', '2017-03-22 09:07:36', '', '0', %s, '0', 'post', '', '0')",$last_post_id,$content,$title,$title_url,"http://{$_SERVER['HTTP_HOST']}/?p={$last_post_id}");
             */
@@ -355,8 +362,9 @@ function parser($domen, $url, $p1_count, $count_cars_brand){
             // var_dump($l_id);
             // echo "<br>";
             // $last_term_taxon_id = $wpdb->get_var( "SELECT MAX(`term_taxonomy_id`) FROM `{$wpdb->prefix}term_taxonomy`");
-             echo $insert_relation = "INSERT INTO `{$wpdb->prefix}term_relationships` (`object_id`, `term_taxonomy_id`, `term_order`) VALUES ('{$last_post_id}', '{$taxon_id}', '0')";
+             $insert_relation = "INSERT INTO `{$wpdb->prefix}term_relationships` (`object_id`, `term_taxonomy_id`, `term_order`) VALUES ('{$last_post_id}', '{$taxon_id}', '0')";
             $wpdb->query($insert_relation);
+            echo $insert_relation;
 
             // echo $insert_relation;
 
@@ -370,15 +378,19 @@ function parser($domen, $url, $p1_count, $count_cars_brand){
 
     } // endforeach 
 global $wpdb;
-// echo "<pre>";
-// print_r($wpdb->queries);
-// echo "</pre>";
+echo "<pre>";
+print_r($wpdb->queries);
+echo "</pre>";
 
 
 }
 
-parser($domen, $url,5, 2); // 25 + 17 = 42 = 85 (брендов всего-41)
+// parser($domen, $url,11, 2); 
+// на 11-все корректно
+parser($domen, $url,85, 2); // время выпол 16 сек
+// 25 + 17 = 42 = 85 (брендов всего-41) машину great wall  удалил
 // parser($domen, $url, 7, 2);
+// проблема начинается с ситроена нет связи с chrysler потому что там всего 1 машина
 
 // всего на сайте 49 марок
 // parser($domen, $url, 6, 3);    Время выполнения 22s  (это 5 брендов по 2 машины)
@@ -424,14 +436,16 @@ function list_hooked_functions($tag=false){
 /* ****** показывает все хуки и все функции вызванные в них ********** */
 
 exit;
+} // end if is_front_page()
 }
 
 
 
-
-// add_action("wp_head","a21_ajax_output");
+add_action("wp_head","a21_ajax_output");
 
 function a21_ajax_output(){
+
+    if(is_home() || is_front_page()) echo "home-fornt page";
 
     function a21_ajax_output_2($slug = 'audi'){
         ?>
@@ -471,7 +485,10 @@ function a21_ajax_output(){
     }
     a21_ajax_output_2();
     a21_ajax_output_2("bmw");
+    a21_ajax_output_2("gaz");
     a21_ajax_output_2("vaz");
+    a21_ajax_output_2("uaz");
+    a21_ajax_output_2("land-rover");
     /*********************************/
 
     function a21_delete_rows_db(){
@@ -488,7 +505,7 @@ function a21_ajax_output(){
         echo '<br>';
     }
 
-    a21_delete_rows_db();
+    // a21_delete_rows_db();
 
     global $wpdb;
      // $last_id = $wpdb->query("INSERT INTO `{$wpdb->prefix}postmeta` (`post_id`,`meta_key`,`meta_value`) VALUES ('2000','a21_gal_big_stat_img','http://www.gazunas.ru/bitrix/tmp/wo/img/scale/1/1/0/8/71f4667b0f6a65bbc23302c3a8ca.jpg')");
