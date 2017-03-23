@@ -143,7 +143,7 @@ function alex21_add_html_for_option()
 
 
 
-// add_action("init","a21_test",999);
+add_action("init","a21_test",999);
 function a21_test(){
 
 /* парсинг сайта с простой авторизацией,скрипт эмулиреут браузер,отрпвляет все заголовки:язык,юзер агент и т.д
@@ -265,22 +265,27 @@ function parser($domen, $url, $p1_count, $count_cars_brand){
 
                     echo "<hr>";
                     $last_brand_id = $wpdb->get_var( "SELECT MAX(`term_id`) FROM `{$wpdb->prefix}terms`");
+                    $has_term_id = $wpdb->get_var( "SELECT term_id FROM `{$wpdb->prefix}term_taxonomy WHERE term_id='{$last_brand_id}'");
+                    echo "has_term_id ".$has_term_id;
+                    var_dump($has_term_id);
 
                     echo "brand_id= ".$last_brand_id;
                     echo "<br>";
                     $insert_cat = "INSERT INTO `{$wpdb->prefix}term_taxonomy` (`term_id`, `taxonomy`, `description`, `parent`, `count`) VALUES ('{$last_brand_id}', 'category', '', '3', '2')";
                     //  echo $insert_cat;
 
-                    $wpdb->query($insert_cat);
+                    if( is_null($has_term_id )) $wpdb->query($insert_cat);
                     echo "<hr>";
              }
 
+              $big_img_url = $wrap_car_item->find(".img-responsive")->attr("src");
               $desc = $wrap_car_item->find("p");
              $slider = $wrap_car_item->find(".a21_slider_item")->html();
              $title = $wrap_car_item->find("h2")->text();
              $title_url = strtolower(translit($title));
             $content = $desc.'<div class="a21_slider_item">'.$slider.'</div>';
               echo "<hr>";
+
            // echo $last_post_id = $wpdb->get_var( "SELECT MAX(`ID`) FROM {$wpdb->posts} WHERE post_type='post'");
 
             // ! может быть проблема в случае когда автоинкримент 1,2,3 next 10  а вернет 3
@@ -310,11 +315,14 @@ function parser($domen, $url, $p1_count, $count_cars_brand){
 
            $insert_post = "INSERT INTO $wpdb->posts (`post_author`, `post_content`, `post_title`, `post_name`, `post_type`,`guid`) VALUES 
            ('2', '{$content}', '{$title}','{$title_url}', 'post','{$last_post_id}')";
+           $wpdb->query($insert_post);
             /* 
             $insert_post = $wpdb->prepare("INSERT INTO $wpdb->posts (`ID`,`post_author`, `post_date`, `post_date_gmt`, `post_content`, `post_title`, `post_excerpt`, `post_status`, `comment_status`, `ping_status`, `post_password`, `post_name`, `to_ping`, `pinged`, `post_modified`, `post_modified_gmt`, `post_content_filtered`, `post_parent`, `guid`, `menu_order`, `post_type`, `post_mime_type`, `comment_count`) VALUES (%d,'2', '2017-03-22 12:07:36', '2017-03-22 09:07:36', %s, %s, '', 'publish', 'open', 'open', '', %s, '', '', '2017-03-22 12:07:36', '2017-03-22 09:07:36', '', '0', %s, '0', 'post', '', '0')",$last_post_id,$content,$title,$title_url,"http://{$_SERVER['HTTP_HOST']}/?p={$last_post_id}");
             */
+            $post_id_for_img = $wpdb->insert_id;
+           $insert_big_img = "INSERT INTO `{$wpdb->prefix}postmeta` (`post_id`,`meta_key`,`meta_value`) VALUES ('{$post_id_for_img}','a21_gal_big_stat_img','{$big_img_url}')";
+           $wpdb->query($insert_big_img);
 
-            $wpdb->query($insert_post);
             echo "===<br>==запрос к базе- $p1 ==<br>";
              
              // echo $insert_post;
@@ -362,14 +370,14 @@ function parser($domen, $url, $p1_count, $count_cars_brand){
 
     } // endforeach 
 global $wpdb;
-echo "<pre>";
-print_r($wpdb->queries);
-echo "</pre>";
+// echo "<pre>";
+// print_r($wpdb->queries);
+// echo "</pre>";
 
 
 }
 
-parser($domen, $url, 7, 2);
+parser($domen, $url,5, 2); // 25 + 17 = 42 = 85 (брендов всего-41)
 // parser($domen, $url, 7, 2);
 
 // всего на сайте 49 марок
@@ -411,7 +419,7 @@ function list_hooked_functions($tag=false){
      echo '</pre>';
      return;
 }
-list_hooked_functions();
+// list_hooked_functions();
 
 /* ****** показывает все хуки и все функции вызванные в них ********** */
 
@@ -421,7 +429,7 @@ exit;
 
 
 
-add_action("wp_head","a21_ajax_output");
+// add_action("wp_head","a21_ajax_output");
 
 function a21_ajax_output(){
 
@@ -447,6 +455,12 @@ function a21_ajax_output(){
                 the_title();
                 echo "<hr>";
                 the_content();
+                // var_dump($post);
+                echo $post_id = get_the_ID();
+                global $wpdb;
+                $img_url = $wpdb->get_var("SELECT `meta_value` FROM {$wpdb->prefix}postmeta WHERE post_id='{$post_id}'");
+                echo "<img src='{$img_url}'>";
+                //$post->ID;
             }
         } else {
             echo "<p>Постов не найдено<p>";
@@ -457,6 +471,7 @@ function a21_ajax_output(){
     }
     a21_ajax_output_2();
     a21_ajax_output_2("bmw");
+    a21_ajax_output_2("vaz");
     /*********************************/
 
     function a21_delete_rows_db(){
@@ -465,6 +480,7 @@ function a21_ajax_output(){
         $wpdb->query("DELETE FROM {$wpdb->prefix}terms WHERE term_id>3");
         $wpdb->query("DELETE FROM {$wpdb->prefix}term_taxonomy WHERE term_taxonomy_id>3");
         $wpdb->query("DELETE FROM {$wpdb->prefix}term_relationships WHERE object_id>28");
+        $wpdb->query("DELETE FROM {$wpdb->prefix}postmeta WHERE meta_id>225");
         echo '<br>';
         echo "<b>last query:</b> ".$wpdb->last_query."<br>";
         echo "<b>last result:</b> "; print_r($wpdb->last_result);
@@ -472,10 +488,11 @@ function a21_ajax_output(){
         echo '<br>';
     }
 
-    // a21_delete_rows_db();
+    a21_delete_rows_db();
+
     global $wpdb;
-     $last_id = $wpdb->get_var("SELECT 'AUTO_INCREMENT' FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA='gbo' AND TABLE_NAME ='{$wpdb->posts}'");
-     echo "last_id = ".$last_id;
+     // $last_id = $wpdb->query("INSERT INTO `{$wpdb->prefix}postmeta` (`post_id`,`meta_key`,`meta_value`) VALUES ('2000','a21_gal_big_stat_img','http://www.gazunas.ru/bitrix/tmp/wo/img/scale/1/1/0/8/71f4667b0f6a65bbc23302c3a8ca.jpg')");
+     // echo "last_id = ".$last_id;
 
     exit;
 }
