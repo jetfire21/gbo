@@ -1604,6 +1604,9 @@ div.success_answer p {
 .block-credit h3{ font-size: 35px; color: #fff !important; margin-top:0; padding: 0 40px;}
 
 #header .logo{ margin: 5px 5px 5px 0; }
+
+.error-404{ padding: 0 40px; min-height: 600px; }
+
 /*.bx-wrapper .bx-controls-direction a:nth-child(2)  { left:96.5%;   display: none !important;  }*/
 /*.bx-wrapper { max-width: 740px !important; margin-left: 20px;}*/
 /*#footer .logo img{width: 233px;}*/

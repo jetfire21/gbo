@@ -38,7 +38,7 @@
 		</div>
     </div>
 
-	<h3>Форма обратной связи</h3>
+<!-- 	<h3>Форма обратной связи</h3>
 	<div class="back_form_left">
     <form id="contact-form" action="/contacts" method="post" role="form">
 
@@ -86,7 +86,7 @@
     </div>
 </form>
 
-</div>
+ --></div>
 <!-- end back_form_left -->
     </div>
 <!-- end contacts-info -->
