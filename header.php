@@ -21,6 +21,10 @@
     <![endif]-->
       <?php wp_head(); ?>
 <script>var path_theme='<?php echo get_template_directory_uri()?>';</script>
+<link rel="icon" href="<?php echo get_template_directory_uri();?>/img/alex/gbo-icon.png" sizes="32x32" />
+<link rel="icon" href="<?php echo get_template_directory_uri();?>/img/alex/gbo-icon.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="<?php echo get_template_directory_uri();?>/img/alex/gbo-icon.png" />
+<meta name="msapplication-TileImage" content="<?php echo get_template_directory_uri();?>/img/alex/gbo-icon.png" />
 </head>
 <body>  
 

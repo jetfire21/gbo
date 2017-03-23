@@ -34,7 +34,8 @@
 
     <div class="back_form_right">
 		<div class="map">
-			<script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=q2O4EzeZqDbAtdHU87Kecx4v4K6CDfuX&width=100%&height=333"></script>
+			<!-- <script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=q2O4EzeZqDbAtdHU87Kecx4v4K6CDfuX&width=100%&height=333"></script> -->
+            <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A0e83736e835f3be022aad402d1a2d2986efaaee37723d787997c0510abf79579&amp;width=100%25&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
 		</div>
     </div>
 
@@ -91,8 +92,9 @@
     </div>
 <!-- end contacts-info -->
 <div class="clear"></div>
-<p><p>&nbsp; &nbsp;</p></p>
-
+<br>
+<br>
+<br>
  </div>
  <!-- end site-contact -->
  <div class="clear"></div>

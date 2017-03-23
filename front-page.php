@@ -179,7 +179,7 @@
 		<div class="col-md-4 col-sm-4">
 		<h3>4 цилиндра</h3>
 		<img src="<?php echo get_template_directory_uri();?>/img/alex/opel-4-c.png" alt="">
-		<p>от 22 000 р</p>
+		<p>от 23 000 р</p>
 		</div>
 		<div class="col-md-4 col-sm-4">
 		<h3>6 цилиндров</h3>

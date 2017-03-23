@@ -1664,7 +1664,7 @@ div.back_form_left {
 
 div.back_form_right {
 	display: inline-block;
-	padding-left: 20px;
+	padding-left: 0;
 	margin-top: 51px;
 	/*width: 63%;*/
 	width: 100%;

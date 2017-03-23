@@ -110,7 +110,7 @@
 </div>
 
 <?php // if( is_front_page() || is_page('prajs-list')):?>
-<?php if( is_front_page() || is_page('uslugi-i-cenyw')):?>
+<?php if( is_front_page() || is_page('uslugi-i-ceny')):?>
 
 	        <div id="boxes">
             <div id="anchor_get_consult" class="window">

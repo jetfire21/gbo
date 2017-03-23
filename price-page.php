@@ -30,7 +30,7 @@
 					<div class="price_backfround_img">
 						<div class="price_backfround_txt_left">Установка гбо 4-го поколения (4 цилиндра)</div>
 						<div class="price_backfround_txt_right">
-						<span>от 22.000 P</span>
+						<span>от 23.000 P</span>
 						<a href="#anchor_proposal" name="modal" class="btn float-button-light2 page-price a21_btn_blink">Оставить заявку</a>
 						</div>
 					</div>
