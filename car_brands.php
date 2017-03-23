@@ -103,7 +103,7 @@
                          <div class="title"><p>Geely</p></div>
                     </div>
                 </div>
-<div class="categoryInner" data-brand="great wall">
+<div class="categoryInner" data-brand="great-wall">
                     <a href="#">
                         <img src="<?php echo get_template_directory_uri();?>/img/brands/brand_great wall.jpg" alt="great wall">
                    </a>
@@ -303,7 +303,7 @@
                          <div class="title"><p>Volvo</p></div>
                     </div>
                 </div>
-<div class="categoryInner" data-brand="Газ">
+<div class="categoryInner" data-brand="gaz">
                     <a href="#">
                         <img src="<?php echo get_template_directory_uri();?>/img/brands/brand_gaz.png" alt="газ">
                    </a>
@@ -311,7 +311,7 @@
                          <div class="title"><p>ГАЗ</p></div>
                     </div>
                 </div>
-<div class="categoryInner" data-brand="Ваз">
+<div class="categoryInner" data-brand="vaz">
                     <a href="#">
                         <img src="<?php echo get_template_directory_uri();?>/img/brands/brand_vaz.png" alt="ваз">
                    </a>
@@ -319,7 +319,7 @@
                          <div class="title"><p>Ваз</p></div>
                     </div>
                 </div>
-<div class="categoryInner" data-brand="УАЗ">
+<div class="categoryInner" data-brand="uaz">
                     <a href="#">
                         <img src="<?php echo get_template_directory_uri();?>/img/brands/brand_uaz.jpg" alt="уаз">
                    </a>
@@ -327,3 +327,12 @@
                          <div class="title"><p>УАЗ</p></div>
                     </div>
                 </div>
+<!-- <div class="categoryInner" data-brand="">
+                    <a href="#">
+                        <img src="<?php echo get_template_directory_uri();?>/img/brands/brand_uaz.jpg" alt="уаз">
+                   </a>
+                    <div class="read">
+                         <div class="title"><p>пустое</p></div>
+                    </div>
+                </div>
+ -->

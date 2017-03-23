@@ -2,16 +2,60 @@
 
 	// alex code
 
-    jQuery(".categoryInner").click( function(e){
-    	e.preventDefault();
-    	var brand = jQuery(this).attr("data-brand");
-    	console.log(brand);
-    	// if(brand == "bmv"){ jQuery(".audi").hide(); jQuery(".ford").hide(); jQuery(".bmv").show(); }
-    	// if(brand == "audi"){ jQuery(".bmv").hide(); jQuery("ford").hide(); jQuery(".audi").show();}
-    	// if(brand == "ford"){ jQuery(".bmv").hide(); jQuery(".audi").hide(); jQuery(".ford").show();}
-    	jQuery(".work-item").hide();
-    	jQuery("."+brand).show();
+    // jQuery(".categoryInner").click( function(e){
+    // 	e.preventDefault();
+    // 	var brand = jQuery(this).attr("data-brand");
+    // 	console.log(brand);
+    // 	// if(brand == "bmv"){ jQuery(".audi").hide(); jQuery(".ford").hide(); jQuery(".bmv").show(); }
+    // 	// if(brand == "audi"){ jQuery(".bmv").hide(); jQuery("ford").hide(); jQuery(".audi").show();}
+    // 	// if(brand == "ford"){ jQuery(".bmv").hide(); jQuery(".audi").hide(); jQuery(".ford").show();}
+    // 	jQuery(".work-item").hide();
+    // 	jQuery("."+brand).show();
       
+    //     // var scroll = (jQuery('#item-nav').offset().top)-110;
+    //     // var height_brands = jQuery(".categoriesContainer").height();
+    //     var scroll = (jQuery('#works-anchor-car').offset().top)-110;
+    //     // jQuery(document.body).scrollTop(scroll);
+    //       jQuery(document.body).scrollTop(scroll);
+    //       // jQuery(document.body).scrollTop(700);
+    //         // window.scrollTo(0,1000);
+    //     console.log("width groups: "+scroll);
+    //     // console.log("width groups: "+h);
+
+    // });
+
+  jQuery(".categoryInner").click( function(e){
+
+      e.preventDefault();
+      var brand = jQuery(this).attr("data-brand");
+      console.log(brand);
+      jQuery(".work-item").hide();
+      // jQuery("."+brand).show();
+
+        var data = {
+          'action': 'a21_get_gal_cars',
+          // 'query': true_posts,
+          'brand' : brand,
+          'nonce' : a21_myajax.gal_nonce
+        };
+
+        $.ajax({
+          url:a21_myajax.url, // обработчик
+          data:data, // данные
+          type:'POST', // тип запроса
+          success:function(data){
+              // console.log("ajax yes!");
+              // console.log(data);
+              // console.log(typeof data);
+              if( data && data != "" && data != " ") { 
+                jQuery(".work-item,.works-wrap p").hide();
+                 jQuery(".works-wrap").append(data);
+              } else {
+                  jQuery(".works-wrap").append("<p>Для данной категории материалов нет!</p>");
+              }
+            }
+         })
+          
         // var scroll = (jQuery('#item-nav').offset().top)-110;
         // var height_brands = jQuery(".categoriesContainer").height();
         var scroll = (jQuery('#works-anchor-car').offset().top)-110;
@@ -23,6 +67,7 @@
         // console.log("width groups: "+h);
 
     });
+
 
     jQuery("#owl-home-slider").owlCarousel({
 

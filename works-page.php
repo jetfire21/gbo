@@ -85,7 +85,53 @@
 	</div>
  -->    
  <div id="works-anchor-car"></div>
-<?php require_once('parser_works.php'); ?>
+<?php //require_once('parser_works.php'); ?>
+
+<?php
+    function a21_ajax_output_2($slug = 'audi'){
+        ?>
+        <?php
+        // $slug = "bmw";
+        $cat_id = get_cat_ID( $slug );
+
+        $args = array(
+            'posts_per_page' => 2,
+            'cat' => $cat_id,
+        );
+
+        $query = new WP_Query( $args );
+
+        if ( $query->have_posts() ) {
+            while ( $query->have_posts() ) {
+                $query->the_post();
+				$post_id = get_the_ID();
+				global $wpdb;
+				$img_url = $wpdb->get_var("SELECT `meta_value` FROM {$wpdb->prefix}postmeta WHERE post_id='{$post_id}'");
+
+                $html = '<div class="work-item '.$slug.'" >
+                		<div class="col-md-4"><img class="img-responsive" src="'.$img_url.'" alt=""></div>
+	                	<div class="col-md-8 work-slides">
+	                			<h2>'.get_the_title().'</h2>'.
+				                get_the_content().'
+		                </div>
+		                </div>';
+				echo $html;
+
+                // echo json_encode($html);
+
+               // echo "<hr>$i"; $i++;
+            }
+        } else {
+            echo "<p>Постов не найдено<p>";
+        }
+        /* Возвращаем оригинальные данные поста. Сбрасываем $post. */
+        wp_reset_postdata();
+
+    }
+    a21_ajax_output_2();
+    a21_ajax_output_2('bmw');
+    a21_ajax_output_2('cadillac');
+?>
 </div> 
 <!-- end .works-wrap -->
 

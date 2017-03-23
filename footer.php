@@ -83,9 +83,9 @@
 </div>
 <!-- end footer -->
 <?php wp_footer(); ?>
-<script src="<?php echo get_template_directory_uri();?>/js/owl-carousel/owl.carousel.min.js"></script>
+<!--<script src="<?php echo get_template_directory_uri();?>/js/owl-carousel/owl.carousel.min.js"></script>-->
 <!-- <script src="<?php echo get_template_directory_uri();?>/js/bxslider/jquery.bxslider.min.js"></script> -->
-<script src="<?php echo get_template_directory_uri();?>/js/scripts.js"></script>
+<!--<script src="<?php echo get_template_directory_uri();?>/js/scripts.js"></script>-->
 
 <div id="boxes">
 <div id="anchor_call_back" class="window">
