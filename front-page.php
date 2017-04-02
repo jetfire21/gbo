@@ -71,7 +71,7 @@
 
 		    <h2 class="utp-header">Почему вам стоит работать с нами?</h2>
 
-			<a href="#" name="modal1">
+			<a href="#krug_ustanovka" name="modal">
 		    <div class="block-box first">
 		        <p>Круглосуточная установка - по<br>предварительной записи</p>
 		    </div>
@@ -99,7 +99,7 @@
 					<p>Бесплатная мойка автомобиля<br>перед установкой</p>	
 				</div>
 			</a>
-			<a href="/ustanovka-gbo-v-rassrochku/">
+			<a href="#">
 				<div class="block-box middle credit">
 					<p>Рассрочка 0% на 6 месяцев</p>	
 				</div>
@@ -207,13 +207,30 @@
 
 </div>
 <!-- end a-wrap-content -->       
+
 <div id="boxes">
     <div id="washing" class="window">
         <img src="<?php echo get_template_directory_uri();?>/img/washing_car.jpg">
         <a href="#" class="close">&#10005;</a>
     </div>
     <div id="back_modal"></div>
+</div>
+<div id="boxes" class="wrap_krug_ust">
+    <div id="krug_ustanovka" class="window">
+	<p>
+	Чтобы не оставлять вас без машины в течении дня, мы переводим автомобили на ГАЗ и ночью. 
+	Просто вы оставляете машину вечером и забираете её, готовую к утру.
+	</p>
+	<form method="post" action="" class="popup-payment-form clearfix" id="form-only-phone">
+				<h3>Записаться<br> на установку</h3>
+				<input type="text" placeholder="Введите ваш телефон..." name="phone" class="required" maxlength="16" autocomplete="off">
+				<input type="submit" value="Записаться" class="yellow-btn">
+	</form>
+	<a href="#" class="close">&#10005;</a>
+    </div>
+    <div id="back_modal"></div>
 </div    
+
 </div>
 <!-- end wrapmain -->
 

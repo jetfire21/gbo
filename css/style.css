@@ -1774,7 +1774,7 @@ div.col-lg-6 {
 		margin-top: 5px;
 	}
 }
-#back_modal, #presents, #washing, #calculate{
+#back_modal, #presents, #washing, #krug_ustanovka, #calculate{
     position:absolute;
     left:0;
     top:0;
@@ -1800,7 +1800,7 @@ div.col-lg-6 {
 #calculate {
 	width: 650px !important;
 }
-#washing{
+#washing, #krug_ustanovka{
 	width: 850px !important;
 }
 #washing img {
@@ -1847,7 +1847,7 @@ div.col-lg-6 {
 }
 
 @media screen and (max-width: 860px) {
-	#washing {
+	#washing, #krug_ustanovka {
 		width: 100% !important;
 	}
 }
@@ -1896,7 +1896,7 @@ div.col-lg-6 {
 	}
 }
 
-#order_form, #presents, #washing, #calculate, #anchor_proposal, #anchor_get_consult,#anchor_call_back{
+#order_form, #presents, #washing, #krug_ustanovka, #calculate, #anchor_proposal, #anchor_get_consult,#anchor_call_back{
     background-color:#ffffff;
 }
 

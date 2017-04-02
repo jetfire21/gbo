@@ -36,7 +36,8 @@
      	   <!-- <img src="/img/logo.png">-->
          <!-- <img src="<?php echo get_template_directory_uri();?>/img/alex/logo.png"> -->
          <!-- <img src="<?php echo get_template_directory_uri();?>/img/alex/logo-n4.png"> -->
-     	   <img src="<?php echo get_template_directory_uri();?>/img/alex/logo-n4del.png">
+         <!-- <img src="<?php echo get_template_directory_uri();?>/img/alex/logo-n4del.png"> -->
+     	   <img src="<?php echo get_template_directory_uri();?>/img/alex/logo-gazoved.png">
      	  </div>
         </a>
 		<div class="head_middle">

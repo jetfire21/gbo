@@ -114,6 +114,7 @@
           // return Phone;
           // return output;
       } 
+
       // console.log("valid "+ValidPhone( obj) );
       // console.log(form_data);
       obj.find(".phone .js-validation").remove();
@@ -141,6 +142,70 @@
         }
       }); 
     }); 
+
+
+
+    $('#form-only-phone').submit(function(e){
+      e.preventDefault();
+      var obj = $(this);
+      // console.log(obj.parent().parent().find("p.m_n").text());
+      // var name_form = obj.parent().parent().find("p.m_n").text();
+      // console.log("send form proposal");
+      var form_data = obj.serialize() + "&name_form=Записаться на установку";
+      // console.log(form_data);
+      // console.log($(this).html());
+
+      function lengthPhone(obj) {
+          var Phone = obj.find("input[name='phone']").val();
+          // console.log(Phone.length);
+          // console.log("valid= "+valid);
+          if(Phone.length < 17 && Phone.length > 5) return true;
+          else return false;
+      }
+      function ValidPhone(obj) {
+
+        // 8 (999) 123-45-64 или 8(999)123-45-64 или 8 (999)123-45-64
+          // var re = /^[\d]{1} ?\([\d]{2,3}\) ?[\d]{2,3}-[\d]{2,3}-[\d]{2,3}$/;
+          // var re = /^[\d]{1}\ \([\d]{2,3}\)\ [\d]{2,3}-[\d]{2,3}-[\d]{2,3}$/;
+          // 8 (999) 111-12-12w или 8 (999) 111-12-12фч то есть проверяет есть ли латиница или русские буквы
+          var re = /[а-яА-ЯёЁa-zA-Z]+/;
+          var Phone = obj.find("input[name='phone']").val();
+          // var Phone = obj.find("input[name='phone']").val();
+          valid = re.test(Phone);
+          return valid;
+          // return output;
+      } 
+      
+      // console.log("valid "+ValidPhone( obj) );
+      // console.log(form_data);
+      obj.find(".phone .js-validation").remove();
+      obj.find(".name .js-validation").remove();
+      if( ValidPhone(obj) || !lengthPhone(obj)){
+        // obj.find(".phone").append( '<p class="js-validation">Номер телефона введен неправильно! Должен быть в формате: 8 (999) 999 99 99 или 99 99 99<p>');
+        alert("Номер телефона введен неправильно! Должен быть в формате: 8 (999) 999 99 99 или 99 99 99");
+        return false;
+      }
+       $.ajax({
+          type: 'post',
+               url: path_theme+'/mail2.php',
+          data: form_data,
+          success: function(data){
+            var data = JSON.parse(data);
+          if(data.res == 'success') { 
+            alert("Ваше сообщение успешно отправлено!"); 
+            $(".window, #back_modal").hide();
+          }
+          if(data.res == 'error_empty') {
+            obj.find(".name").append( '<p class="js-validation">Поле не заполнено!<p>');
+          }
+          },
+          error:function(){
+          alert("error");
+        }
+      }); 
+    }); 
+
+
 
     /* ******** *********** */
         var config = {

@@ -1607,6 +1607,52 @@ div.success_answer p {
 
 .error-404{ padding: 0 40px; min-height: 600px; }
 
+#krug_ustanovka { padding: 0 !important; border-bottom: 0 !important;}
+#krug_ustanovka p { padding: 20px;}
+#boxes .popup-payment-form{
+    background: url(img/payment-popup-bg.jpg) 0 0 no-repeat;
+    height: 134px;
+}
+#boxes .popup-payment-form h3{
+    font: 20px GothamM, Arial,sans-serif;
+    text-transform: uppercase;
+    color: #fff;
+    float: left;
+    width: 200px;
+    margin: 39px 0 0 56px;
+    text-align: right;
+    line-height: 24px;
+}
+#boxes .popup-payment-form input[type=text]{
+    border: 2px solid #a5a5a5;
+    background-color: #fff;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    font: 14px Gotham, Arial,sans-serif;
+    padding: 0 14px;
+    width: 238px;
+    height: 43px;
+    float: left;
+    margin: 44px 0 0 66px;
+}
+#boxes .popup-payment-form .yellow-btn{
+    width: 226px;
+    height: 45px;
+    margin-top: 44px;
+    background: url(img/yellow-btn-226.png) 0 0 !important;
+    font: 13px GothamM, Arial,sans-serif;
+    padding-top: 1px;
+    margin-top: 24px;
+    float: left;
+    margin: 46px 0 0 50px !important;
+    color: #000 !important;
+    text-transform: uppercase;
+}
+#boxes .popup-payment-form .yellow-btn:hover{
+    background: url(img/yellow-btn-226.png) 0 -45px !important;
+}
+
 /*.bx-wrapper .bx-controls-direction a:nth-child(2)  { left:96.5%;   display: none !important;  }*/
 /*.bx-wrapper { max-width: 740px !important; margin-left: 20px;}*/
 /*#footer .logo img{width: 233px;}*/

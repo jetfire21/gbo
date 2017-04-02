@@ -48,10 +48,22 @@
 	            <a href="/">
 	            	<!-- <div class="logo"><img src="<?php echo get_template_directory_uri();?>/img/alex/logo.png"></div> -->
 	            	<!-- <div class="logo"><img src="<?php echo get_template_directory_uri();?>/img/alex/logo-n4.png"></div> -->
-	            	<div class="logo"><img src="<?php echo get_template_directory_uri();?>/img/alex/logo-n4del.png"></div>
+	            	<!-- <div class="logo"><img src="<?php echo get_template_directory_uri();?>/img/alex/logo-n4del.png"></div> -->
+	            	<div class="logo"><img src="<?php echo get_template_directory_uri();?>/img/alex/logo-gazoved.png"></div>
 	            </a>
 	            <div class="text-footer">Качественная и надёжная установка
-	                                   ГБО <b>с Газовик</b>
+	                                   ГБО <b>с Газовед</b>
+				<!--LiveInternet counter--><script type="text/javascript">
+				document.write("<a href='//www.liveinternet.ru/click' "+
+				"target=_blank><img src='//counter.yadro.ru/hit?t45.6;r"+
+				escape(document.referrer)+((typeof(screen)=="undefined")?"":
+				";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+				screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+				";"+Math.random()+
+				"' alt='' title='LiveInternet' "+
+				"border='0' width='31' height='31'><\/a>")
+				</script><!--/LiveInternet-->
+
 	            </div>
 	                <div class="card-head">
 	                    <p>Мы принимаем:</p>
@@ -70,7 +82,7 @@
 		            </div>
 		        </div>
 		        <div class="metr">
-		            <div class="сopyr">© Газовик 2016</div>
+		            <div class="сopyr">© Газовед 2016</div>
 		        </div>
 		<!--         <div class="metr_neo">
 		            <div class="сopyr_neo">© <a target="_blank" href="http://neopulse.ru">Разработка сайта</a> NeoPulse</div>
